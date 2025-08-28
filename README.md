@@ -73,24 +73,8 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
 
 3. **Experiência do usuário (UX) e pesquisa de satisfação do cliente e opiniões:**
 
-4. **Preços e modelos de negócio:**
+4. **Padrões e tendências no mercado:**
 
-5. **Padrões e tendências no mercado:**
-
-**Referências:**
-
-3) **Análise de Concorrência BASEADO NOS SOFTWARES QUE O PÚBLICO ALVO USA**   
-6. **Principais softwares mais utilizados pelo seu público-alvo (link, descrição e imagens de ilustração). SOFTWARES que seu público mais utiliza no dia a dia, para fazer suas tarefas:**
-
-7. **Características e funcionalidades dos Softwares:**
-
-8. **Experiência do usuário (UX) e pesquisa de satisfação do cliente e opiniões:**
-
-9. **Preços e modelos de negócio:**
-
-10. **Padrões e tendências no mercado:**
-
-**Referências:**
 
 # **Entrega 3 (data) \[em andamento/concluído\]**
 
