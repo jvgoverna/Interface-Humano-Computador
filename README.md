@@ -16,27 +16,47 @@ Pedro Henrique Legra Kramer Costa R.A: 22.125.091-3 <br>
 
 **1\) Conhecendo o Problema** 
 
-1.1) Membros de Equipe (nome completo e número de matrícula):
+1.1) Membros de Equipe (nome completo e número de matrícula): <br>
+Felipe Orlando Lanzara R.A: <br>
+João Vitor Governatore R.A: 22.225.012-8 <br>
+Pedro Henrique Legra Kramer Costa R.A: 22.125.091-3 <br>
 
-1.2) Título Original do TCC:
 
-1.3) Nome do orientador:
+1.2) Título Original do TCC: <br> Aprendizado de máquina aplicado na construção de carteiras de investimento adaptadas ao perfil de investimento
 
-1.4) Previsto desenvolver Interface? (   ) Sim     (   ) Não
+1.3) Nome do orientador:<br> Profa. Dra. Gabriela Oliveira Biondi
 
-1.5) Objetivo do trabalho?
+1.4) Previsto desenvolver Interface? ( X ) Sim     (   ) Não
 
-1.6) Qual o produto final? 
+1.5) Objetivo do trabalho? <br> Desenvolver um sistema capaz de prever o comportamento futuro de ações na bolsa de valores utilizando modelos de redes neurais recorrentes do tipo LSTM, integrando os resultados a um questionário de suitability para adequar as recomendações de ativos ao perfil de investidor.
 
-1.7) Quem é o usuário final deste produto?
+1.6) Qual o produto final? <br> Uma página web interativa (InvestMind) com backend para comunicação com o banco de dados, treinamento apartado do machine learning, permitindo previsão de ações e recomendação personalizada de acordo com o perfil de risco.
 
-1.8) O que o usuário recebe de benefício ao usar esse produto? 
+1.7) Quem é o usuário final deste produto? <br> Investidores individuais, iniciantes ou experientes, que desejam suporte na análise de ações alinhada ao seu perfil de risco.
 
-1.9) Quais as funcionalidades da ferramenta (visão do usuário)?
+1.8) O que o usuário recebe de benefício ao usar esse produto? <br> 
+•	Previsões personalizadas de preços de ações com base em dados históricos e indicadores econômicos. <br>
+•	Recomendações de ativos alinhadas ao perfil de risco do investidor. <br>
+•	Interface amigável para consulta e acompanhamento de resultados. 
 
-1.10) Quais tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC)?
+1.9) Quais as funcionalidades da ferramenta (visão do usuário)? <br>
+•	Cadastro e login de usuário. <br>
+•	Questionário de perfil de investidor (suitability). <br>
+•	Exibição do perfil de risco e pontuação. <br>
+•	Consulta a previsões de preços para ativos selecionados. <br>
+•	Visualização de gráficos comparativos entre preços reais e previstos.<br>
+•	Histórico de previsões realizadas.
 
-1.11) Qual é o contexto de uso dessa aplicação? (esse já é um conceito de IHC que professor explicou na sala)
+1.10) Quais tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC)? <br> 
+•	Frontend: React.js, HTML5, CSS3, JavaScript. <br>
+•	Backend: Node.js, Express. <br>
+•	Banco de Dados: CockroachDB (compatível com PostgreSQL). <br>
+•	Machine Learning: Python, TensorFlow/Keras, Pandas, NumPy, Matplotlib. <br>
+•	Integração e APIs: Yahoo Finance, Banco Central do Brasil (SGS API). <br>
+•	Controle de versão: Git/GitHub.
+
+1.11) Qual é o contexto de uso dessa aplicação? (esse já é um conceito de IHC que professor explicou na sala) <br>
+O sistema será utilizado em ambiente web por investidores que buscam suporte para tomada de decisão no mercado de ações. O contexto envolve análise de dados financeiros, aplicação de modelos preditivos e adequação das recomendações ao perfil de risco, permitindo acesso tanto em computadores quanto em dispositivos móveis, priorizando clareza de informações e usabilidade na navegação.
 
 # **Entrega 2  (data) \[em andamento/concluído\]**
 
