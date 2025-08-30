@@ -61,7 +61,7 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
 
 **Dica: fator mais importante desta entrega é a equipe conseguir identificar e documentar prints de telas de interfaces concorrentes (ou interfaces representativas para o público alvo). Esses prints serão usados na fase de caracterização de padrões, affordances, heurísticas, etc.**
 
-1) **Público Alvo** <br> • Investidores jovens ou adultos que nunca investirão no mercado financeiro. <br> • Investidores que conhecem o básico de investimento e querem recomendações de aonde investir. <br>
+1) **Público Alvo** <br> • Investidores jovens ou adultos que nunca investirão no mercado financeiro. <br> • Investidores que conhecem o básico de investimento e querem recomendações de qual ação investir. <br>
 • Investidores que já conhecem a alta volatilidade e risco das ações.
 
 2) **Análise de Concorrência (quando identificado concorrência \- ATENÇÃO: CONCORRENTE NÃO É IDÊNTICO E SIM ATUANDO NA MESMA ÁREA)**  
