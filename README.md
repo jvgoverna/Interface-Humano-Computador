@@ -71,7 +71,7 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
 
 Plataforma digital de análise e monitoramento de ativos financeiros, que fornece indicadores e projeções sobre a tendência de crescimento das ações em diferentes horizontes temporais.
 
-![statusInvest](URL_da_Imagem)
+![statusInvest](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/StatusInvest.jpeg)
 
 • **Corretora Rico [https://www.rico.com.vc/]**
 
