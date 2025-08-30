@@ -68,7 +68,7 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
 **Principais concorrentes mais utilizados pelo seu público-alvo (link, descrição e imagens de ilustração):** <br>
 
 • **Outro site []**
-
+![Investidor 10](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Investidor10.jpeg)
 
 • **StatusInvest [https://statusinvest.com.br/]**
 
