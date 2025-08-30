@@ -67,14 +67,18 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
 2) **Análise de Concorrência (quando identificado concorrência \- ATENÇÃO: CONCORRENTE NÃO É IDÊNTICO E SIM ATUANDO NA MESMA ÁREA)**  
 **Principais concorrentes mais utilizados pelo seu público-alvo (link, descrição e imagens de ilustração):** <br>
 
+• **Outro site []**
+
+
 • **StatusInvest [https://statusinvest.com.br/]**
 
-Plataforma digital de análise e monitoramento de ativos financeiros, que fornece indicadores e projeções sobre a tendência de crescimento das ações em diferentes horizontes temporais.
+- Plataforma digital de análise e monitoramento de ativos financeiros, que fornece indicadores e projeções sobre a tendência de crescimento das ações em diferentes horizontes temporais.
 
-![statusInvest](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/StatusInvest.jpeg)
+- ![statusInvest](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/StatusInvest.jpeg)
 
 • **Corretora Rico [https://www.rico.com.vc/]**
-
+- Corretora digital que fornece uma plataforma de compra e venda de ativos financeiros e acompanhamento do portfólio de ativos do usuário
+  
 
 3) **Características e funcionalidades dos concorrentes:**
 
