@@ -76,11 +76,11 @@ Plataforma digital de análise e monitoramento de ativos financeiros, que fornec
 • **Corretora Rico [https://www.rico.com.vc/]**
 
 
-4) **Características e funcionalidades dos concorrentes:**
+3) **Características e funcionalidades dos concorrentes:**
 
-5) **Experiência do usuário (UX) e pesquisa de satisfação do cliente e opiniões:**
+4) **Experiência do usuário (UX) e pesquisa de satisfação do cliente e opiniões:**
 
-6) **Padrões e tendências no mercado:**
+5) **Padrões e tendências no mercado:**
 
 
 # **Entrega 3 (data) \[em andamento/concluído\]**
