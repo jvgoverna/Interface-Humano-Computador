@@ -65,13 +65,22 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
 • Investidores que já conhecem a alta volatilidade e risco das ações.
 
 2) **Análise de Concorrência (quando identificado concorrência \- ATENÇÃO: CONCORRENTE NÃO É IDÊNTICO E SIM ATUANDO NA MESMA ÁREA)**  
-1. **Principais concorrentes mais utilizados pelo seu público-alvo (link, descrição e imagens de ilustração):**
+**Principais concorrentes mais utilizados pelo seu público-alvo (link, descrição e imagens de ilustração):** <br>
 
-2. **Características e funcionalidades dos concorrentes:**
+• **StatusInvest [https://statusinvest.com.br/]**
 
-3. **Experiência do usuário (UX) e pesquisa de satisfação do cliente e opiniões:**
+Plataforma digital de análise e monitoramento de ativos financeiros, que fornece indicadores e projeções sobre a tendência de crescimento das ações em diferentes horizontes temporais.
 
-4. **Padrões e tendências no mercado:**
+![statusInvest](URL_da_Imagem)
+
+• **Corretora Rico [https://www.rico.com.vc/]**
+
+
+4) **Características e funcionalidades dos concorrentes:**
+
+5) **Experiência do usuário (UX) e pesquisa de satisfação do cliente e opiniões:**
+
+6) **Padrões e tendências no mercado:**
 
 
 # **Entrega 3 (data) \[em andamento/concluído\]**
