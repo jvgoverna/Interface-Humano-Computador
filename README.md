@@ -82,6 +82,23 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
 
 3) **Características e funcionalidades dos concorrentes:**
 
+**StatusInvest** <br>
+- **Características** <br>
+	- Foco em informações detalhadas sobre ativos da bolsa brasileira (ações, FIIs, ETFs, BDRs). <br>
+	- Possui gráficos interativos e dashboards personalizados. <br>
+- **Funcionalidades** <br>
+	- Criação de listas personalizadas de ativos financeiros, com a possibilidade de acompanhamento da ação ao longo de um horizonte temporal. <br>
+	- Acompanhamento em tempo real das cotações da B3. <br>
+ 
+ **Corretora Rico**
+ - **Características** <br>
+	- Plataforma voltada tanto para iniciantes quanto para investidores experientes. <br>
+	- Integração com produtos financeiros, permitindo compra e venda de ativos na própria corretora. <br>
+- **Funcionalidades** <br>
+	- Home broker para negociação de ações, FIIs, ETFs e derivativos. <br>
+	- Simuladores e ferramentas de planejamento de investimentos. <br>
+ 	- Acesso a fundos de investimento, renda fixa, previdência e produtos estruturados. <br>
+
 4) **Experiência do usuário (UX) e pesquisa de satisfação do cliente e opiniões:**
 
 5) **Padrões e tendências no mercado:**
