@@ -140,6 +140,7 @@ Após o preenchimento foi apresentado a João gráficos e dashboards com letras 
 
 Essas dificuldades geraram frustrações e insegurança, levando a João abandonar o uso da plataforma. Esse cenário revela falhas relacionadas à usabilidade e acessibilidade à plataforma. Podendo oferecer recursos como ajuste de tamanho de fonte e uma linguagem mais clara e apresentável para esses públicos.
 
+Para João, o mais importante não é acessar métricas complexas ou acompanhar gráficos avançados em tempo real, mas sim ter clareza e segurança sobre onde seu dinheiro pode ser aplicado. Ele valoriza informações apresentadas de forma simples, que deixem claro o nível de risco e o potencial de retorno de cada ação, sem a utilização de termos técnicos.
 
 
 **2\) Mapa de Empatia \[1 por equipe\]**
