@@ -113,7 +113,7 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
 
 5) **Padrões e tendências no mercado:**
 
-Atualmente, observa-se uma tendência no uso de aplicações móveis e web que oferecem uma interface de fácil uso e entendimento ao investidor. Além da utilização de diversos perguntas para a construção do questionário de suitability e identificar o perfil de investimento do usuário. Além da utilização de Inteligência artificial para ajudar a instruir o investidor, principalmente os inciantes na compra e venda de seus ativos financeiros.
+Atualmente, observa-se uma tendência no uso de aplicações móveis e web que oferecem uma interface de fácil uso e entendimento ao investidor. Além da utilização de diversos perguntas para a construção do questionário de suitability e identificar o perfil de investimento do usuário. Além da utilização de Inteligência artificial para ajudar a instruir o investidor, principalmente os iniciantes na compra e venda de seus ativos financeiros.
 
 # **Entrega 3 (data) \[em andamento/concluído\]**
 
