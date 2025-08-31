@@ -92,7 +92,7 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
  
  **Corretora Rico**
  - **Características** <br>
-	- Plataforma voltada tanto para iniciantes quanto para investidores experientes. <br>
+	- Plataforma voltada para iniciantes e investidores experientes. <br>
 	- Integração com produtos financeiros, permitindo compra e venda de ativos na própria corretora. <br>
 - **Funcionalidades** <br>
 	- Home broker para negociação de ações, FIIs, ETFs e derivativos. <br>
@@ -100,6 +100,16 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
  	- Acesso a fundos de investimento, renda fixa, previdência e produtos estruturados. <br>
 
 4) **Experiência do usuário (UX) e pesquisa de satisfação do cliente e opiniões:**
+
+**StatusInvest** <br>
+	- Dashboards de fácil acesso e entendimento sobre os ativos da bolsa brasileira. <br>
+ 	- Navegação intuitiva, porém o site apresenta informações em excesso, podendo gerar dúvidas e confusões de informações para usuários iniciantes. <br>
+
+**Corretora Rico**
+	- Navegação rápida, acessível a várias plataformas e com um design simplificado. <br>
+ 	- Execução de ordem de compra ou venda dos ativos com apenas um clique. <br>
+
+
 
 5) **Padrões e tendências no mercado:**
 
