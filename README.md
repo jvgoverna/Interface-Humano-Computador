@@ -122,6 +122,7 @@ Atualmente, observa-se uma tendência no uso de aplicações móveis e web que o
 
 # Persona Pedro
 Atores: Pedro 
+
 Pedro começou a investir no ano passado utilizando o software InvestMind, uma plataforma que recomenda ações com base na predição de preços futuros. Logo no início, ao criar sua conta, ele respondeu ao questionário de Suitability e foi classificado como um investidor agressivo, perfil que condizia com seu comportamento naquele momento. Com isso, o sistema passou a recomendar ativos de maior risco e alta volatilidade, compatíveis com essa classificação.
 
 Com o passar do tempo (1 ano), Pedro modificou seu comportamento de investimento. Ele passou a se interessar por ações mais estáveis, de menor risco e volatilidade, adotando assim uma postura mais conservadora. O problema é que o software não possuía qualquer mecanismo automático para identificar essa mudança de comportamento ou sugerir uma reavaliação do perfil. Dessa forma, as recomendações continuaram sendo voltadas a um investidor agressivo.
@@ -129,6 +130,17 @@ Com o passar do tempo (1 ano), Pedro modificou seu comportamento de investimento
 Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, seguiu aplicando seu dinheiro nos ativos sugeridos pela plataforma. Ao final do período planejado, constatou que havia sofrido perdas financeiras em razão da alta volatilidade das ações escolhidas. Apenas após esse prejuízo, ele verificou manualmente seu perfil no sistema, refez o questionário de Suitability e, então, foi corretamente reclassificado como conservador.
 
 Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.
+
+# Pesona João Vitor
+Atores: João Vitor
+
+João Vitor é um senhor com 65 anos de idade e está muito próximo de se aposentar. Ele passou muitos anos guardando dinheiro em sua poupança, e ouvindo rumores a respeito do mercado financeiro, mas especificamente em ações e em sua maior rentabilidade em comparação com uma poupança. Ao conhecer o InvestMind, criou sua conta e respondeu ao questionário de Suitability, sendo classificado como investidor conservador.
+
+Após o preenchimento foi apresentado a João gráficos e dashboards com letras muito pequenas, cores de fácil confusão, trazendo uma maior dificuldade para a interpretação dos dados mostrados em relação as ações recomendadas. Além disso na apresentação dos gráficos e dashboards foram exibidos termos técnicos e indicadores complexos, como volatilidade. O que pode gerar um conflito aos usuários iniciantes.
+
+Essas dificuldades geraram frustrações e insegurança, levando a João abandonar o uso da plataforma. Esse cenário revela falhas relacionadas à usabilidade e acessibilidade à plataforma. Podendo oferecer recursos como ajuste de tamanho de fonte e uma linguagem mais clara e apresentável para esses públicos.
+
+
 
 **2\) Mapa de Empatia \[1 por equipe\]**
 
