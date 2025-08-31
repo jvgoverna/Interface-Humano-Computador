@@ -105,7 +105,7 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
 	- Dashboards de fácil acesso e entendimento sobre os ativos da bolsa brasileira. <br>
  	- Navegação intuitiva, porém o site apresenta informações em excesso, podendo gerar dúvidas e confusões de informações para usuários iniciantes. <br>
 
-**Corretora Rico**
+**Corretora Rico** <br>
 	- Navegação rápida, acessível a várias plataformas e com um design simplificado. <br>
  	- Execução de ordem de compra ou venda dos ativos com apenas um clique. <br>
 
