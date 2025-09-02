@@ -198,7 +198,7 @@ Nome: João Vitor | Idade: 65 anos
 
  1. **Início da Interação com a Plataforma** <br>
 	- Usuário cria a sua conta e realiza loguin na plataforma.
- 	- Preenche o questionário de suitability disponibilizado pela plataforma.
+ 	- Preenchimento do questionário de suitability disponibilizado pela plataforma.
  2. **Recomendação das ações ao usuário alinhadas com seu perfil de investimento**
 	- 
  4. **Modificação do questionário**
