@@ -181,6 +181,18 @@ Nome: João Vitor | Idade: 65 anos
 ---
 
 **3\) Contexto de Uso \[1 por equipe\]**
+- **Ambiente:**
+	- Digital: Investidores jovens ou adultos acessam a plataforma dgitalmente através de um desktop ou dispositivo móvel.
+---
+- **Aspectos Sociais**
+	- Usuários podendo ser influenciados por amigos, familiares ou colegas de trabalho que também investem.
+ 	- Informações sobre investimentos compartilhadas em redes sociais ou grupos de amigos, podendo impactar o investidor na escolha das ações a serem investidas.
+  	- Usuários com maior experiência ou conhecimento financeiro tendem a lidar melhor com oscilações de mercado.
+  	- Usuários com perfil conservador podem se sentir ansiosos e evitar investimentos com uma alta volatilidade.
+---
+- **Contato com a Plataforma**
+	- Atendimento ao cliente em tempo real.
+---
 
 **4\) Jornada do Usuário \[1 por equipe\]**
 
