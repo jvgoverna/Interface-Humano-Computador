@@ -197,11 +197,16 @@ Nome: João Vitor | Idade: 65 anos
 **4\) Jornada do Usuário \[1 por equipe\]**
 
  1. **Início da Interação com a Plataforma** <br>
-	- Usuário cria a sua conta e realiza loguin na plataforma.
- 	- Preenchimento do questionário de suitability disponibilizado pela plataforma.
- 2. **Recomendação das ações ao usuário alinhadas com seu perfil de investimento**
-	- 
- 4. **Modificação do questionário**
+	- Usuário cria a sua conta e realiza login na plataforma.
+ 	- Após o login será necessário o preenchimento do questionário de suitability disponibilizado pela plataforma.
+
+ 2. **Recomendação das ações ao usuário alinhadas com seu perfil de investimento** <br>
+	- Após o preechimento do questionário o perfil do investidor do usuário será informado.
+ 	- A página será redirecionada para o perfil do usuário, onde será exibido um botão para visualizar as recomendações, que deverá ser clicado pelo usuário.
+  	- Ao clicar no botão, o usuário será redirecionado para a página de recomendações, que exibirá gráficos e dashboards com as melhores ações para investimento, para ele.
+ 	
+ 3. **Modificação do questionário**
+ 	- A qualquer momento, o usuário pode atualizar seu perfil clicando na opção do menu lateral para refazer o questionário..
 
 # **Entrega 4  (data) \[em andamento/concluído\]**
 
