@@ -131,10 +131,10 @@ Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, segu
 
 Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.
 
-# Pesona João Vitor
-Atores: João Vitor
+# Persona João Vitor
+Atores: João Vitor - "Clareza e simplicidade no investimento"
 
-João Vitor é um senhor com 65 anos de idade e está muito próximo de se aposentar. Ele passou muitos anos guardando dinheiro em sua poupança, e ouvindo rumores a respeito do mercado financeiro, mas especificamente em ações e em sua maior rentabilidade em comparação com uma poupança. Ao conhecer o InvestMind, criou sua conta e respondeu ao questionário de Suitability, sendo classificado como investidor conservador.
+João Vitor é um senhor com 65 anos de idade e está muito próximo de se aposentar. Ele passou muitos anos guardando dinheiro em sua poupança, e ouvindo rumores a respeito do mercado financeiro, especificamente em ações e em sua maior rentabilidade em comparação com uma poupança. Ao conhecer o InvestMind, criou sua conta e respondeu ao questionário de Suitability, sendo classificado como investidor conservador.
 
 Após o preenchimento foi apresentado a João gráficos e dashboards com letras muito pequenas, cores de fácil confusão, trazendo uma maior dificuldade para a interpretação dos dados mostrados em relação as ações recomendadas. Além disso na apresentação dos gráficos e dashboards foram exibidos termos técnicos e indicadores complexos, como volatilidade. O que pode gerar um conflito aos usuários iniciantes.
 
@@ -144,6 +144,33 @@ Para João, o mais importante não é acessar métricas complexas ou acompanhar 
 
 
 **2\) Mapa de Empatia \[1 por equipe\]**
+
+Nome: João Vitor | Idade: 65 anos
+
+
+- O que ve:
+
+---
+
+- O que ouve:
+
+---
+
+- O que pensa e sente:
+
+---
+
+- O que fala e faz:
+
+---
+
+- Dores (frustrações e obstáculos)
+  
+---
+
+- Necessidades
+
+---
 
 **3\) Contexto de Uso \[1 por equipe\]**
 
