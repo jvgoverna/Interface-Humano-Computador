@@ -196,9 +196,9 @@ Nome: João Vitor | Idade: 65 anos
 
 **4\) Jornada do Usuário \[1 por equipe\]**
 
- 1. **Início da Interação com a Plataforma**
- 2. **Preenchimento do questionário de suitability disponibilizado pela plataforma**
- 3. **Recomendação das ações ao usuário alinhadas com seu perfil de investimento**
+ 1. **Início da Interação com a Plataforma** <br>
+ 3. **Preenchimento do questionário de suitability disponibilizado pela plataforma**
+ 4. **Recomendação das ações ao usuário alinhadas com seu perfil de investimento**
  5. **Modificação do questionário**
 
 # **Entrega 4  (data) \[em andamento/concluído\]**
