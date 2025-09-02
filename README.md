@@ -131,7 +131,7 @@ Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, segu
 
 Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.
 
-# Persona João Vitor
+# Persona Primária João Vitor
 Atores: João Vitor - "Clareza e simplicidade no investimento"
 
 João Vitor é um senhor com 65 anos de idade e está muito próximo de se aposentar. Ele passou muitos anos guardando dinheiro em sua poupança, e ouvindo rumores a respeito do mercado financeiro, especificamente em ações e em sua maior rentabilidade em comparação com uma poupança. Ao conhecer uma plataforma, ele criou sua conta e respondeu ao questionário de Suitability disponibilizado, e foi classificado como investidor conservador.
@@ -197,9 +197,11 @@ Nome: João Vitor | Idade: 65 anos
 **4\) Jornada do Usuário \[1 por equipe\]**
 
  1. **Início da Interação com a Plataforma** <br>
- 3. **Preenchimento do questionário de suitability disponibilizado pela plataforma**
- 4. **Recomendação das ações ao usuário alinhadas com seu perfil de investimento**
- 5. **Modificação do questionário**
+	- Usuário cria a sua conta e realiza loguin na plataforma.
+ 	- Preenche o questionário de suitability disponibilizado pela plataforma.
+ 2. **Recomendação das ações ao usuário alinhadas com seu perfil de investimento**
+	- 
+ 4. **Modificação do questionário**
 
 # **Entrega 4  (data) \[em andamento/concluído\]**
 
