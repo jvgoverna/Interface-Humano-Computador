@@ -148,19 +148,26 @@ Para João, o mais importante não é acessar métricas complexas ou acompanhar 
 Nome: João Vitor | Idade: 65 anos
 
 
-- O que ve:
-
+- O que ve: <br>
+  - Oportunidade de retirar o dinheiro em sua poupança e investir em alguma ação com maior lucratividade.
+  - Gráficos e dashboards com termos técnicos e letras pequenas.
+  - Dificuldade na interpretação dos dados recomendados.
 ---
 
-- O que ouve:
-
+- O que ouve: <br>
+  - Rumores sobre a maior rentabilidade do mercado financeiro em comparação à poupança.
+  - Ouve termos técnicos sem explicações claras, aumentando sua insegurança no mercado financeiro.
+  - Notícias sobre oportunidades diferentes de investimento.
 ---
 
-- O que pensa e sente:
-
+- O que pensa e sente: <br>
+  - Desconfiança no investimento de seu dinheiro no mercado financeiro.
+  - Preocupação de que seu investimento poderia estar rendendo mais em outro lugar.
+  - Confuso com as recomendações de investimento.
 ---
 
-- O que fala e faz:
+- O que fala e faz: <br>
+  - Requisitou suporte técnico a plataforma.
 
 ---
 
