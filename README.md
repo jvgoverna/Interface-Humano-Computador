@@ -61,8 +61,33 @@ O sistema será utilizado em ambiente web por investidores que buscam suporte pa
 
 **Dica: fator mais importante desta entrega é a equipe conseguir identificar e documentar prints de telas de interfaces concorrentes (ou interfaces representativas para o público alvo). Esses prints serão usados na fase de caracterização de padrões, affordances, heurísticas, etc.**
 
-1) **Público Alvo** <br> • Investidores jovens ou adultos que nunca investirão no mercado financeiro. <br> • Investidores que conhecem o básico de investimento e querem recomendações de qual ação investir. <br>
-• Investidores que já conhecem a alta volatilidade e risco das ações.
+1) **Público Alvo** <br>
+
+Nosso público-alvo são pessoas que são responsáveis legais por si mesmas e têm interesse em investir seu dinheiro
+
+1.1) 	***Perfil do público alvo segundo o Mercado**
+
+1.1.1) Segmentação demográfica:
+
+•	Idade: 25 a 55 anos (maior interesse em investimentos, potencial para uso de computador).
+•	Escolaridade: Ensino superior e técnico (maior familiaridade com tecnologia e investimentos).
+•	Renda: Média a alta (capacidade financeira para investir em ações).
+
+1.1.2) Segmentação geográfica:
+•	Usuários em áreas urbanas, com acesso estável à internet e computador.
+
+1.1.3) Segmentação psicográfica:
+
+•	Perfil de investidor iniciante, buscando orientação e segurança.
+•	Investidor intermediário que deseja otimizar sua carteira com recomendações inteligentes.
+•	Pessoas com interesse em finanças pessoais e busca por autonomia no investimento.
+
+1.1.4) Segmentação comportamental:
+
+•	Usuários que buscam recomendações rápidas e fáceis.
+•	Usuários que valorizam transparência e explicação das sugestões.
+•	Pessoas que utilizam computador como principal dispositivo para acessar serviços financeiros.
+
 
 2) **Análise de Concorrência (quando identificado concorrência \- ATENÇÃO: CONCORRENTE NÃO É IDÊNTICO E SIM ATUANDO NA MESMA ÁREA)**  
 **Principais concorrentes mais utilizados pelo seu público-alvo (link, descrição e imagens de ilustração):** <br>
