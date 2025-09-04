@@ -1,8 +1,6 @@
-**Projeto de IHC**
+# **Projeto de IHC**
 
-**Projeto XX**
-
-**Aprendizado de máquina aplicado na construção de carteiras de investimento adaptadas ao perfil de investimento**
+## **Aprendizado de máquina aplicado na construção de carteiras de investimento adaptadas ao perfil de investimento**
 
 **Membros de Equipe:** <br>
 Felipe Orlando Lanzara R.A: 22.225.015-1 <br>
@@ -10,7 +8,7 @@ João Vitor Governatore R.A: 22.225.012-8 <br>
 Pedro Henrique Legra Kramer Costa R.A: 22.125.091-3 <br>
 
 
-# **Entrega 1 (concluído)**
+## **Entrega 1 (concluído)**
 **1) Conhecendo o Problema** 
 
 1.1) Membros de Equipe (nome completo e número de matrícula): <br>
