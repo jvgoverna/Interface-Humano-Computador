@@ -5,7 +5,7 @@
 **Aprendizado de máquina aplicado na construção de carteiras de investimento adaptadas ao perfil de investimento**
 
 **Membros de Equipe:** <br>
-Felipe Orlando Lanzara R.A: <br>
+Felipe Orlando Lanzara R.A: 22.225.015-1 <br>
 João Vitor Governatore R.A: 22.225.012-8 <br>
 Pedro Henrique Legra Kramer Costa R.A: 22.125.091-3 <br>
 
