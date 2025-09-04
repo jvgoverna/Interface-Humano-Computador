@@ -159,7 +159,7 @@ Esse cenário revela falhas de interface humano-computador relacionadas à falta
 # Persona Primária João Vitor
 Atores: João Vitor - "Clareza e simplicidade no investimento"
 
-João Vitor é um senhor com 65 anos de idade e está muito próximo de se aposentar. Ele passou muitos anos guardando dinheiro em sua poupança, e ouvindo rumores a respeito do mercado financeiro, especificamente em ações e em sua maior rentabilidade em comparação com uma poupança. Ao conhecer uma plataforma, ele criou sua conta e respondeu ao questionário de Suitability disponibilizado, e foi classificado como investidor conservador.
+João Vitor é um senhor com 65 anos de idade, pai de dois filhos, professor da rede pública e está muito próximo de se aposentar. Ele passou muitos anos guardando dinheiro em sua poupança, e ouvindo rumores a respeito do mercado financeiro, especificamente em ações e em sua maior rentabilidade em comparação com uma poupança. Ao conhecer uma plataforma, ele criou sua conta e respondeu ao questionário de Suitability disponibilizado, e foi classificado como investidor conservador.
 
 Após o preenchimento foi apresentado a João gráficos e dashboards com letras muito pequenas, cores de fácil confusão, trazendo uma maior dificuldade para a interpretação dos dados mostrados em relação as ações recomendadas. Além disso na apresentação dos gráficos e dashboards foram exibidos termos técnicos e indicadores complexos, como volatilidade. O que pode gerar um conflito aos usuários iniciantes.
 
