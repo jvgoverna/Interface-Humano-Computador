@@ -11,7 +11,7 @@ Pedro Henrique Legra Kramer Costa R.A: 22.125.091-3 <br>
 
 
 # **Entrega 1 (concluído)**
-**1\) Conhecendo o Problema** 
+**1) Conhecendo o Problema** 
 
 1.1) Membros de Equipe (nome completo e número de matrícula): <br>
 Felipe Orlando Lanzara R.A: <br>
