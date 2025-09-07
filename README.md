@@ -240,17 +240,21 @@ Nome: João Vitor | Idade: 65 anos
 
 **4\) Jornada do Usuário \[1 por equipe\]**
 
- 1. **Início da Interação com a Plataforma** <br>
-	- Usuário cria a sua conta e realiza login na plataforma.
- 	- Após o login será necessário o preenchimento do questionário de suitability disponibilizado pela plataforma.
+ 1. **Antes de usar (início do uso)**
+	- Chega em casa após o trabalho como professor e procura um momento de tranquilidade.
+	- Decide acessar o site para buscar alternativas mais rentáveis que a poupança.
+	- Liga o computador e entra na plataforma com expectativa de clareza e segurança.
 
- 2. **Recomendação das ações ao usuário alinhadas com seu perfil de investimento** <br>
-	- Após o preechimento do questionário o perfil do investidor do usuário será informado.
- 	- A página será redirecionada para o perfil do usuário, onde será exibido um botão para visualizar as recomendações, que deverá ser clicado pelo usuário.
-  	- Ao clicar no botão, o usuário será redirecionado para a página de recomendações, que exibirá gráficos e dashboards com as melhores ações para investimento, para ele.
- 	
- 3. **Modificação do questionário**
- 	- A qualquer momento, o usuário pode atualizar seu perfil clicando na opção do menu lateral para refazer o questionário..
+ 2. Durante o uso (experiência na plataforma)
+	- Responde ao questionário de Suitability e descobre seu perfil de investidor.
+	- Explora os dashboards de previsões de ações, mas encontra dificuldade em interpretar gráficos e termos técnicos.
+	- Consulta informações sobre rentabilidade e riscos, tentando comparar opções de investimento.
+	- Demonstra interesse, mas também insegurança ao tomar decisões baseadas nos dados apresentados.
+
+ 3. Depois de usar (encerramento da experiência)
+	- Faz anotações simples sobre as informações consultadas.
+	- Conversa com familiares para confirmar suas impressões e buscar opiniões.
+	- Encerra o acesso sentindo necessidade de maior clareza e acessibilidade, mas com esperança de continuar usando o site como apoio.
 
 # **Entrega 4  (data) \[em andamento/concluído\]**
 
