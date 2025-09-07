@@ -185,6 +185,8 @@ Para Felipe, o mais importante é ter acesso a dados de alta qualidade, previsõ
 
 **2\) Mapa de Empatia \[1 por equipe\]**
 
+A persona João Vitor foi escolhida como principal para o mapa de empatia por representar o perfil mais próximo do público que deve utilizar a plataforma: investidores iniciantes ou conservadores que buscam sair da poupança, mas ainda sentem insegurança diante de informações complexas.
+
 Nome: João Vitor | Idade: 65 anos
 
 
