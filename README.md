@@ -209,7 +209,9 @@ Nome: João Vitor | Idade: 65 anos
 ---
 
 - O que fala e faz: <br>
-  - Requisitou suporte técnico a plataforma.
+  - Reclama que os gráficos e termos técnicos são difíceis de entender.
+  - Acessa a plataforma para conferir recomendações, mas demonstra hesitação antes de tomar decisões de investimento.
+  - Comenta com amigos ou familiares sobre a dificuldade de interpretar os dados e pede ajuda para confirmar se está fazendo a escolha certa.
 ---
 
 - Dores (frustrações e obstáculos) <br>
