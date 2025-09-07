@@ -226,7 +226,9 @@ Nome: João Vitor | Idade: 65 anos
 
 **3\) Contexto de Uso \[1 por equipe\]**
 - **Ambiente:**
-	- Digital: Investidores jovens ou adultos acessam a plataforma dgitalmente através de um desktop ou dispositivo móvel.
+	- Local: em casa, geralmente na sala ou escritório.
+	- Aparelho: computador/desktop com tela maior, usando mouse e teclado.
+	- Horário: no período da noite, após retornar do trabalho e organizar suas tarefas pessoais.
 ---
 - **Aspectos Sociais**
 	- Usuários podendo ser influenciados por amigos, familiares ou colegas de trabalho que também investem.
@@ -234,8 +236,11 @@ Nome: João Vitor | Idade: 65 anos
   	- Usuários com maior experiência ou conhecimento financeiro tendem a lidar melhor com oscilações de mercado.
   	- Usuários com perfil conservador podem se sentir ansiosos e evitar investimentos com uma alta volatilidade.
 ---
-- **Contato com a Plataforma**
-	- Atendimento ao cliente em tempo real.
+- **Dados que precisam ser armazenados previamente pelo sistema**
+	- Perfil do investidor: resultado do questionário de Suitability (ex.: conservador, moderado ou arrojado) para personalizar recomendações.
+ 	- Dados pessoais de cada usuário: nome, e-mail e credenciais necessárias para autenticação e personalização da experiência.
+ 	- Valores previstos para cada ação no futuro: projeções calculadas pelo modelo de previsão a serem exibidas em gráficos.
+  	- Valores históricos de cada ação no passado: dados reais que serão apresentados em formato de gráfico para comparação com as previsões.
 ---
 
 **4\) Jornada do Usuário \[1 por equipe\]**
