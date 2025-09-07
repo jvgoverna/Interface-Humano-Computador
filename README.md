@@ -165,6 +165,17 @@ Essas dificuldades geraram frustrações e insegurança, levando a João abandon
 
 Para João, o mais importante não é acessar métricas complexas ou acompanhar gráficos avançados em tempo real, mas sim ter clareza e segurança sobre onde seu dinheiro pode ser aplicado. Ele valoriza informações apresentadas de forma simples, que deixem claro o nível de risco e o potencial de retorno de cada ação, sem a utilização de termos técnicos.
 
+# Persona Primária Felipe Orlando
+Atores: Felipe Orlando - "Busca por mais conhecimento"
+
+Felipe Orlando tem 42 anos, é engenheiro civil e investe em ações há mais de 10 anos. Ele já possui uma carteira diversificada, acompanha o mercado diariamente e entende bem conceitos como volatilidade, dividend yield e valuation. Apesar de sua experiência, Felipe está sempre em busca de novas ferramentas que possam oferecer previsões mais precisas e análises mais sofisticadas para apoiar suas decisões de investimento. Ao conhecer a nossa plataforma, ele criou sua conta, respondeu ao questionário de Suitability e foi classificado como investidor agressivo.
+
+Após o preenchimento, Felipe teve acesso a dashboards avançados com gráficos preditivos baseados em modelos de deep learning (LSTM). Apesar de seu bom conhecimento, ele percebeu que alguns relatórios apresentavam informações redundantes ou pouco customizáveis, o que dificultava integrar os dados da plataforma com suas próprias análises. Além disso, notou que, em alguns momentos, os gráficos não explicavam claramente os fatores externos considerados nas previsões, como o impacto de commodities ou variações do dólar.
+
+Essas limitações não o fizeram abandonar a plataforma, mas mostraram oportunidades de melhoria: oferecer filtros personalizados, maior transparência sobre as variáveis que influenciam as previsões e exportação facilitada de relatórios para ferramentas que ele já utiliza em seu dia a dia.
+
+Para Felipe, o mais importante é ter acesso a dados de alta qualidade, previsões confiáveis e recursos que lhe permitam aprofundar ainda mais suas estratégias de investimento. Ele valoriza uma plataforma que una clareza, detalhamento técnico e flexibilidade, servindo não apenas como apoio, mas como um diferencial competitivo na sua tomada de decisão no mercado financeiro.
+
 
 **2\) Mapa de Empatia \[1 por equipe\]**
 
