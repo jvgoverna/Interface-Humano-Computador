@@ -155,6 +155,9 @@ Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, segu
 Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.
 
 # Persona Primária João Vitor
+
+![João](Imagens%20IHC/Rosto%20João%20Persona.png)
+
 Atores: João Vitor - "Clareza e simplicidade no investimento"
 
 João Vitor é um senhor com 65 anos de idade, pai de dois filhos, professor da rede pública e está muito próximo de se aposentar. Ele passou muitos anos guardando dinheiro em sua poupança, e ouvindo rumores a respeito do mercado financeiro, especificamente em ações e em sua maior rentabilidade em comparação com uma poupança. Ao conhecer uma plataforma, ele criou sua conta e respondeu ao questionário de Suitability disponibilizado, e foi classificado como investidor conservador.
@@ -166,6 +169,9 @@ Essas dificuldades geraram frustrações e insegurança, levando a João abandon
 Para João, o mais importante não é acessar métricas complexas ou acompanhar gráficos avançados em tempo real, mas sim ter clareza e segurança sobre onde seu dinheiro pode ser aplicado. Ele valoriza informações apresentadas de forma simples, que deixem claro o nível de risco e o potencial de retorno de cada ação, sem a utilização de termos técnicos.
 
 # Persona Primária Felipe Orlando
+
+![Felipe](Imagens%20IHC/Rosto%20Felipe%20Persona.png)
+
 Atores: Felipe Orlando - "Busca por mais conhecimento"
 
 Felipe Orlando tem 42 anos, é engenheiro civil e investe em ações há mais de 10 anos. Ele já possui uma carteira diversificada, acompanha o mercado diariamente e entende bem conceitos como volatilidade, dividend yield e valuation. Apesar de sua experiência, Felipe está sempre em busca de novas ferramentas que possam oferecer previsões mais precisas e análises mais sofisticadas para apoiar suas decisões de investimento. Ao conhecer a nossa plataforma, ele criou sua conta, respondeu ao questionário de Suitability e foi classificado como investidor agressivo.
