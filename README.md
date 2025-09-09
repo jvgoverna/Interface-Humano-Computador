@@ -324,13 +324,13 @@ João avalia a plataforma de forma negativa, concluindo que o site é útil para
 ### Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes
 Atores: João Vitor (investidor iniciante)
 
-João Vitor, é um senhor de 65 anos de idade professor da rede pública do estado de São Paulo, ele passou muitos anos guardando dinheiro em sua poupança, após ouvir rumores a respeito do mercado de investimento sobre maior rentabilidade de seu patrimônio em comparação com a poupança. Então decide retirar seu investimento aplicado e comprar ações.
+João Vitor, é um senhor de 65 anos de idade professor da rede pública do estado de São Paulo, ele passou muitos anos guardando dinheiro em sua poupança, após ouvir rumores a respeito do mercado de investimento sobre maior rentabilidade de seu patrimônio em comparação com a poupança [6]. Então decide retirar seu investimento aplicado e comprar ações.
 
 Após um longo dia de trabalho, João está em sua casa à frente de seu computador pessoal com o objetivo de explorar, entender e encontrar investimentos além da poupança, porém com moderação por ser iniciante no universo digital e financeiro. Seu plano mental é que ao navegar pelas ações recomendadas para seu perfil a plataforma apresente informações claras e com uma linguagem condizente ao seu perfil, com frases como "baixo risco" ou "recomendado para iniciantes". Então João cria uma conta em uma plataforma de recomendação de ações e preenche o questionário de suitability, onde o classifica como perfil conservador.
 
 Após a classificação é recomendado diversas ações para investir, porém essas recomendações apresentam uma linguagem de difícil entendimento, com gráficos e dashboards com letras pequenas, linguagem técnica e cores de fácil confusão, não entendendo o significado de termos como volatilidade e não encontrando explicação simples no site.
 
-João avalia a plataforma de forma negativa, concluindo que o site é útil para pessoas que apresentam um conhecimento prévio sobre investimento financeiro, não sendo o caso dele e se sentindo frustado e inseguro se realmente vale a pena retirar seu investimento na poupança, por sua incapacidade de interpretar as informações e gráficos oferecidos a ele. Sua ação final foi de fechar a plataforma, abandonar o uso e continuar pesquisando sobre esse universo com amigos[7].
+João avalia a plataforma de forma negativa, concluindo que o site é útil para pessoas que apresentam um conhecimento prévio sobre investimento financeiro, não sendo o caso dele e se sentindo frustado e inseguro se realmente vale a pena retirar seu investimento na poupança, por sua incapacidade de interpretar as informações e gráficos oferecidos a ele. Sua ação final foi de fechar a plataforma, abandonar o uso e continuar pesquisando sobre esse universo com amigos [7].
 
 
 # **Entrega 5  (data) \[em andamento/concluído\]**
