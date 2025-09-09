@@ -302,7 +302,7 @@ Atores: João Vitor (investidor iniciante)
 
 João Vitor, é um senhor de 65 anos de idade professor da rede pública do estado de São Paulo, ele passou muitos anos guardando dinheiro em sua poupança, após ouvir rumores a respeito do mercado de investimento sobre maior rentabilidade de seu patrimônio em comparação com a poupança. Então decide retirar seu investimento aplicado e comprar ações.
 
-Após um longo dia de trabalho, João está em sua casa à frente de seu computador pessoal com o objetivo de explorar, entender e encontrar investimentos além da poupança, porém com moderação por ser iniciante no universo digital e financeiro. Seu plano mental é que ao navegar pelas ações recomendadas para seu perfil a plataforma apresente informações claras e com uma linguagem condizente ao seu perfil, com frases como "baixo risco" ou "recomendado para iniciantes". Então João cria uma conta em uma plataforma de recomendação de ações e preenche o questionário de suitability, onde o classifica como perfil conservador.
+Após um longo dia de trabalho, João está em sua casa à frente de seu computador pessoal com o objetivo de explorar, entender e encontrar investimentos além da poupança. Seu plano mental é que ao navegar pelas ações recomendadas para seu perfil a plataforma apresente informações claras e com uma linguagem condizente ao seu perfil. Então João cria uma conta em uma plataforma de recomendação de ações e preenche o questionário de suitability, onde o classifica como perfil conservador.
 
 Após a classificação é recomendado diversas ações para investir, porém essas recomendações apresentam uma linguagem de difícil entendimento, com gráficos e dashboards com letras pequenas, linguagem técnica e cores de fácil confusão, não entendendo o significado de termos como volatilidade e não encontrando explicação simples no site.
 
@@ -312,21 +312,21 @@ João avalia a plataforma de forma negativa, concluindo que o site é útil para
 
 | Indice | Elemento |Pergunta | Resposta |
 | -- | -- | -- | -- |
-| 	[1]   |   objetivo       | De que informações ou conhecimento os atores precisam para realizar esse objetivo?                                |  |
-| 	[2]   |   ambiente       | Em que situação o cenário ocorre (quando, onde e por quê)?                                                        |  |
-| 	[3]   |   ator(es)		 | Quais características dos atores lhe auxiliam ou atrapalham em alcançar o objetivo?                               |  |
-| 	[4]   |   planejamento	 | Em que ordem os atores precisam realizar as ações? Gostariam de realizá-las em outra ordem?    				     |  |
-| 	[5]   |   ação       	 | Quais erros podem ser cometidos ao realizá-la? Como podem ser desfeitos? Quais são suas consequências?    		 |  |
-| 	[6]   |   evento		 | Quais eventos disparam a necessidade de alcançar o objetivo?    													 |  |
-| 	[7]   |   avaliação		 | Qual é o resultado do alcance do objetivo?     																	 |  |
+| 	[1]   |   objetivo       | De que informações ou conhecimento João precisa para explorar, entender e encontrar investimentos além da poupança?  |  |
+| 	[2]   |   ambiente       | Em que situação João decide decide aplicar seu investimento em ações (quando, onde e por quê)?                       |  |
+| 	[3]   |   ator(es)		 | Quais características de João auxiliou a atrapalhar o alcance do objetivo?                                           |  |
+| 	[4]   |   planejamento	 | Em que ordem João precisam realizar as ações? Poderia realizá-la de outra maneira?                            	    |  |
+| 	[5]   |   ação       	 | Quais erros podem ser cometidos ao utilizar a plataforma? Como podem ser desfeitos? Quais são suas consequências?    		    |  |
+| 	[6]   |   evento		 | Quais eventos disparam a necessidade de João alcançar o objetivo?    											    |  |
+| 	[7]   |   avaliação		 | Qual é o resultado do alcance do objetivo?     																	    |  |
 
 # Refinamento do Cenário Análise/Problema (João Vitor)
 ### Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes
 Atores: João Vitor (investidor iniciante)
 
-João Vitor, é um senhor de 65 anos de idade professor da rede pública do estado de São Paulo, ele passou muitos anos guardando dinheiro em sua poupança, após ouvir rumores a respeito do mercado de investimento sobre maior rentabilidade de seu patrimônio em comparação com a poupança [6]. Então decide retirar seu investimento aplicado e comprar ações.
+João Vitor, é um senhor de 65 anos de idade professor da rede pública do estado de São Paulo, ele passou muitos anos guardando dinheiro em sua poupança, após ouvir rumores a respeito do mercado de investimento sobre maior rentabilidade de seu patrimônio em comparação com a poupança [6]. Então decide retirar seu investimento aplicado e comprar ações. [2]
 
-Após um longo dia de trabalho, João está em sua casa à frente de seu computador pessoal com o objetivo de explorar, entender e encontrar investimentos além da poupança, porém com moderação por ser iniciante no universo digital e financeiro. Seu plano mental é que ao navegar pelas ações recomendadas para seu perfil a plataforma apresente informações claras e com uma linguagem condizente ao seu perfil, com frases como "baixo risco" ou "recomendado para iniciantes". Então João cria uma conta em uma plataforma de recomendação de ações e preenche o questionário de suitability, onde o classifica como perfil conservador.
+Após um longo dia de trabalho, João está em sua casa à frente de seu computador pessoal em um momento de tranquilidade após um longo dia de trabalho [2], com o objetivo de explorar, entender e encontrar investimentos além da poupança, porém com moderação por ser iniciante no universo digital e financeiro [3]. Seu plano mental é que ao navegar pelas ações recomendadas para seu perfil a plataforma apresente informações claras e com uma linguagem condizente ao seu perfil, com frases como "baixo risco" ou "recomendado para iniciantes", além do potencial de retorno relacionado a cada investimento [1]. Então João cria uma conta em uma plataforma de recomendação de ações e preenche o questionário de suitability, onde o classifica como perfil conservador [4]. O principal erro que João pode cometer é preenchê-lo de forma imprecisa por não compreender as perguntas, ocasionando uma classificação de perfil incorreta. O erro mais crítico, no entanto, é da própria plataforma, que ao classificá-lo corretamente como conservador, ainda assim apresenta a ele informações complexas com gráficos e termos técnicos. A consequência disso é a recomendação de ações inadequadas e a frustração imediata de João, que se sente inseguro e incapaz de prosseguir. Para desfazer esses erros a plataforma poderia oferecer uma forma de mostrar informações simplificadas mas ainda assim transmitindo todos as informações diferenciais e úteis para a realização do investimento. [5]
 
 Após a classificação é recomendado diversas ações para investir, porém essas recomendações apresentam uma linguagem de difícil entendimento, com gráficos e dashboards com letras pequenas, linguagem técnica e cores de fácil confusão, não entendendo o significado de termos como volatilidade e não encontrando explicação simples no site.
 
