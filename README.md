@@ -160,7 +160,7 @@ Esse cenário revela falhas de interface humano-computador relacionadas à falta
 
 Atores: João Vitor - "Clareza e simplicidade no investimento"
 
-João Vitor é um senhor com 65 anos de idade, pai de dois filhos, professor da rede pública e está muito próximo de se aposentar. Ele passou muitos anos guardando dinheiro em sua poupança, e ouvindo rumores a respeito do mercado financeiro, especificamente em ações e em sua maior rentabilidade em comparação com uma poupança. Ao conhecer uma plataforma, ele criou sua conta e respondeu ao questionário de Suitability disponibilizado, e foi classificado como investidor conservador.
+João Vitor é um senhor com 65 anos de idade, pai de dois filhos, professor da rede pública do estado de São Paulo e está muito próximo de se aposentar. Ele passou muitos anos guardando dinheiro em sua poupança, e ouvindo rumores a respeito do mercado financeiro, especificamente em ações e em sua maior rentabilidade em comparação com uma poupança. Ao conhecer uma plataforma, ele criou sua conta e respondeu ao questionário de Suitability disponibilizado, e foi classificado como investidor conservador.
 
 Após o preenchimento foi apresentado a João gráficos e dashboards com letras muito pequenas, cores de fácil confusão, trazendo uma maior dificuldade para a interpretação dos dados mostrados em relação as ações recomendadas. Além disso na apresentação dos gráficos e dashboards foram exibidos termos técnicos e indicadores complexos, como volatilidade. O que pode gerar um conflito aos usuários iniciantes.
 
@@ -295,6 +295,17 @@ Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, segu
 
 Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.}
 
+
+# Cenário de Análise/Problema - João Vitor
+### Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes
+
+João Vitor, é um senhor de 65 anos de idade professor da rede pública do estado de São Paulo, ele passou muitos anos guardando dinheiro em sua poupança, após ouvir rumores a respeito do mercado de investimento sobre maior rentabilidade de seu patrimônio em comparação com a poupança. Então decide retirar seu investimento aplicado e comprar ações.
+
+Após um longo dia de trabalho, João está em sua caso à frente de seu computador pessoal com o objetivo de explorar, entender e encontrar investimentos além da poupança, porém com moderação por ser iniciante no universo digital e financeiro. Seu plano mental é que ao navegar pelas ações recomendadas para seu perfil a plataforma apresente informações claras e com uma linguagem condizente ao seu perfil, com frases como "baixo risco" ou "recomendado para iniciantes". Então João cria uma conta em uma plataforma de recomendação de ações e preenche o questionário de suitability, onde o classifica como perfil conservador.
+
+Após a classificação é recomendado diversas ações para investir, porém essas recomendações apresentam uma linguagem de difícil entendimento, com gráficos e dashboards com letras pequenas, linguagem técnica e cores de fácil confusão, não entendendo o significado de termos como volatilidade e não encontrando explicação simples no site.
+
+João avalia a plataforma de forma negativa, concluindo que o site é útil para pessoas que apresentam um conhecimento prévio sobre investimento financeiro, não sendo o caso dele e se sentindo frustado e inseguro se realmente vale a pena retirar seu investimento na poupança, por sua incapacidade de interpretar as informações e gráficos oferecidos a ele. Sua ação final foi de fechar a plataforma, abandonar o uso e continuar pesquisando sobre esse universo com amigos.
 
 3) **Refinamento do Cenário Análise/Problema**
 
