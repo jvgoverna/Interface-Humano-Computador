@@ -104,9 +104,22 @@ Nosso público-alvo são pessoas que são responsáveis legais por si mesmas e t
 
 • **Corretora Rico [https://www.rico.com.vc/]**
 - Corretora digital que fornece uma plataforma de compra e venda de ativos financeiros e acompanhamento do portfólio de ativos do usuário
+
+- - ![Rico](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/AppRico.jpeg)
   
 
 3) **Características e funcionalidades dos concorrentes:**
+
+**Investidor10** <br>
+- **Características** <br>
+	- Plataforma de análise e monitoramento de ativos financeiros. <br>
+	- Oferece dados completos sobre ações, FIIs, ETFs e BDRs, com foco em empresas listadas na bolsa brasileira. <br>
+	- Gráficos interativos e indicadores fundamentais para análise de investimentos. <br>
+- **Funcionalidades** <br>
+	- Criação de listas personalizadas de ativos, com a possibilidade de acompanhar o desempenho ao longo do tempo.
+	- Acompanhamento das cotações da B3 em tempo real.
+	- Projeções e indicadores que ajudam a avaliar o potencial de crescimento de ações e outros ativos.
+	- Comparação entre diferentes ativos e geração de relatórios detalhados.
 
 **StatusInvest** <br>
 - **Características** <br>
