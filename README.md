@@ -90,7 +90,10 @@ Nosso público-alvo são pessoas que são responsáveis legais por si mesmas e t
 2) **Análise de Concorrência (quando identificado concorrência \- ATENÇÃO: CONCORRENTE NÃO É IDÊNTICO E SIM ATUANDO NA MESMA ÁREA)**  
 **Principais concorrentes mais utilizados pelo seu público-alvo (link, descrição e imagens de ilustração):** <br>
 
-• **Outro site []**
+• **Investidor10 [https://investidor10.com.br/]**
+
+- Plataforma digital de informações financeiras que oferece dados detalhados sobre empresas listadas na bolsa, incluindo cotações, indicadores fundamentalistas e análises de mercado. O Investidor10 organiza as informações de forma clara e acessível, permitindo ao usuário acompanhar o desempenho das ações, comparar múltiplas empresas e avaliar tendências de crescimento no curto, médio e longo prazo.
+
 ![Investidor 10](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Investidor10.jpeg)
 
 • **StatusInvest [https://statusinvest.com.br/]**
