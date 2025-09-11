@@ -315,6 +315,13 @@ Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, segu
 
 Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.}
 
+# Cenário de Análise/Problema - Pedro
+Atores: Pedro
+Pedro Henrique tem 21 anos e é cientista da computação. Seus pais sempre enfatizaram a importância de investir para garantir um futuro financeiro tranquilo. No entanto, devido à sua rotina cheia, trabalhando pela manhã e estudando à tarde-noite, ele tem pouco tempo para se dedicar ao estudo de investimentos. Mesmo aos finais de semana, ele precisa se concentrar nas tarefas da faculdade, no TCC e na iniciação didática. Embora tenha o desejo de investir em ações, ele se sente inseguro e tem medo de perder dinheiro por falta de conhecimento.
+
+Durante uma pesquisa no GitHub, Pedro encontrou o repositório do InvestMind, que oferece sugestões de ações com base em previsões de um modelo de machine learning. Com sua formação em ciência da computação, ele se sentiu mais seguro para arriscar, confiando no fato de que o modelo poderia fazer uma análise temporal dos preços das ações e recomendar o melhor momento para investir. Embora não soubesse exatamente qual modelo foi utilizado, ele confiava na ideia de que o sistema de IA seria mais preciso do que suas próprias decisões.
+
+Pedro clonou o repositório, subiu a aplicação, preencheu o questionário de suitability e, por já ter experiência em navegar por sites, teve facilidade em interagir com a plataforma. Após preencher o formulário, ele utilizou um gráfico de timesplot para identificar o melhor momento para vender a ação. Alguns dias depois, ele seguiu a recomendação, vendeu as ações e obteve lucro.
 
 # Cenário de Análise/Problema - João Vitor
 ### Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes
