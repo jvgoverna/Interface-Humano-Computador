@@ -140,6 +140,10 @@ Nosso público-alvo são pessoas que são responsáveis legais por si mesmas e t
 
 4) **Experiência do usuário (UX) e pesquisa de satisfação do cliente e opiniões:**
 
+**Investidor10** <br>
+	- Navegação clara, com informações financeiras detalhadas, proporcionando uma boa compreensão das ações e indicadores de mercado. <br>
+	- Algumas informações podem ser mais complexas para iniciantes, mas o layout facilita o aprendizado gradual. <br>
+
 **StatusInvest** <br>
 	- Dashboards de fácil acesso e entendimento sobre os ativos da bolsa brasileira. <br>
  	- Navegação intuitiva, porém o site apresenta informações em excesso, podendo gerar dúvidas e confusões de informações para usuários iniciantes. <br>
