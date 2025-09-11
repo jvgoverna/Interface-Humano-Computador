@@ -54,7 +54,7 @@ Pedro Henrique Legra Kramer Costa R.A: 22.125.091-3 <br>
 1.11) Qual é o contexto de uso dessa aplicação? (esse já é um conceito de IHC que professor explicou na sala) <br>
 O sistema será utilizado em ambiente web por investidores que buscam suporte para tomada de decisão no mercado de ações. O contexto envolve análise de dados financeiros, aplicação de modelos preditivos e adequação das recomendações ao perfil de risco, permitindo acesso tanto em computadores quanto em dispositivos móveis, priorizando clareza de informações e usabilidade na navegação.
 
-# **Entrega 2  (data) \[em andamento/concluído\]**
+# **Entrega 2  (data) \[concluído]**
 
 **\[1 solução completa por pessoa da equipe\]**
 
