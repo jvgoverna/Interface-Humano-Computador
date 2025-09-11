@@ -1,3 +1,4 @@
+
 # **Projeto de IHC**
 
 ## **Aprendizado de máquina aplicado na construção de carteiras de investimento adaptadas ao perfil de investimento**
@@ -166,13 +167,13 @@ Atualmente, observa-se uma tendência no uso de aplicações móveis e web que o
 # Persona Pedro
 Atores: Pedro 
 
-Pedro começou a investir no ano passado utilizando o software InvestMind, uma plataforma que recomenda ações com base na predição de preços futuros. Logo no início, ao criar sua conta, ele respondeu ao questionário de Suitability e foi classificado como um investidor agressivo, perfil que condizia com seu comportamento naquele momento. Com isso, o sistema passou a recomendar ativos de maior risco e alta volatilidade, compatíveis com essa classificação.
 
-Com o passar do tempo (1 ano), Pedro modificou seu comportamento de investimento. Ele passou a se interessar por ações mais estáveis, de menor risco e volatilidade, adotando assim uma postura mais conservadora. O problema é que o software não possuía qualquer mecanismo automático para identificar essa mudança de comportamento ou sugerir uma reavaliação do perfil. Dessa forma, as recomendações continuaram sendo voltadas a um investidor agressivo.
+Pedro Henrique tem 21 anos e é cientista da computação. Seus pais sempre enfatizaram a importância de investir para garantir um futuro financeiro tranquilo. No entanto, devido à sua rotina cheia, trabalhando pela manhã e estudando à tarde-noite, ele tem pouco tempo para se dedicar ao estudo de investimentos. Mesmo aos finais de semana, ele precisa se concentrar nas tarefas da faculdade, no TCC e na iniciação didática. Embora tenha o desejo de investir em ações, ele se sente inseguro e tem medo de perder dinheiro por falta de conhecimento.
 
-Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, seguiu aplicando seu dinheiro nos ativos sugeridos pela plataforma. Ao final do período planejado, constatou que havia sofrido perdas financeiras em razão da alta volatilidade das ações escolhidas. Apenas após esse prejuízo, ele verificou manualmente seu perfil no sistema, refez o questionário de Suitability e, então, foi corretamente reclassificado como conservador.
+Durante uma pesquisa no GitHub, Pedro encontrou o repositório do InvestMind, que oferece sugestões de ações com base em previsões de um modelo de machine learning. Com sua formação em ciência da computação, ele se sentiu mais seguro para arriscar, confiando no fato de que o modelo poderia fazer uma análise temporal dos preços das ações e recomendar o melhor momento para investir. Embora não soubesse exatamente qual modelo foi utilizado, ele confiava na ideia de que o sistema de IA seria mais preciso do que suas próprias decisões.
 
-Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.
+Pedro clonou o repositório, subiu a aplicação, preencheu o questionário de suitability e, por já ter experiência em navegar por sites, teve facilidade em interagir com a plataforma. Após preencher o formulário, ele utilizou um gráfico de timesplot para identificar o melhor momento para vender a ação. Alguns dias depois, ele seguiu a recomendação, vendeu as ações e obteve lucro.
+
 
 # Persona Primária João Vitor
 
@@ -317,11 +318,14 @@ Esse cenário revela falhas de interface humano-computador relacionadas à falta
 
 # Cenário de Análise/Problema - Pedro
 Atores: Pedro
-Pedro Henrique tem 21 anos e é cientista da computação. Seus pais sempre enfatizaram a importância de investir para garantir um futuro financeiro tranquilo. No entanto, devido à sua rotina cheia, trabalhando pela manhã e estudando à tarde-noite, ele tem pouco tempo para se dedicar ao estudo de investimentos. Mesmo aos finais de semana, ele precisa se concentrar nas tarefas da faculdade, no TCC e na iniciação didática. Embora tenha o desejo de investir em ações, ele se sente inseguro e tem medo de perder dinheiro por falta de conhecimento.
 
-Durante uma pesquisa no GitHub, Pedro encontrou o repositório do InvestMind, que oferece sugestões de ações com base em previsões de um modelo de machine learning. Com sua formação em ciência da computação, ele se sentiu mais seguro para arriscar, confiando no fato de que o modelo poderia fazer uma análise temporal dos preços das ações e recomendar o melhor momento para investir. Embora não soubesse exatamente qual modelo foi utilizado, ele confiava na ideia de que o sistema de IA seria mais preciso do que suas próprias decisões.
+Pedro começou a investir no ano passado utilizando o software InvestMind, uma plataforma que recomenda ações com base na predição de preços futuros. Logo no início, ao criar sua conta, ele respondeu ao questionário de Suitability e foi classificado como um investidor agressivo, perfil que condizia com seu comportamento naquele momento. Com isso, o sistema passou a recomendar ativos de maior risco e alta volatilidade, compatíveis com essa classificação.
 
-Pedro clonou o repositório, subiu a aplicação, preencheu o questionário de suitability e, por já ter experiência em navegar por sites, teve facilidade em interagir com a plataforma. Após preencher o formulário, ele utilizou um gráfico de timesplot para identificar o melhor momento para vender a ação. Alguns dias depois, ele seguiu a recomendação, vendeu as ações e obteve lucro.
+Com o passar do tempo (1 ano), Pedro modificou seu comportamento de investimento. Ele passou a se interessar por ações mais estáveis, de menor risco e volatilidade, adotando assim uma postura mais conservadora. O problema é que o software não possuía qualquer mecanismo automático para identificar essa mudança de comportamento ou sugerir uma reavaliação do perfil. Dessa forma, as recomendações continuaram sendo voltadas a um investidor agressivo.
+
+Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, seguiu aplicando seu dinheiro nos ativos sugeridos pela plataforma. Ao final do período planejado, constatou que havia sofrido perdas financeiras em razão da alta volatilidade das ações escolhidas. Apenas após esse prejuízo, ele verificou manualmente seu perfil no sistema, refez o questionário de Suitability e, então, foi corretamente reclassificado como conservador.
+
+Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.
 
 # Cenário de Análise/Problema - João Vitor
 ### Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes
