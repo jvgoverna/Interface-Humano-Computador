@@ -13,7 +13,7 @@ Pedro Henrique Legra Kramer Costa R.A: 22.125.091-3 <br>
 **1) Conhecendo o Problema** 
 
 1.1) Membros de Equipe (nome completo e número de matrícula): <br>
-Felipe Orlando Lanzara R.A: <br>
+Felipe Orlando Lanzara R.A: 22.225.015-1 <br>
 João Vitor Governatore R.A: 22.225.012-8 <br>
 Pedro Henrique Legra Kramer Costa R.A: 22.125.091-3 <br>
 
