@@ -363,6 +363,17 @@ Após a classificação é recomendado diversas ações para investir, porém es
 
 João avalia a plataforma de forma negativa, concluindo que o site é útil para pessoas que apresentam um conhecimento prévio sobre investimento financeiro, não sendo o caso dele e se sentindo frustado e inseguro se realmente vale a pena retirar seu investimento na poupança, por sua incapacidade de interpretar as informações e gráficos oferecidos a ele. Sua ação final foi de fechar a plataforma, abandonar o uso e continuar pesquisando sobre esse universo com amigos [7].
 
+# Cenário de Análise/Problema - Felipe
+### Busca por Mais Conhecimento: A Necessidade de Ferramentas Avançadas para Investidores Experientes
+Atores: Felipe Orlando (Investidor Agressivo)
+
+Felipe Orlando tem 42 anos, é engenheiro civil e investe em ações há mais de 10 anos. Ele possui uma carteira diversificada, acompanha diariamente o mercado e domina conceitos como volatilidade, dividend yield e valuation. Apesar de sua experiência, Felipe está sempre em busca de novas ferramentas que ofereçam previsões mais precisas e análises mais sofisticadas para apoiar suas decisões de investimento. Ao conhecer a plataforma, ele criou sua conta, respondeu ao questionário de suitability e foi classificado como investidor agressivo.
+
+Após a classificação, Felipe teve acesso a dashboards avançados com gráficos preditivos baseados em modelos de deep learning (LSTM). Embora a proposta tenha despertado seu interesse, percebeu que alguns relatórios apresentavam informações redundantes e pouco personalizáveis, o que limitava a integração dos dados da plataforma com suas próprias análises. Além disso, notou que em determinados momentos os gráficos não explicavam de forma clara os fatores externos considerados nas previsões, como variações do dólar ou o impacto de commodities, dificultando a validação completa das projeções.
+
+Felipe avaliou a plataforma de forma positiva no quesito inovação, mas concluiu que ainda existem barreiras para investidores experientes que buscam maior profundidade técnica. A ausência de filtros avançados, de maior transparência sobre as variáveis usadas nos modelos e de opções de exportação de relatórios para outras ferramentas que ele utiliza, limitou a sua experiência.
+
+Sua análise final foi a de que a plataforma tem grande potencial competitivo, mas precisa evoluir para oferecer flexibilidade, detalhamento técnico e maior clareza na metodologia das previsões. Dessa forma, poderia se consolidar não apenas como um apoio, mas como um diferencial em sua tomada de decisão no mercado financeiro.
 
 # **Entrega 5  (data) \[em andamento/concluído\]**
 
