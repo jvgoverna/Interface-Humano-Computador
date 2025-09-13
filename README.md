@@ -386,7 +386,10 @@ Sua análise final foi a de que a plataforma tem grande potencial competitivo, m
 
 **Análise de Tarefas**
 
+# Castro Usuários na plataforma
+
 **1\) HTA**
+![HTA Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA%20Cadastro%20usuarios.png)
 
 **2\) GOMS**
 
