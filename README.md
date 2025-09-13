@@ -165,6 +165,9 @@ Atualmente, observa-se uma tendência no uso de aplicações móveis e web que o
 **\[1 solução completa por pessoa da equipe \- identificar o autor\]**
 
 # Persona Pedro
+
+![Pedro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Rosto%20Pedro%20Persona.png)
+
 Atores: Pedro 
 
 
