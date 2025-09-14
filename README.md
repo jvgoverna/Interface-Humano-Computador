@@ -424,25 +424,41 @@ GOAL 0: Cadastrar usuáro na plataforma
  	(SEL.RULE: ocorre sempre após o envio do formulário de cadastro)
   		- OP.2.A.1: verificar campos do formulário
     	- OP.2.A.2: preencher campos do formulário
-		- OP.2.A.3: clicar no botão “Cadastrar”
-      
-	 	- METHOD 2.A.A: validar dados pessoais <br>
-		(SEL.RULE: se o sistema exibir alerta de erro no preenchimento dos dados pessoais, o usuário deve revisar os dados antes do envio)
-			- OP.2.A.A.1: interpretar mensagens de erro
-	    	- OP.2.A.A.2: corrigir campos e clicar novamente no botão de cadastrar <br>
-	    
-		- METHOD 2.A.B: validar dados de acesso da plataforma <br>
-		(SEL.RULE: se o sistema exibir alerta de erro/força de senha, o usuário deve revisar os dados antes do envio)
-			- OP.2.A.B.1: validar rejeição do e-mail ou senha
-	    	- OP.2.A.B.2: interpretar mensagens de erro e realizar a correção
-	     	- OP.2.A.B.3: corrigir campos e clicar novamente no botão de cadastrar
-	         
-	    - METHOD 2.A.C: validar CPF preenchido <br>
-		(SEL.RULE: se o sistema exibir alerta de CPF já cadastrado anteriormente)
-			- OP.2.A.C.1: clicar em “Logar” ou mudar dados de cadastro do usuário e preencher os campos novamente
-			- OP.2.A.C.2: decidir continuar para login ou cadastrar novo usuário com outro CPF
+		- OP.2.A.3: clicar no botão “Cadastrar” <br>
+  		- OP.2.A.4: Aguardar redirecionamento para a página de login caso dados preenchidos corretamente
 
-- GOAL 3: Redirecionar à página de login
+
+		- GOAL 2.A.3.A: validar dados pessoais
+  			- OP.2.A.3.A.1: interpretar mensagens de erro
+	    	- OP.2.A.3.A.2: corrigir campos e clicar novamente no botão de cadastrar <br>
+	  	- GOAL 2.A.3.B: validar dados de acesso da plataforma
+   			- OP.2.A.3.B.1: validar rejeição do e-mail ou senha
+   	  		- OP.2.A.3.B.2:	interpretar mensagens de erro e realizar a correção
+			- OP.2.A.3.B.3: corrigir campos e clicar novamente no botão de cadastrar	 	 
+  
+	 	
+
+- GOAL 3: Checar se o CPF já foi cadastrado anteriormente no sistema
+  - METHOD 2.A: validar CPF preenchido <br>
+	(SEL.RULE: se o sistema exibir alerta de CPF já cadastrado anteriormente)
+		- OP.2.A.1: clicar em “Logar” ou mudar dados de cadastro do usuário e preencher os campos novamente
+		- OP.2.A.2: decidir continuar para login ou cadastrar novo usuário com outro CPF
+
+
+- GOAL 4: Redirecionar à página de login
+	- METHOD 4.A: acessar a tela de login exibida pelo sistema <br>
+	(SEL.RULE: sempre que o cadastro ou login for concluído)
+		- OP 4.A.1: reconhecer a mensagem de feedback (“Cadastro realizado com sucesso” ou “CPF já cadastrado”)
+  		- OP 4.A.2: clicar no botão/link “Ir para login”
+    	- OP 4.A.3: identificar os campos de e-mail e senha na tela de login
+		- OP 4.A.4: focar o cursor no campo de e-mail para iniciar autenticação
+  		- OP 4.A.5: clicar no botão Logar e aguardar o redirecionamento para a página inicial, caso o usuário já esteja previamente cadastrado.
+    
+	- METHOD 4.B: validar dados de acesso da plataforma (tela login) <br>
+ 	(SEL.RULE: se o sistema exibir alerta de erro no preenchimento do login, o usuário deve revisar os dados antes do envio)
+		- OP 4.B.1: validar rejeição do e-mail ou senha
+   		- OP 4.B.2:	interpretar mensagens de erro e realizar a correção
+		- OP 4.B.3: corrigir campos e clicar novamente no botão de logar	
 
 **3\) CTT**
 
