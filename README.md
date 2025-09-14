@@ -298,17 +298,7 @@ Nome: João Vitor | Idade: 65 anos
 2.1) Questões de refinamento (Pedro):
 
 
-**Tebela de refinamento**
 
-| Indice | Elemento |Pergunta | Resposta |
-| -- | -- | -- | -- |
-| 	[1]   |   objetivo       |     De que informações ou conhecimento os atores precisam para realizar esse objetivo?							 | para isso ele acessou o repositório no git do projeto, clonou o repositorio e em seguida acessou o terminal e rodou o comando npm run dev, |
-| 	[2]   |   ambiente       |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
-| 	[3]   |   atores		 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
-| 	[4]   |   planejamento	 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
-| 	[5]   |   ação       	 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
-| 	[6]   |   evento		 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
-| 	[7]   |   avaliação		 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
 
 
 {Pedro começou a investir no ano passado utilizando o software InvestMind,[1] uma plataforma que recomenda ações com base na predição de preços futuros. Logo no início, ao criar sua conta, ele respondeu ao questionário de Suitability e foi classificado como um investidor agressivo, perfil que condizia com seu comportamento naquele momento. Com isso, o sistema passou a recomendar ativos de maior risco e alta volatilidade, compatíveis com essa classificação.
@@ -329,6 +319,18 @@ Com o passar do tempo (1 ano), Pedro modificou seu comportamento de investimento
 Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, seguiu aplicando seu dinheiro nos ativos sugeridos pela plataforma. Ao final do período planejado, constatou que havia sofrido perdas financeiras em razão da alta volatilidade das ações escolhidas. Apenas após esse prejuízo, ele verificou manualmente seu perfil no sistema, refez o questionário de Suitability e, então, foi corretamente reclassificado como conservador.
 
 Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.
+
+# Tebela de refinamento
+
+| Indice | Elemento |Pergunta | Resposta |
+| -- | -- | -- | -- |
+| 	[1]   |   objetivo       |     De que informações ou conhecimento os atores precisam para realizar esse objetivo?							 | para isso ele acessou o repositório no git do projeto, clonou o repositorio e em seguida acessou o terminal e rodou o comando npm run dev, |
+| 	[2]   |   ambiente       |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
+| 	[3]   |   atores		 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
+| 	[4]   |   planejamento	 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
+| 	[5]   |   ação       	 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
+| 	[6]   |   evento		 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
+| 	[7]   |   avaliação		 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
 
 # Cenário de Análise/Problema - João Vitor
 ### Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes
