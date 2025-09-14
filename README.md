@@ -409,6 +409,41 @@ Sua análise final foi a de que a plataforma tem grande potencial competitivo, m
 
 **2\) GOMS**
 
+GOAL 0: Cadastrar usuáro na plataforma
+
+- GOAL 1: Coletar informações do usuáro
+	- METHOD 1.A: preencher os dados pessoais manualmente <br>
+   	(SEL.RULE: todos os campos obrigatórios devem ser preenchidos)
+   		- OP.1.A.1: preencher os dados pessoais (nome, CPF, data de nascimento,...)
+     	- OP.1.A.2: preencher os dados de aceso (e-mail e senha)
+      	- OP.1.A.3: marcar checkbox de aceite dos termos de uso e política de privacidade
+      	- OP.1.A.4: planejar a sequência de preenchimento (dados pessoais → acesso → termos)
+     
+- GOAL 2: Validar informações preenchidas
+	- METHOD 2.A: validar informações dos dados do usuário <br>
+ 	(SEL.RULE: ocorre sempre após o envio do formulário de cadastro)
+  		- OP.2.A.1: verificar campos do formulário
+    	- OP.2.A.2: preencher campos do formulário
+		- OP.2.A.3: clicar no botão “Cadastrar”
+      
+	 	- METHOD 2.A.A: validar dados pessoais <br>
+			(SEL.RULE: se o sistema exibir alerta de erro no preenchimento dos dados pessoais, o usuário deve revisar os dados antes do envio)
+				- OP.2.A.A.1: interpretar mensagens de erro
+	    		- OP.2.A.A.2: corrigir campos e clicar novamente no botão de cadastrar
+	    
+	    	- METHOD 2.A.B: validar dados de acesso da plataforma <br>
+			(SEL.RULE: se o sistema exibir alerta de erro/força de senha, o usuário deve revisar os dados antes do envio)
+				- OP.2.A.B.1: validar rejeição do e-mail ou senha
+	    		- OP.2.A.B.2: interpretar mensagens de erro e realizar a correção
+	     		- OP.2.A.B.3: corrigir campos e clicar novamente no botão de cadastrar
+	         
+	       - METHOD	2.A.C: validar CPF preenchido <br>
+			(SEL.RULE: se o sistema exibir alerta de CPF já cadastrado anteriormente)
+				- OP.2.A.C.1: clicar em “Logar” ou mudar dados de cadastro do usuário e preencher os campos novamente
+				- OP.2.A.C.2: decidir continuar para login ou cadatrar novo usuário com outro CPF
+
+- GOAL 3: Redirecionar à página de login
+
 **3\) CTT**
 
 # 
