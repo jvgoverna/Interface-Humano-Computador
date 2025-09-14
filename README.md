@@ -391,6 +391,22 @@ Sua análise final foi a de que a plataforma tem grande potencial competitivo, m
 **1\) HTA**
 ![HTA Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA%20Cadastro%20usuarios.png)
 
+| Objetivos/Operações | Problemas e Recomendações | 
+| --      | -- | 
+| 	0. Cadastrar usuáro na plataforma 1>2   |          | 
+| 	1. Coletar informações do usuáro 1+2+3   |          | 
+| 	1.1 Solicitar dados pessois   |   	 | 
+| 	1.2 Solicitar dados de acesso à plataforma   |   	 | 
+| 	1.3 Confirmar a leitura e aceitação dos termos de uso e política de privacidade |          	 |
+| 	2. Validar informações preenchidas 1+2  |   		 |
+| 	2.1 Verificar e-mail e senha preenchidas   |   		 |
+| 	2.2 Checar se o CPF já foi cadastrado anteriormente no sistema 1>2   |   		 |
+| 	2.2.1 Cadastrar dados pessoais e de acesso ao banco de dados se corretos   |   		 |
+| 	2.2.2 Redirecionar à página de login 1>2>3   |   		 |
+| 	2.2.2.1 Solicitar e-mail e senha cadastrados   |   		 |
+| 	2.2.2.2 Verificar e-mal e senha preenchidos   |   		 |
+| 	2.2.2.3 Redirecionamento para a página inicial da plataforma se corretos   |   		 |
+
 **2\) GOMS**
 
 **3\) CTT**
