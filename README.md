@@ -399,11 +399,11 @@ Sua análise final foi a de que a plataforma tem grande potencial competitivo, m
 | 	1.2 Solicitar dados de acesso à plataforma   |Problema: senhas fracas ou repetidas.<br>Recomendação: exigir senha forte (mínimo de caracteres, números, letras e símbolos) e validar formato de e-mail.   	 | 
 | 	1.3 Confirmar a leitura e aceitação dos termos de uso e política de privacidade |Problema: usuários podem não ler os termos.<br> Recomendação: destacar pontos críticos antes do aceite (ex: uso de dados pessoais) e exigir confirmação obrigatória para prosseguir.|
 | 	2. Validar informações preenchidas 1+2  |Ação: verificar consistência e autenticidade dos dados.<br> Recomendação: usar validações automáticas para reduzir erros manuais.|
-| 	2.1 Verificar e-mail e senha preenchida   |Problema: e-mail inválido ou duplicado.<br>Recomendação: checagem em tempo real do e-mail preenchido.|
-| 	2.2 Checar se o CPF já foi cadastrado anteriormente no sistema 1>2   |   		 |
-| 	2.2.1 Cadastrar dados pessoais e de acesso ao banco de dados se corretos   |   		 |
-| 	2.2.2 Redirecionar à página de login 1>2>3   |Problema: cadastro duplicado.<br>Recomendação: bloquear duplicidade e exibir mensagem clara ao usuário.|
-| 	2.2.2.1 Solicitar e-mail e senha cadastrados   |Plano: salvar dados somente após validação de unicidade (CPF).|
+| 	2.1 Verificar e-mail e senha preenchida   |Problema: e-mail inválido ou duplicado.<br> Recomendação: checagem em tempo real do e-mail preenchido.|
+| 	2.2 Checar se o CPF já foi cadastrado anteriormente no sistema 1>2   |Problema: cadastro duplicado.<br> Recomendação: bloquear duplicidade e exibir mensagem clara ao usuário.|
+| 	2.2.1 Cadastrar dados pessoais e de acesso ao banco de dados se corretos   |Plano: salvar dados somente após validação de unicidade (e-mail e CPF).|
+| 	2.2.2 Redirecionar à página de login 1>2>3   |Ação: após validação, redirecionar automaticamente para login.|
+| 	2.2.2.1 Solicitar e-mail e senha cadastrados   |Problema: usuários podem tentar acessar com credenciais válidas, mas em dispositivos públicos ou compartilhados (ex.: lan houses, computadores de faculdade).<br>Recomendação: oferecer opção de “Não manter conectado” por padrão e alertar sobre riscos de salvar senha em dispositivos não pessoais.|
 | 	2.2.2.2 Verificar e-mal e senha preenchidos   |Problema: login falho após cadastro.<br>Recomendação: exibir mensagens claras de erro (“E-mail ou senha incorretos”).|
 | 	2.2.2.3 Redirecionamento para a página inicial da plataforma se corretos   |Plano: acesso concedido somente após validação correta.<br>Recomendação: exibir mensagem de boas-vindas ou tutorial inicial.|
 
