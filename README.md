@@ -389,23 +389,23 @@ Sua análise final foi a de que a plataforma tem grande potencial competitivo, m
 # Castro Usuários na plataforma
 
 **1\) HTA**
-![HTA Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA%20Cadastro%20usuarios.png)
+![HTA Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA%20Cadastro%20ATT.png)
 
 | Objetivos/Operações | Problemas e Recomendações | 
 | --      | -- | 
-| 	0. Cadastrar usuáro na plataforma 1>2   |          | 
-| 	1. Coletar informações do usuáro 1+2+3   |          | 
-| 	1.1 Solicitar dados pessois   |   	 | 
-| 	1.2 Solicitar dados de acesso à plataforma   |   	 | 
-| 	1.3 Confirmar a leitura e aceitação dos termos de uso e política de privacidade |          	 |
-| 	2. Validar informações preenchidas 1+2  |   		 |
-| 	2.1 Verificar e-mail e senha preenchidas   |   		 |
+| 	0. Cadastrar usuáro na plataforma 1>2   |Input: formulário de cadastro com dados pessoais, dados de acesso e aceite dos termos. <br> Feedback: cadastro aparece como pendente até a validação do sistema.<br> Plano: informar dados e depois validar os dados preenchidos para liberar acesso. <br> Recomendação: permitir que o usuário faça o cadastro online de forma simples e intuitiva.| 
+| 	1. Coletar informações do usuáro 1+2+3   |Plano: coletar dados pessoais, credenciais de acesso e confirmação do aceite dos termos obrigatórios.| 
+| 	1.1 Solicitar dados pessois   |Problema: risco de informações incompletas ou inválidas (ex: CPF incorreto).<br> Recomendação: implementar máscaras de entrada e validação automática de campos.| 
+| 	1.2 Solicitar dados de acesso à plataforma   |Problema: senhas fracas ou repetidas.<br>Recomendação: exigir senha forte (mínimo de caracteres, números, letras e símbolos) e validar formato de e-mail.   	 | 
+| 	1.3 Confirmar a leitura e aceitação dos termos de uso e política de privacidade |Problema: usuários podem não ler os termos.<br> Recomendação: destacar pontos críticos antes do aceite (ex: uso de dados pessoais) e exigir confirmação obrigatória para prosseguir.|
+| 	2. Validar informações preenchidas 1+2  |Ação: verificar consistência e autenticidade dos dados.<br> Recomendação: usar validações automáticas para reduzir erros manuais.|
+| 	2.1 Verificar e-mail e senha preenchida   |Problema: e-mail inválido ou duplicado.<br>Recomendação: checagem em tempo real do e-mail preenchido.|
 | 	2.2 Checar se o CPF já foi cadastrado anteriormente no sistema 1>2   |   		 |
 | 	2.2.1 Cadastrar dados pessoais e de acesso ao banco de dados se corretos   |   		 |
-| 	2.2.2 Redirecionar à página de login 1>2>3   |   		 |
-| 	2.2.2.1 Solicitar e-mail e senha cadastrados   |   		 |
-| 	2.2.2.2 Verificar e-mal e senha preenchidos   |   		 |
-| 	2.2.2.3 Redirecionamento para a página inicial da plataforma se corretos   |   		 |
+| 	2.2.2 Redirecionar à página de login 1>2>3   |Problema: cadastro duplicado.<br>Recomendação: bloquear duplicidade e exibir mensagem clara ao usuário.|
+| 	2.2.2.1 Solicitar e-mail e senha cadastrados   |Plano: salvar dados somente após validação de unicidade (CPF).|
+| 	2.2.2.2 Verificar e-mal e senha preenchidos   |Problema: login falho após cadastro.<br>Recomendação: exibir mensagens claras de erro (“E-mail ou senha incorretos”).|
+| 	2.2.2.3 Redirecionamento para a página inicial da plataforma se corretos   |Plano: acesso concedido somente após validação correta.<br>Recomendação: exibir mensagem de boas-vindas ou tutorial inicial.|
 
 **2\) GOMS**
 
