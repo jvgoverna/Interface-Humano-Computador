@@ -380,6 +380,23 @@ Felipe avaliou a plataforma de forma positiva no quesito inovação, mas conclui
 
 Sua análise final foi a de que a plataforma tem grande potencial competitivo, mas precisa evoluir para oferecer flexibilidade, detalhamento técnico e maior clareza na metodologia das previsões. Dessa forma, poderia se consolidar não apenas como um apoio, mas como um diferencial em sua tomada de decisão no mercado financeiro.
 
+# Questões de refinamento (Felipe):
+
+| Indice | Elemento |Pergunta | Resposta |
+| -- | -- | -- | -- |
+| 	[1]   |   objetivo       | Quais funcionalidades avançadas são necessárias para que Felipe sinta que a plataforma realmente agrega valor às suas análises?                   |  |
+| 	[2]   |   ambiente       | Como o contexto de investidor experiente influencia a forma como Felipe interage com a plataforma?                                                |  |
+| 	[3]   |   ator(es)		 | De que maneira o alto nível de conhecimento de Felipe pode se tornar uma barreira, levando-o a considerar a plataforma simplista ou insuficiente? |  |
+| 	[4]   |   planejamento	 | Como Felipe organiza suas etapas de análise e de que forma a plataforma poderia apoiar melhor esse fluxo?                        	             |  |
+| 	[5]   |   ação       	 | O que acontece quando Felipe tenta personalizar relatórios ou cruzar informações externas com os dashboards oferecidos pela plataforma?           |  |
+| 	[6]   |   evento		 | Que situações do mercado despertam em Felipe a necessidade de recorrer a previsões mais claras e detalhadas? 						     	     |  |
+| 	[7]   |   avaliação		 | Como Felipe percebe o equilíbrio entre inovação tecnológica e usabilidade prática na plataforma?												     |  |
+
+# Refinamento do Cenário Análise/Problema (Felipe)
+### Busca por Mais Conhecimento: A Necessidade de Ferramentas Avançadas para Investidores Experientes
+Atores: Felipe (investidor Agressivo)
+
+
 # **Entrega 5  (data) \[em andamento/concluído\]**
 
 **\[1 solução por pessoa\]**
