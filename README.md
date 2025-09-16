@@ -490,7 +490,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **3\) CTT**
 
-![CTT Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT.png)
+![CTT Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT%20ATT.png)
 # 
 
 # **Entrega 6  (data) \[em andamento/concluído\]**
