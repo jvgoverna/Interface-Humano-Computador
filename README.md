@@ -479,16 +479,16 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 - GOAL 4: Redirecionar à página de login
 	- GOAL 4.A: acessar a tela de login exibida pelo sistema
-		- OP 4.A.A.1: reconhecer a mensagem de feedback (“Cadastro realizado com sucesso” ou “CPF já cadastrado”)
-  		- OP 4.A.A.2: clicar no botão/link “Ir para login”
-    	- OP 4.A.A.3: identificar os campos de e-mail e senha na tela de login
-		- OP 4.A.A.4: focar o cursor no campo de e-mail para iniciar autenticação
-  		- OP 4.A.A.5: clicar no botão Logar e aguardar o redirecionamento para a página inicial, caso o usuário já esteja previamente cadastrado.
+		- OP 4.A.1: reconhecer a mensagem de feedback (“Cadastro realizado com sucesso” ou “CPF já cadastrado”)
+  		- OP 4.A.2: clicar no botão/link “Ir para login”
+    	- OP 4.A.3: identificar os campos de e-mail e senha na tela de login
+		- OP 4.A.4: focar o cursor no campo de e-mail para iniciar autenticação
+  		- OP 4.A.5: clicar no botão Logar e aguardar o redirecionamento para a página inicial, caso o usuário já esteja previamente cadastrado.
     
 	- GOAL 4.B: validar dados de acesso da plataforma (tela login) <br>
-		- OP 4.B.B.1: validar rejeição do e-mail ou senha
-   		- OP 4.B.B.2:	interpretar mensagens de erro e realizar a correção
-		- OP 4.B.B.3: corrigir campos e clicar novamente no botão de logar	
+		- OP 4.B.1: validar rejeição do e-mail ou senha
+   		- OP 4.B.2:	interpretar mensagens de erro e realizar a correção
+		- OP 4.B.3: corrigir campos e clicar novamente no botão de logar	
 
 **3\) CTT**
 
