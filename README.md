@@ -421,7 +421,7 @@ Esse cenário revela [7] falhas de interface humano-computador relacionadas à f
 
 **Análise de Tarefas**
 
-# Castro Usuários na plataforma
+# Cadastro de Usuários na plataforma
 
 **1\) HTA**
 ![HTA Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA%20Att.png)
