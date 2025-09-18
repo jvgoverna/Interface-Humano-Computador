@@ -171,7 +171,9 @@ Atualmente, observa-se uma tendência no uso de aplicações móveis e web que o
 Atores: Pedro 
 
 
-Pedro Henrique tem 21 anos e é cientista da computação. Seus pais sempre enfatizaram a importância de investir para garantir um futuro financeiro tranquilo. No entanto, devido à sua rotina cheia, trabalhando pela manhã e estudando à tarde-noite, ele tem pouco tempo para se dedicar ao estudo de investimentos. Mesmo aos finais de semana, ele precisa se concentrar nas tarefas da faculdade, no TCC e na iniciação didática. Embora tenha o desejo de investir em ações, ele se sente inseguro e tem medo de perder dinheiro por falta de conhecimento.
+Pedro Henrique tem 21 anos, é estudante de Ciência da Computação e trabalha pela manhã, estudando à tarde-noite. Solteiro, mora com os pais e tem renda de estagiário/trainee, o que o torna atento a custos e sensível a riscos. Vive em um grande centro urbano no Brasil, desloca-se de transporte público e alterna entre notebook (para tarefas longas) e celular (para consultas rápidas).
+
+Seus pais sempre enfatizaram a importância de investir para garantir um futuro financeiro tranquilo. No entanto, devido à sua rotina cheia, trabalhando pela manhã e estudando à tarde-noite, ele tem pouco tempo para se dedicar ao estudo de investimentos. Mesmo aos finais de semana, ele precisa se concentrar nas tarefas da faculdade, no TCC e na iniciação didática. Embora tenha o desejo de investir em ações, ele se sente inseguro e tem medo de perder dinheiro por falta de conhecimento.
 
 Durante uma pesquisa no GitHub, Pedro encontrou o repositório do InvestMind, que oferece sugestões de ações com base em previsões de um modelo de machine learning. Com sua formação em ciência da computação, ele se sentiu mais seguro para arriscar, confiando no fato de que o modelo poderia fazer uma análise temporal dos preços das ações e recomendar o melhor momento para investir. Embora não soubesse exatamente qual modelo foi utilizado, ele confiava na ideia de que o sistema de IA seria mais preciso do que suas próprias decisões.
 
@@ -295,30 +297,6 @@ Nome: João Vitor | Idade: 65 anos
 
 2) ## **Questões de Refinamento**
 
-2.1) Questões de refinamento (Pedro):
-
-
-
-
-
-{Pedro começou a investir no ano passado utilizando o software InvestMind,[1] uma plataforma que recomenda ações com base na predição de preços futuros. Logo no início, ao criar sua conta, ele respondeu ao questionário de Suitability e foi classificado como um investidor agressivo, perfil que condizia com seu comportamento naquele momento. Com isso, o sistema passou a recomendar ativos de maior risco e alta volatilidade, compatíveis com essa classificação.
-
-Com o passar do tempo (1 ano), Pedro modificou seu comportamento de investimento. Ele passou a se interessar por ações mais estáveis, de menor risco e volatilidade, adotando assim uma postura mais conservadora. O problema é que o software não possuía qualquer mecanismo automático para identificar essa mudança de comportamento ou sugerir uma reavaliação do perfil. Dessa forma, as recomendações continuaram sendo voltadas a um investidor agressivo.
-
-Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, seguiu aplicando seu dinheiro nos ativos sugeridos pela plataforma. Ao final do período planejado, constatou que havia sofrido perdas financeiras em razão da alta volatilidade das ações escolhidas. Apenas após esse prejuízo, ele verificou manualmente seu perfil no sistema, refez o questionário de Suitability e, então, foi corretamente reclassificado como conservador.
-
-Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.}
-
-# Cenário de Análise/Problema - Pedro
-Atores: Pedro
-
-Pedro começou a investir no ano passado utilizando o software InvestMind, uma plataforma que recomenda ações com base na predição de preços futuros. Logo no início, ao criar sua conta, ele respondeu ao questionário de Suitability e foi classificado como um investidor agressivo, perfil que condizia com seu comportamento naquele momento. Com isso, o sistema passou a recomendar ativos de maior risco e alta volatilidade, compatíveis com essa classificação.
-
-Com o passar do tempo (1 ano), Pedro modificou seu comportamento de investimento. Ele passou a se interessar por ações mais estáveis, de menor risco e volatilidade, adotando assim uma postura mais conservadora. O problema é que o software não possuía qualquer mecanismo automático para identificar essa mudança de comportamento ou sugerir uma reavaliação do perfil. Dessa forma, as recomendações continuaram sendo voltadas a um investidor agressivo.
-
-Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, seguiu aplicando seu dinheiro nos ativos sugeridos pela plataforma. Ao final do período planejado, constatou que havia sofrido perdas financeiras em razão da alta volatilidade das ações escolhidas. Apenas após esse prejuízo, ele verificou manualmente seu perfil no sistema, refez o questionário de Suitability e, então, foi corretamente reclassificado como conservador.
-
-Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.
 
 # Tebela de refinamento
 
@@ -405,6 +383,52 @@ Ao utilizar a plataforma, Felipe segue uma sequência de etapas: cria sua conta,
 A necessidade de previsões mais claras e detalhadas torna-se ainda mais evidente em situações de alta volatilidade do mercado, como oscilações do dólar, impacto das commodities ou a divulgação de balanços trimestrais de grandes empresas. Esses eventos disparam sua busca por relatórios mais transparentes e detalhados, que lhe permitam validar de forma independente as informações fornecidas pelo sistema [6].
 
 Ao final, Felipe reconhece a plataforma como uma iniciativa inovadora, principalmente pelo uso de técnicas modernas de deep learning (LSTM). Contudo, sua avaliação mostra que ainda há desequilíbrio entre inovação tecnológica e usabilidade prática. Para ele, a ausência de flexibilidade, clareza metodológica e opções de integração compromete o potencial de a plataforma se consolidar como diferencial em sua tomada de decisão [7].
+
+
+
+
+
+
+
+# Cenário de Análise/Problema - Pedro
+### Frustação: A Necessidade de reavaliação do perfil de investidor
+Atores: Pedro
+
+Pedro começou a investir no ano passado utilizando o software InvestMind [1]. [5] ao criar sua conta, ele logou e respondeu ao questionário de Suitability e foi classificado como um investidor agressivo, perfil que condizia com seu comportamento naquele momento. Com isso, o sistema passou a recomendar ativos de maior risco e alta volatilidade, compatíveis com essa classificação.
+
+Com o passar do tempo (1 ano), Pedro modificou seu comportamento de investimento. Ele passou a se interessar por ações mais estáveis, de menor risco e volatilidade, adotando assim uma postura mais conservadora. O problema é que o software não possuía qualquer mecanismo automático para identificar essa mudança de comportamento ou sugerir uma reavaliação do perfil. Dessa forma, as recomendações continuaram sendo voltadas a um investidor agressivo.
+
+Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, seguiu aplicando seu dinheiro nos ativos sugeridos pela plataforma. Ao final do período planejado, constatou que havia sofrido perdas financeiras em razão da alta volatilidade das ações escolhidas. Apenas após esse prejuízo, ele verificou manualmente seu perfil no sistema, refez o questionário de Suitability e, então, foi corretamente reclassificado como conservador.
+
+Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.
+
+# Questões de refinamento (Pedro):
+
+
+| Indice | Elemento       | Pergunta                                                    | Resposta |
+|---|---|---|---|
+| [1] ok | objetivo         | Qual é o objetivo principal do Pedro ao usar o InvestMind?  | Seu objetivo ao usar o InvestMind é converter janelas curtas em decisões seguras e objetivas, evitando dinheiro parado e minimizando decisões leigas. |
+| [2] ok | ambiente         | Em que contexto por trás do descobrimento da plataforme?     | Pedro utiliza seu notebook para realizar suas tarefas acadêmicas , para aprender e programar e para realizar investimentos no portal do Banco, enquanto usa seu celular para lazer como escutar música, assistir videos no youtube ou jogar jogos mobile. Durante uma de suas sesão de estudo de IA pedro descobriu um repositório do Github chamado InvestMind.  |
+| [3] ok | ator(es)         | Quais atores foram impactados pela perda | Pedro ficou abatido ao perceber que as ações em que havia investido caíram, em vez de subir como esperava. Chorou, contou aos pais a perda de R$ 500 e, no calor do momento, culpou o InvestMind, chamou o software de “péssimo” e afirmou que a responsabilidade não era dele, a notícia logo se espalhou pela vizinhança e os vizinhos passaram a conhecer o software como ínutil |
+| [4] | planejamento     	| Quais metas, critérios e configurações Pedro define antes de usar o aplicativo?      | Após ler o README, Pedro entende que o InvestMind apenas sugere oportunidades a decisão de utilizar ou não é dele. Por isso, define metas SMART: alcançar R$ 1.000 de lucro em 12 meses, desembolsando R$ 200/mês. |
+| [5] ok | ação            	| Quais ações realiza na interface para poder acessar o core (carteira de investimentos) do aplicativo?                         | Ao abrir o aplicativo Pedro se deparou com uma interface escrita login, ele não possuia login, então interagiu com o botão cadastro, inseriu as credenciais solicitadas (CPF, nome, sobrenome, celular, idade) e em seguida submeteu as credenciais fornecidas. |
+| [6]  | evento           | Quais eventos (de mercado, do sistema e pessoais) levaram Pedro a mudar seu comportamento de investidor?           | Pedro começou a presenciar que seus amigos proximos começaram a utilizar seus dinheiros ganhos com esforços em apostas e cassinos, alegando que iria aumentar sua renda, mas, pelo contrário, os levou a perder dinheiro, Pedro, que não é bobo, começou a repensar suas próprias ações de investimento. |
+| [7]  ok| avaliação        | A interface preveniu o erro, comunicou o perfil e suportou a reavaliação no tempo certo?                | A interface do aplicativo falha em prevenir erros e comunicar de forma eficaz o perfil do investidor ao longo da jornada do usuário. A informação sobre o perfil é apresentada apenas no questionário inicial de suitability e, depois disso, desaparece da tela principal. Isso cria um problema, pois o usuário pode se esquecer do seu perfil e tomar decisões de investimento que não se alinham com seus objetivos e tolerância a risco, o que pode levar a perdas financeiras e frustração.  |
+
+
+
+# Refinamento do Cenário Análise/Problema (Pedro)
+### Frustação: A Necessidade de reavaliação do perfil de investidor
+Atores: Pedro
+
+[1] Pedro começou a investir há um ano usando o software InvestMind. [5] Ao criar sua conta, ele fez o login, respondeu ao questionário de suitability e foi classificado como um investidor agressivo, um perfil que combinava com seu comportamento na época. Com isso, o sistema começou a recomendar ativos de maior risco e alta volatilidade, compatíveis com sua classificação.
+
+[2] Com o passar do tempo, [6]. Ele passou a se interessar por ações mais estáveis, de menor risco e volatilidade, adotando uma postura mais conservadora. O problema, no entanto, é que o software não possuía qualquer mecanismo automático para identificar essa mudança de comportamento ou para sugerir uma reavaliação do perfil. Dessa forma, as recomendações continuaram sendo voltadas para um investidor agressivo.
+
+Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, continuou aplicando seu dinheiro nos ativos sugeridos pela plataforma. Ao final do período [4] planejado, [3] ele descobriu que havia sofrido perdas financeiras por causa da alta volatilidade das ações que escolheu. Foi somente após o prejuízo que ele verificou manualmente seu perfil no sistema, refez o questionário de suitability e, então, foi corretamente reclassificado como conservador.
+
+Esse cenário revela [7] falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo mais visual e claro sobre o perfil atual de Pedro e deveria se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos, o sistema poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis com a sua nova estratégia.
+
 
 # **Entrega 5  (data) \[em andamento/concluído\]**
 
