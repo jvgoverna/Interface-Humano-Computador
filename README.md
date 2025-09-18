@@ -293,9 +293,9 @@ Nome: João Vitor | Idade: 65 anos
 
 **Dica: Cada membro de equipe deve pensar em cenários existentes na atualidade (que causam problemas para os usuários) e que a interface prevista ajudará a resolver o problema. Cenário de Análise/Problema é uma história triste. Não descreve a solução. Descreve somente o problema.**
 
-1) **Cenário de Análise/Problema**
+## 1) **Cenário de Análise/Problema**
 
-# Cenário de Análise/Problema - João Vitor
+### Cenário de Análise/Problema - João Vitor
 ### Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes
 Atores: João Vitor (investidor iniciante)
 
@@ -307,7 +307,7 @@ Após a classificação é recomendado diversas ações para investir, porém es
 
 João avalia a plataforma de forma negativa, concluindo que o site é útil para pessoas que apresentam um conhecimento prévio sobre investimento financeiro, não sendo o caso dele e se sentindo frustado e inseguro se realmente vale a pena retirar seu investimento na poupança, por sua incapacidade de interpretar as informações e gráficos oferecidos a ele. Sua ação final foi de fechar a plataforma, abandonar o uso e continuar pesquisando sobre esse universo com amigos.
 
-# Cenário de Análise/Problema - Felipe
+### Cenário de Análise/Problema - Felipe
 ### Busca por Mais Conhecimento: A Necessidade de Ferramentas Avançadas para Investidores Experientes
 Atores: Felipe Orlando (Investidor Agressivo)
 
@@ -319,7 +319,7 @@ Felipe avaliou a plataforma de forma positiva no quesito inovação, mas conclui
 
 Sua análise final foi a de que a plataforma tem grande potencial competitivo, mas precisa evoluir para oferecer flexibilidade, detalhamento técnico e maior clareza na metodologia das previsões. Dessa forma, poderia se consolidar não apenas como um apoio, mas como um diferencial em sua tomada de decisão no mercado financeiro.
 
-# Cenário de Análise/Problema - Pedro
+### Cenário de Análise/Problema - Pedro
 ### Frustação: A Necessidade de reavaliação do perfil de investidor
 Atores: Pedro
 
