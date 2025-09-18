@@ -295,21 +295,6 @@ Nome: João Vitor | Idade: 65 anos
 
 1) **Cenário de Análise/Problema**
 
-2) ## **Questões de Refinamento**
-
-
-# Tebela de refinamento
-
-| Indice | Elemento |Pergunta | Resposta |
-| -- | -- | -- | -- |
-| 	[1]   |   objetivo       |     De que informações ou conhecimento os atores precisam para realizar esse objetivo?							 | para isso ele acessou o repositório no git do projeto, clonou o repositorio e em seguida acessou o terminal e rodou o comando npm run dev, |
-| 	[2]   |   ambiente       |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
-| 	[3]   |   atores		 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
-| 	[4]   |   planejamento	 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
-| 	[5]   |   ação       	 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
-| 	[6]   |   evento		 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
-| 	[7]   |   avaliação		 |     Quais informações são ou deveriam ser criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo |  |
-
 # Cenário de Análise/Problema - João Vitor
 ### Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes
 Atores: João Vitor (investidor iniciante)
@@ -321,6 +306,32 @@ Após um longo dia de trabalho, João está em sua casa à frente de seu computa
 Após a classificação é recomendado diversas ações para investir, porém essas recomendações apresentam uma linguagem de difícil entendimento, com gráficos e dashboards com letras pequenas, linguagem técnica e cores de fácil confusão, não entendendo o significado de termos como volatilidade e não encontrando explicação simples no site.
 
 João avalia a plataforma de forma negativa, concluindo que o site é útil para pessoas que apresentam um conhecimento prévio sobre investimento financeiro, não sendo o caso dele e se sentindo frustado e inseguro se realmente vale a pena retirar seu investimento na poupança, por sua incapacidade de interpretar as informações e gráficos oferecidos a ele. Sua ação final foi de fechar a plataforma, abandonar o uso e continuar pesquisando sobre esse universo com amigos.
+
+# Cenário de Análise/Problema - Felipe
+### Busca por Mais Conhecimento: A Necessidade de Ferramentas Avançadas para Investidores Experientes
+Atores: Felipe Orlando (Investidor Agressivo)
+
+Felipe Orlando tem 42 anos, é engenheiro civil e investe em ações há mais de 10 anos. Ele possui uma carteira diversificada, acompanha diariamente o mercado e domina conceitos como volatilidade, dividend yield e valuation. Apesar de sua experiência, Felipe está sempre em busca de novas ferramentas que ofereçam previsões mais precisas e análises mais sofisticadas para apoiar suas decisões de investimento. Ao conhecer a plataforma, ele criou sua conta, respondeu ao questionário de suitability e foi classificado como investidor agressivo.
+
+Após a classificação, Felipe teve acesso a dashboards avançados com gráficos preditivos baseados em modelos de deep learning (LSTM). Embora a proposta tenha despertado seu interesse, percebeu que alguns relatórios apresentavam informações redundantes e pouco personalizáveis, o que limitava a integração dos dados da plataforma com suas próprias análises. Além disso, notou que em determinados momentos os gráficos não explicavam de forma clara os fatores externos considerados nas previsões, como variações do dólar ou o impacto de commodities, dificultando a validação completa das projeções.
+
+Felipe avaliou a plataforma de forma positiva no quesito inovação, mas concluiu que ainda existem barreiras para investidores experientes que buscam maior profundidade técnica. A ausência de filtros avançados, de maior transparência sobre as variáveis usadas nos modelos e de opções de exportação de relatórios para outras ferramentas que ele utiliza, limitou a sua experiência.
+
+Sua análise final foi a de que a plataforma tem grande potencial competitivo, mas precisa evoluir para oferecer flexibilidade, detalhamento técnico e maior clareza na metodologia das previsões. Dessa forma, poderia se consolidar não apenas como um apoio, mas como um diferencial em sua tomada de decisão no mercado financeiro.
+
+# Cenário de Análise/Problema - Pedro
+### Frustação: A Necessidade de reavaliação do perfil de investidor
+Atores: Pedro
+
+Pedro começou a investir no ano passado utilizando o software InvestMind [1]. [5] ao criar sua conta, ele logou e respondeu ao questionário de Suitability e foi classificado como um investidor agressivo, perfil que condizia com seu comportamento naquele momento. Com isso, o sistema passou a recomendar ativos de maior risco e alta volatilidade, compatíveis com essa classificação.
+
+Com o passar do tempo (1 ano), Pedro modificou seu comportamento de investimento. Ele passou a se interessar por ações mais estáveis, de menor risco e volatilidade, adotando assim uma postura mais conservadora. O problema é que o software não possuía qualquer mecanismo automático para identificar essa mudança de comportamento ou sugerir uma reavaliação do perfil. Dessa forma, as recomendações continuaram sendo voltadas a um investidor agressivo.
+
+Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, seguiu aplicando seu dinheiro nos ativos sugeridos pela plataforma. Ao final do período planejado, constatou que havia sofrido perdas financeiras em razão da alta volatilidade das ações escolhidas. Apenas após esse prejuízo, ele verificou manualmente seu perfil no sistema, refez o questionário de Suitability e, então, foi corretamente reclassificado como conservador.
+
+Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.
+
+2) ## **Questões de Refinamento**
 
 # Questões de refinamento (João Vitor):
 
@@ -346,17 +357,6 @@ Após a classificação é recomendado diversas ações para investir, porém es
 
 João avalia a plataforma de forma negativa, concluindo que o site é útil para pessoas que apresentam um conhecimento prévio sobre investimento financeiro, não sendo o caso dele e se sentindo frustado e inseguro se realmente vale a pena retirar seu investimento na poupança, por sua incapacidade de interpretar as informações e gráficos oferecidos a ele. Sua ação final foi de fechar a plataforma, abandonar o uso e continuar pesquisando sobre esse universo com amigos [7].
 
-# Cenário de Análise/Problema - Felipe
-### Busca por Mais Conhecimento: A Necessidade de Ferramentas Avançadas para Investidores Experientes
-Atores: Felipe Orlando (Investidor Agressivo)
-
-Felipe Orlando tem 42 anos, é engenheiro civil e investe em ações há mais de 10 anos. Ele possui uma carteira diversificada, acompanha diariamente o mercado e domina conceitos como volatilidade, dividend yield e valuation. Apesar de sua experiência, Felipe está sempre em busca de novas ferramentas que ofereçam previsões mais precisas e análises mais sofisticadas para apoiar suas decisões de investimento. Ao conhecer a plataforma, ele criou sua conta, respondeu ao questionário de suitability e foi classificado como investidor agressivo.
-
-Após a classificação, Felipe teve acesso a dashboards avançados com gráficos preditivos baseados em modelos de deep learning (LSTM). Embora a proposta tenha despertado seu interesse, percebeu que alguns relatórios apresentavam informações redundantes e pouco personalizáveis, o que limitava a integração dos dados da plataforma com suas próprias análises. Além disso, notou que em determinados momentos os gráficos não explicavam de forma clara os fatores externos considerados nas previsões, como variações do dólar ou o impacto de commodities, dificultando a validação completa das projeções.
-
-Felipe avaliou a plataforma de forma positiva no quesito inovação, mas concluiu que ainda existem barreiras para investidores experientes que buscam maior profundidade técnica. A ausência de filtros avançados, de maior transparência sobre as variáveis usadas nos modelos e de opções de exportação de relatórios para outras ferramentas que ele utiliza, limitou a sua experiência.
-
-Sua análise final foi a de que a plataforma tem grande potencial competitivo, mas precisa evoluir para oferecer flexibilidade, detalhamento técnico e maior clareza na metodologia das previsões. Dessa forma, poderia se consolidar não apenas como um apoio, mas como um diferencial em sua tomada de decisão no mercado financeiro.
 
 # Questões de refinamento (Felipe):
 
@@ -384,23 +384,6 @@ A necessidade de previsões mais claras e detalhadas torna-se ainda mais evident
 
 Ao final, Felipe reconhece a plataforma como uma iniciativa inovadora, principalmente pelo uso de técnicas modernas de deep learning (LSTM). Contudo, sua avaliação mostra que ainda há desequilíbrio entre inovação tecnológica e usabilidade prática. Para ele, a ausência de flexibilidade, clareza metodológica e opções de integração compromete o potencial de a plataforma se consolidar como diferencial em sua tomada de decisão [7].
 
-
-
-
-
-
-
-# Cenário de Análise/Problema - Pedro
-### Frustação: A Necessidade de reavaliação do perfil de investidor
-Atores: Pedro
-
-Pedro começou a investir no ano passado utilizando o software InvestMind [1]. [5] ao criar sua conta, ele logou e respondeu ao questionário de Suitability e foi classificado como um investidor agressivo, perfil que condizia com seu comportamento naquele momento. Com isso, o sistema passou a recomendar ativos de maior risco e alta volatilidade, compatíveis com essa classificação.
-
-Com o passar do tempo (1 ano), Pedro modificou seu comportamento de investimento. Ele passou a se interessar por ações mais estáveis, de menor risco e volatilidade, adotando assim uma postura mais conservadora. O problema é que o software não possuía qualquer mecanismo automático para identificar essa mudança de comportamento ou sugerir uma reavaliação do perfil. Dessa forma, as recomendações continuaram sendo voltadas a um investidor agressivo.
-
-Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, seguiu aplicando seu dinheiro nos ativos sugeridos pela plataforma. Ao final do período planejado, constatou que havia sofrido perdas financeiras em razão da alta volatilidade das ações escolhidas. Apenas após esse prejuízo, ele verificou manualmente seu perfil no sistema, refez o questionário de Suitability e, então, foi corretamente reclassificado como conservador.
-
-Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo melhor, mais visual sobre o tipo de perfil atual de Pedro e poderia se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos o sistema deveria realizar uma reavaliação periódica do perfil de investidor para verificar se o mesmo se manteve. Após seis meses de uso, o aplicativo poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis.
 
 # Questões de refinamento (Pedro):
 
