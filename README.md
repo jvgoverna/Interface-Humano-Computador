@@ -424,12 +424,12 @@ Esse cenário revela [7] falhas de interface humano-computador relacionadas à f
 # Castro Usuários na plataforma
 
 **1\) HTA**
-![HTA Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA%20Cadastro%20ATT.png)
+![HTA Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA%20Att.png)
 
 | Objetivos/Operações | Problemas e Recomendações | 
 | --      | -- | 
 | 	0. Cadastrar usuáro na plataforma 1>2   |Input: formulário de cadastro com dados pessoais, dados de acesso e aceite dos termos. <br> Feedback: cadastro aparece como pendente até a validação do sistema.<br> Plano: informar dados e depois validar os dados preenchidos para liberar acesso. <br> Recomendação: permitir que o usuário faça o cadastro online de forma simples e intuitiva.| 
-| 	1. Coletar informações do usuáro 1+2+3   |Plano: coletar dados pessoais, credenciais de acesso e confirmação do aceite dos termos obrigatórios.| 
+| 	1. Coletar informações do usuáro (1+2) > 3   |Plano: coletar dados pessoais, credenciais de acesso e confirmação do aceite dos termos obrigatórios.| 
 | 	1.1 Solicitar dados pessois   |Problema: risco de informações incompletas ou inválidas (ex: CPF incorreto).<br> Recomendação: implementar máscaras de entrada e validação automática de campos.| 
 | 	1.2 Solicitar dados de acesso à plataforma   |Problema: senhas fracas ou repetidas.<br>Recomendação: exigir senha forte (mínimo de caracteres, números, letras e símbolos) e validar formato de e-mail.   	 | 
 | 	1.3 Confirmar a leitura e aceitação dos termos de uso e política de privacidade |Problema: usuários podem não ler os termos.<br> Recomendação: destacar pontos críticos antes do aceite (ex: uso de dados pessoais) e exigir confirmação obrigatória para prosseguir.|
