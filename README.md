@@ -469,7 +469,6 @@ GOAL 0: Cadastrar usuáro na plataforma
   	- OP.2.A.1: verificar campos do formulário
   	- OP.2.A.2: preencher campos do formulário
 	- OP.2.A.3: clicar no botão “Cadastrar” <br>
-  	- OP.2.A.4: Aguardar e verificar redirecionamento para a página de login caso dados preenchidos corretamente
 
 
 	- GOAL 2.A.3.A: validar dados pessoais
