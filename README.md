@@ -447,13 +447,20 @@ Esse cenário revela [7] falhas de interface humano-computador relacionadas à f
 GOAL 0: Cadastrar usuáro na plataforma
 
 - GOAL 1: Coletar informações do usuáro
-	<!-- - METHOD 1.A: preencher os dados pessoais manualmente <br>
-   	(SEL.RULE: todos os campos obrigatórios devem ser preenchidos) -->
+	 - METHOD 1.A: preencher os dados pessoais manualmente <br>
+ 	(SEL.RULE: todos os campos obrigatórios devem ser preenchidos)
   
-   	- OP.1.A.1: preencher os dados pessoais (nome, CPF, data de nascimento,...)
-	- OP.1.A.2: preencher os dados de aceso (e-mail e senha)
-   	- OP.1.A.3: marcar checkbox de aceite dos termos de uso e política de privacidade
-  	- OP.1.A.4: planejar a sequência de preenchimento (dados pessoais → acesso → termos)	
+	   	- OP.1.A.1: preencher os dados pessoais (nome, CPF, data de nascimento,...)
+		- OP.1.A.2: preencher os dados de aceso (e-mail e senha)
+	   	- OP.1.A.3: marcar checkbox de aceite dos termos de uso e política de privacidade
+	  	- OP.1.A.4: planejar a sequência de preenchimento (dados pessoais → acesso → termos)
+    	- OP.1.A.5: verificar se os dados foram preenchidos corretamnente
+      
+    - METHOD 1.B: Preencher os dados pessoais utilizando comando por voz
+    (SEL.RULE: todos os campos obrigatórios devem ser preenchidos)
+		- OP.1.B.1: clicar ou tocar no ícone de microfone ao lado do campo.
+    	- OP.1.B.2: ditar a informação desejada
+     	- OP.1.B.3: verificar se os dados foram preenchidos corretamnente
      
 - GOAL 2: Validar informações preenchidas
 	<!-- - METHOD 2.A: validar informações dos dados do usuário <br>
@@ -462,7 +469,7 @@ GOAL 0: Cadastrar usuáro na plataforma
   	- OP.2.A.1: verificar campos do formulário
   	- OP.2.A.2: preencher campos do formulário
 	- OP.2.A.3: clicar no botão “Cadastrar” <br>
-  	- OP.2.A.4: Aguardar redirecionamento para a página de login caso dados preenchidos corretamente
+  	- OP.2.A.4: Aguardar e verificar redirecionamento para a página de login caso dados preenchidos corretamente
 
 
 	- GOAL 2.A.3.A: validar dados pessoais
@@ -472,7 +479,7 @@ GOAL 0: Cadastrar usuáro na plataforma
    		- OP.2.A.3.B.1: validar rejeição do e-mail ou senha
    	  	- OP.2.A.3.B.2:	interpretar mensagens de erro e realizar a correção
 		- OP.2.A.3.B.3: corrigir campos e clicar novamente no botão de cadastrar	 	 
-  
+  		- OP.2.A.3.B.4: aguardar e verificar a exibição da mensagem de sucesso do cadastro
 	 	
 
 - GOAL 3: Checar se o CPF já foi cadastrado anteriormente no sistema
@@ -491,11 +498,13 @@ GOAL 0: Cadastrar usuáro na plataforma
     	- OP 4.A.3: identificar os campos de e-mail e senha na tela de login
 		- OP 4.A.4: focar o cursor no campo de e-mail para iniciar autenticação
   		- OP 4.A.5: clicar no botão Logar e aguardar o redirecionamento para a página inicial, caso o usuário já esteja previamente cadastrado.
+    	- OP 4.A.6: aguardar e verificar se a página inicial foi carregada
     
 	- GOAL 4.B: validar dados de acesso da plataforma (tela login) <br>
 		- OP 4.B.1: validar rejeição do e-mail ou senha
    		- OP 4.B.2:	interpretar mensagens de erro e realizar a correção
-		- OP 4.B.3: corrigir campos e clicar novamente no botão de logar	
+		- OP 4.B.3: corrigir campos e clicar novamente no botão de logar
+  		- OP 4.B.4: aguardar e verificar se a página de login foi carregada	
 
 **3\) CTT**
 
