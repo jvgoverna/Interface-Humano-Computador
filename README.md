@@ -459,8 +459,10 @@ GOAL 0: Cadastrar usuáro na plataforma
     - METHOD 1.B: Preencher os dados pessoais utilizando comando por voz <br>
     (SEL.RULE: todos os campos obrigatórios devem ser preenchidos)
 		- OP.1.B.1: clicar ou tocar no ícone de microfone ao lado do campo.
-    	- OP.1.B.2: ditar a informação desejada
-     	- OP.1.B.3: verificar se os dados foram preenchidos corretamnente
+    	- OP.1.B.2: ditar os dados pessoais (nome, CPF, data de nascimento,...)
+     	- OP.1.B.3: ditar os dados de acesso (e-mail e senha)
+      	- OP.1.B.4: marcar checkbox de aceite dos termos de uso e política de privacidade 
+     	- OP.1.B.5: verificar se os dados foram preenchidos corretamnente
      
 - GOAL 2: Validar informações preenchidas
 	<!-- - METHOD 2.A: validar informações dos dados do usuário <br>
