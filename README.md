@@ -478,7 +478,7 @@ GOAL 0: Cadastrar usuáro na plataforma
    		- OP.2.A.3.B.1: validar rejeição do e-mail ou senha
    	  	- OP.2.A.3.B.2:	interpretar mensagens de erro e realizar a correção
 		- OP.2.A.3.B.3: corrigir campos e clicar novamente no botão de cadastrar	 	 
-  		- OP.2.A.3.B.4: aguardar e verificar a exibição da mensagem de sucesso do cadastro
+  		- OP.2.A.3.B.4: aguardar e verificar a exibição da mensagem de sucesso do cadastro dos dados pessoais
 	 	
 
 - GOAL 3: Checar se o CPF já foi cadastrado anteriormente no sistema
