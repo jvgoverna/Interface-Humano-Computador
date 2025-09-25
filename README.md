@@ -456,7 +456,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 	  	- OP.1.A.4: planejar a sequência de preenchimento (dados pessoais → acesso → termos)
     	- OP.1.A.5: verificar se os dados foram preenchidos corretamnente
       
-    - METHOD 1.B: Preencher os dados pessoais utilizando comando por voz
+    - METHOD 1.B: Preencher os dados pessoais utilizando comando por voz <br>
     (SEL.RULE: todos os campos obrigatórios devem ser preenchidos)
 		- OP.1.B.1: clicar ou tocar no ícone de microfone ao lado do campo.
     	- OP.1.B.2: ditar a informação desejada
