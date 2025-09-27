@@ -528,14 +528,25 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 * **Que dados coletar?**
 
+  Para embasar a definição de requisitos de IHC em uma plataforma de recomendação de ações, é essencial levantar informações do usuário (a respeito do perfil demográfico, letramento digital e financeiro e limitações de acessibilidade) , sua relação com a tecnologia
+(habilidade com computadores, apps financeiros já utilizados, dificuldades recorrentes de navegação, contexto e frequência de uso), seu conhecimento e domínio em investimentos (objetivos, tolerância a riscos, explicações sobre o assunto) e por fim suas tarefas e metas dentro do sistema (receber recomendações de ações com seu perfil, simular carteira de investimento, ter um perfil de investimento traçado).
+
+
 * **De quem coletar?**
 
+  A coleta dessas informações serão destinadas aos usuários finais do nosso sistema, abrangendo perfis com diferentes níveis de familiaridade digital, financeira e contextos de usos. Utilizando como bases usuários iniciantes e experientes no meio financeiro com diferentes faixas etárias, rotinas e objetivos em nossa plataforma.
 	
 
 **2\)	Aspectos Éticos**
 
 * **Seu projeto deverá considerar aspectos éticos? Justifique usando os conceitos da aula.**
 
+	Sim, o projeto deve necessariamente considerar aspectos éticos, pois envolve pessoas e o tratamento de dados pessoais e financeiros. Os dados dos usuário ( Dados pessoais, de loguin e questionário de suitability) seguirá os princípios de autonomia, beneficência, não maleficência e justiça e equidade, com consentimento informado claro e possibilidade de retirada a qualquer momento.
+
+	- Autonomia: Explicar o uso dos dados coletados e possibilidade de de recusar/desistir e pedir permissão para gravações.
+ 	- Beneficiência: Ponderar riscos/benefícios e maximizar benefícios (ex.: explicar limitações das recomendações, destacar que não é aconselhamento personalizado)
+  	- Não Maleficiência: Minimizar danos previsíveis (ex.: evitar que uma interface induza interpretações erradas de risco/retorno de alguma ação).
+  	- Justiça e equidade: assegurar relevância social e evitar ônus indevido a grupos vulneráveis (ex.: linguagem acessível, acessibilidade digital).
 	
 
 **\[PARTE B: 1 solução completa por pessoa da equipe \- e com técnicas diferente; questionário deve ser uma das técnicas escolhidas\]**
