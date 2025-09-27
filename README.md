@@ -528,7 +528,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 * **Que dados coletar?**
 
-  Para embasar a definição de requisitos de IHC em uma plataforma de recomendação de ações, é essencial levantar informações do usuário (a respeito do perfil demográfico, letramento digital e financeiro e limitações de acessibilidade) , sua relação com a tecnologia
+  Para embasar a definição de requisitos de IHC em uma plataforma de recomendação de ações, é essencial levantar informações do usuário (a respeito do perfil demográfico, conhecimento digital e financeiro e limitações de acessibilidade) , sua relação com a tecnologia
 (habilidade com computadores, apps financeiros já utilizados, dificuldades recorrentes de navegação, contexto e frequência de uso), seu conhecimento e domínio em investimentos (objetivos, tolerância a riscos, explicações sobre o assunto) e por fim suas tarefas e metas dentro do sistema (receber recomendações de ações com seu perfil, simular carteira de investimento, ter um perfil de investimento traçado).
 
 
