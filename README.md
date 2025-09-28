@@ -551,12 +551,68 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **\[PARTE B: 1 solução completa por pessoa da equipe \- e com técnicas diferente; questionário deve ser uma das técnicas escolhidas\]**
 
-**3\)	Ferramentas de Coleta de Dados**  
-**3.1) nome do instrumento e objetivo de aplicação**  
-**3.2) explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)**  
+**3\)	Ferramentas de Coleta de Dados (João) **  
+
+**3.1) nome do instrumento e objetivo de aplicação**
+
+**Instrumento:** Classificação de Cartões
+
+**Objetivo:** Permite identificar como os usuários nomeiam conteúdos da plataforma (suitability, recomendações, simulações, acompanhamento), como os descrevem e quais informações pertencem a quais categorias
+
+
+
+**3.2) explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)** 
+
+- Selecione e convite os participantes
+- Prepare em torno de 30 - 40 cartões, explique a tarefa que o usuário deverá realizar e peça para agrupar e nomear cada cartão, não guiando a decisão apenas obeservando e registrando as tomadas de decisão do usuário.
+- Registro: Capture os agrupamentos finais, nomes dos grupos, cartões e comentários do participante.
+- Analise os dados
+- Resultado: um esqueleto de navegação e rótulos coerentes com o modelo mental dos usuários, reduzindo esforço cognitivo e erros de navegação.
+
 **3.3) instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)**
 
-# 
+- Preparação dos cartões: listar 30–40 tópicos centrais da plataforma (Ex: Questionário Suitability, Login, Cadastro, Simulação, Recomendação)
+
+- Execução das sessões: agendar encontros individuais (presenciais ou remotos), usar um quadro digital compartilhado (ou mesa com cartões físicos) aplicar o roteiro acima sem variações entre aplicadores.
+
+- Coleta e organização: ao final de cada sessão, capturar a configuração dos grupos e os rótulos criados do perfil resumido do participante e observações.
+
+**3.1) nome do instrumento e objetivo de aplicação**
+**Instrumento:** Grupo Focal
+**Objetivo:** Permite obter, em pouco tempo, múltiplos pontos de vista de um determninado grupo de pessoas sobre a plataforma
+
+**3.2) explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)** 
+
+- Grupos de 3 - 10 pessoas
+- Duração: 1-2 horas
+- 1 moderador para conduzir a reunião
+- O moderador explica os objetivos da reunião e após isso faz algumas perguntas para os integrantes dessa renunião e se permitido documenta todas as informações importantes que obteve
+
+**3.3) instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)**
+
+- Preparação: Defina um roteiro único com os temas a serem debatidos e, se necessário, inclua imagens para ilustrar.
+  
+- Execução: recrutar, agendar sessões de 1-2 horas, aplicar exatamente o mesmo roteiro e documente todas as informações importantes que obteve
+
+- Pós-sessão: transcrever pontos-chave, extrair citações que exemplifiquem necessidades e confusões, sintetizar temas, priorizar com a equipe e refletir no próximo protótipo e no plano de teste de usabilidade.
+
+**3.1) nome do instrumento e objetivo de aplicação**
+**Instrumento:** Brainstorming de Necessidades e Desejos dos Usuários
+**Objetivo:** Busca levantar de forma bastante livre um conjunto grande e abrangente de opiniões dos participantes em relação à plataforma
+
+**3.2) explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)** 
+
+- Participantes: Cada sessão geralmente envolve de 8 a 12 usuários orientados por um moderador
+- O moderador introduz o tema do brainstorming, orienta uma parte individual e depois uma coletiva. Os participantes não devem censurar uns aos outros
+- O moderador documenta as ideias debatidas
+
+**3.3) instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)**
+
+- Preparação: definir 2–3 perguntas-gatilho (p.ex.: “O que você precisa ver para confiar na recomendação?”, “Que explicações eliminariam suas dúvidas?”).
+
+- Execução: aplicar exatamente as mesmas regras e perguntas para todos os grupos; moderador registra todas as ideias, sem filtrar ao final, agrupar e votar.
+
+- Pós-sessão: documentar melhores ideias debatidas
 
 # **Entrega 8  (data) \[em andamento/concluído\]**
 
