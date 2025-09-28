@@ -580,6 +580,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 # Grupo Focal
 
 **3.1) nome do instrumento e objetivo de aplicação**
+
 **Instrumento:** Grupo Focal
 
 **Objetivo:** Permite obter, em pouco tempo, múltiplos pontos de vista de um determninado grupo de pessoas sobre a plataforma
@@ -602,6 +603,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 # Brainstorming de Necessidades e Desejos dos Usuários
 
 **3.1) nome do instrumento e objetivo de aplicação**
+
 **Instrumento:** Brainstorming de Necessidades e Desejos dos Usuários
 
 **Objetivo:** Busca levantar de forma bastante livre um conjunto grande e abrangente de opiniões dos participantes em relação à plataforma
