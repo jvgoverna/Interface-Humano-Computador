@@ -520,6 +520,10 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 ![Prototipação em Papel 1](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PrototipacaoPapel1.jpg)
 
+![Prototipação em Papel 2](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PrototipacaoPapel2.jpg)
+
+![Prototipação em Papel Fluxograma](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PrototipacaoPapelFluxograma.jpg)
+
 # **Entrega 7  (data) \[em andamento/concluído\]**
 
 **\[PARTE A: 1 solução completa por pessoa da equipe\]**
