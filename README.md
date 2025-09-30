@@ -518,7 +518,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **\[PARTE A \- 1 solução por equipe\]**
 
-**DICA: protótipo em papel**
+![Prototipação em Papel 1](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PrototipacaoPapel1.jpg)
 
 # **Entrega 7  (data) \[em andamento/concluído\]**
 
