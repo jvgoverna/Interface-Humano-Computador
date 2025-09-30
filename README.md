@@ -518,9 +518,18 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **\[PARTE A \- 1 solução por equipe\]**
 
+## Primeira Parte da Prototipação em Papel
+Essa primeira parte apresenta as primeiras 4 telas que podem ser vistas no site antes do usuário efetuar o seu login, sendo elas, pela ordem da numeração: Página de Login, Página de Cadastro, Página de Políticas da Empresa e Página de Política de Privacidade.
+
 ![Prototipação em Papel 1](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PrototipacaoPapel1.jpg)
 
+## Segunda Parte da Prototipação em Papel
+Essa segunda parte mostra as 4 últimas telas que podem ser vistas após o usuário efetuar o seu login dentro do site, sendo elas, pela ordem da numeração: Página de Perfil de Investidor, Página de Simulação de Investimentox, Página de Gráficos das Ações, Página do Questionário de Suitability.
+
 ![Prototipação em Papel 2](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PrototipacaoPapel2.jpg)
+
+## Fluxograma da Prototipação em Papel
+As setas do fluxograma mostram para onde cada página pode levar a depender da escolha do usuário. Uma legenda de cada página é mostrada à esquerda da imagem.
 
 ![Prototipação em Papel Fluxograma](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PrototipacaoPapelFluxograma.jpg)
 
