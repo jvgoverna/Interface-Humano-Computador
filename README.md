@@ -532,7 +532,8 @@ As setas do fluxograma mostram para onde cada página pode levar a depender da e
 ![Prototipação em Papel Fluxograma](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PrototipacaoPapelFluxograma.jpg)
 
 ## Simulação de Teste de Usuário
-
+Durante o teste com a prototipação em papel, um usuário qualquer conseguiu entender a proposta geral do site, mas relatou problemas na parte de cadastro cadastro, ficando confuso o acesso e o retorno nas telas de “Políticas da Empresa” e “Política de Privacidade” a partir do cadastro: os links não estavam evidentes, não ficou claro se eram obrigatórios antes de prosseguir e também não identificando para onde o botão de “voltar” levava. A sensação foi de “perder-se” nessas páginas auxiliares.
+Outro ponto levantado foi o botão de Menu presente nas telas de Gráficos, Simulação de Investimentos e Perfil do Investidor. Como as opções só aparecem após clicar, o controle passou despercebido em um primeiro momento, reduzindo a descoberta das funcionalidades. A pessoa sugeriu deixar as opções de navegação sempre visíveis (por exemplo, uma barra lateral fixa ou abas), ou ao menos tornar o botão mais destacado e autoexplicativo, para facilitar a orientação no site.
 
 
 # **Entrega 7  (data) \[em andamento/concluído\]**
