@@ -432,6 +432,7 @@ Ao final do período planejado, [3] Pedro ficou abatido ao perceber que as açõ
 **1\) HTA**
 ![HTA Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA%20Att.png)
 
+
 | Objetivos/Operações | Problemas e Recomendações | 
 | --      | -- | 
 | 	0. Cadastrar usuáro na plataforma 1>2   |Input: formulário de cadastro com dados pessoais, dados de acesso e aceite dos termos. <br> Feedback: cadastro aparece como pendente até a validação do sistema.<br> Plano: informar dados e depois validar os dados preenchidos para liberar acesso. <br> Recomendação: permitir que o usuário faça o cadastro online de forma simples e intuitiva.| 
@@ -517,6 +518,15 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 ![CTT Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT%20ATT.png)
 # 
+
+# Login de Usuários na plataforma
+
+**1\) HTA**
+
+![HTA Login](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA-Login.png)
+
+
+
 
 # **Entrega 6  (data) \[em andamento/concluído\]**
 
