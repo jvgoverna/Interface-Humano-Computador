@@ -287,7 +287,7 @@ Nome: João Vitor | Idade: 65 anos
 	- Conversa com familiares para confirmar suas impressões e buscar opiniões.
 	- Encerra o acesso sentindo necessidade de maior clareza e acessibilidade, mas com esperança de continuar usando o site como apoio.
 
-# **Entrega 4  (data) \[em andamento/concluído\]**
+# **Entrega 4  (data) \[concluído\]**
 
 **\[1 solução completa por pessoa da equipe\]**
 
@@ -406,13 +406,17 @@ Ele avaliou positivamente essa experiência inicial, destacando que a clareza vi
 ### Frustação: A Necessidade de reavaliação do perfil de investidor
 Atores: Pedro
 
-[1] Pedro começou a investir há um ano usando o software InvestMind. [5] Ao criar sua conta, ele fez o login, respondeu ao questionário de suitability e foi classificado como um investidor agressivo, um perfil que combinava com seu comportamento na época.[7] 
+[2] Pedro utiliza seu notebook para realizar suas tarefas acadêmicas, para aprender e programar e para realizar investimentos no portal do Banco, enquanto usa seu celular para lazer como escutar música, assistir vídeos no YouTube ou jogar jogos mobile. Durante uma de suas sessão de estudo de IA Pedro descobriu um repositório do Github chamado InvestMind. [1] Seu objetivo ao usar o InvestMind é converter janelas curtas em decisões seguras e objetivas, evitando dinheiro parado e minimizando decisões leigas.
 
-[2] Com o passar do tempo, [6]. Ele passou a se interessar por ações mais estáveis, de menor risco e volatilidade, adotando uma postura mais conservadora. O problema, no entanto, é que o software não possuía qualquer mecanismo automático para identificar essa mudança de comportamento ou para sugerir uma reavaliação do perfil. Dessa forma, as recomendações continuaram sendo voltadas para um investidor agressivo.
+[5] Ao abrir o aplicativo Pedro se deparou com uma interface escrita login, ele não possuía login, então interagiu com o botão cadastro, inseriu as credenciais solicitadas (CPF, nome, sobrenome, celular, idade) e em seguida submeteu as credenciais fornecidas. Em seguida respondeu ao questionário de suitability e foi classificado como um investidor agressivo, um perfil que combinava com seu comportamento na época.
 
-Pedro, sem perceber que seu perfil ainda estava configurado como agressivo, continuou aplicando seu dinheiro nos ativos sugeridos pela plataforma. Ao final do período [4] planejado, [3] ele descobriu que havia sofrido perdas financeiras por causa da alta volatilidade das ações que escolheu. Foi somente após o prejuízo que ele verificou manualmente seu perfil no sistema, refez o questionário de suitability e, então, foi corretamente reclassificado como conservador.
+[6] Com o passar do tempo, Pedro começou a presenciar que seus amigos próximos começaram a utilizar seus dinheiros ganhos com esforços em apostas e cassinos, alegando que iria aumentar sua renda, mas, pelo contrário, os levou a perder dinheiro; Pedro, que não é bobo, começou a repensar suas próprias ações de investimento. Ele passou a se interessar por ações mais estáveis, de menor risco e volatilidade, adotando uma postura mais conservadora. O problema é que o software não possuía qualquer mecanismo automático para identificar essa mudança de comportamento ou para sugerir uma reavaliação do perfil.
 
-Esse cenário revela falhas de interface humano-computador relacionadas à falta de feedback e de prevenção de erros. O sistema poderia ter um indicativo mais visual e claro sobre o perfil atual de Pedro e deveria se mostrar mais adaptável às mudanças do usuário ao longo do tempo. De tempos em tempos, o sistema poderia ter solicitado automaticamente a Pedro que refizesse o questionário, o que teria evitado a recomendação de investimentos incompatíveis com a sua nova estratégia.
+[4] Após ler o README, Pedro entende que o InvestMind apenas sugere oportunidades — a decisão de utilizar ou não é dele. Por isso, define metas SMART: alcançar R$ 1.000 de lucro em 12 meses, desembolsando R$ 200/mês. Ainda assim, como as recomendações continuavam orientadas ao perfil agressivo original, houve descompasso entre as metas e o tipo de ativo recomendado.
+
+Ao final do período planejado, [3] Pedro ficou abatido ao perceber que as ações em que havia investido caíram, em vez de subir como esperava. Chorou, contou aos pais a perda de R$ 500 e, no calor do momento, culpou o InvestMind, chamou o software de “péssimo” e afirmou que a responsabilidade não era dele; a notícia logo se espalhou pela vizinhança e os vizinhos passaram a conhecer o software como inútil. Foi somente após o prejuízo que ele verificou manualmente seu perfil no sistema, refez o questionário de suitability e, então, foi corretamente reclassificado como conservador.
+
+[7] Durante o uso do aplicativo, Pedro teve facilidade em utilizá-lo, pois o mesmo apresentava uma interface limpa e objetiva. Ele conseguiu navegar facilmente pelos gráficos, simular ações e realizar operações de compra e venda de forma rápida, o que lhe permitiu economizar tempo. Sentindo-se mais confiante, decidiu seguir as recomendações baseadas na classificação do seu perfil de investidor. Ele avaliou positivamente essa experiência inicial, destacando que a clareza visual e a fluidez da navegação foram essenciais para que se sentisse confortável com a plataforma. A organização das informações e a simplicidade no acesso às funcionalidades deram a ele uma sensação de controle, mesmo sendo um investidor relativamente novo.
 
 
 # **Entrega 5  (data) \[em andamento/concluído\]**
