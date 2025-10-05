@@ -527,6 +527,12 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 
 
+# Simulação de investimentos na plataforma
+
+**1\) HTA**
+
+![HTA InitialPage](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA-InitialPage.png)
+
 
 # **Entrega 6  (data) \[em andamento/concluído\]**
 
