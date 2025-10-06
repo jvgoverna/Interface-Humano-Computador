@@ -541,6 +541,127 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **2\) GOMS**
 
+- **GOAL 0: Logar no aplicativo**
+
+	- **GOAL 1: Selecionar método de autenticação**
+
+		- **METHOD 1.A: Entrar com credenciais (e-mail e senha)** <br>
+		(SEL.RULE: usar quando não houver/querer login federado)
+
+			- OP.1.A.1: identificar campos de e-mail e senha  
+			- OP.1.A.2: focar campo de e-mail e digitar e-mail  
+			- OP.1.A.3: focar campo de senha e digitar senha  
+			- OP.1.A.4: clicar no botão “Logar” (ou pressionar Enter)  
+			- OP.1.A.5: aguardar validação/autenticação do sistema  
+
+		- **METHOD 1.B: Entrar com Google (OAuth)** <br>
+		(SEL.RULE: usar quando houver conta Google ativa no dispositivo)
+
+			- OP.1.B.1: clicar em “Continuar com Google”  
+			- OP.1.B.2: selecionar a conta (ou autenticar-se)  
+			- OP.1.B.3: conceder permissões solicitadas  
+			- OP.1.B.4: aguardar redirecionamento autenticado  
+
+		- **METHOD 1.C: Entrar com Facebook (OAuth)** <br>
+		(SEL.RULE: usar quando preferir conta Facebook conectada)
+
+			- OP.1.C.1: clicar em “Continuar com Facebook”  
+			- OP.1.C.2: selecionar a conta (ou autenticar-se)  
+			- OP.1.C.3: conceder permissões solicitadas  
+			- OP.1.C.4: aguardar redirecionamento autenticado  
+
+	- **GOAL 2: Validar credenciais e tratar falhas**
+		- OP.2.A.1: interpretar mensagens de erro (e-mail inválido/senha incorreta)  
+		- OP.2.A.2: corrigir campo(s) indicado(s)  
+		- OP.2.A.3: clicar novamente em “Logar” e aguardar validação <br>
+
+	- **GOAL 3: Direcionar ao questionário de suitability (condicional)**
+		- OP.3.A.1: reconhecer aviso “Complete/Revise seu perfil”  
+		- OP.3.A.2: clicar em “Iniciar questionário”  
+		- OP.3.A.3: responder perguntas e confirmar envio  
+		- OP.3.A.4: aguardar confirmação do perfil e retorno à aplicação <br>
+
+	- **GOAL 4: Acessar a carteira (página inicial pós-login)**
+		- OP.4.A.1: reconhecer mensagem de feedback (“Login realizado com sucesso”)  
+		- OP.4.A.2: verificar exibição da carteira e do chip de perfil  
+		- OP.4.A.3: prosseguir para ações de simulação/operacional  
+
+
+
+- **GOAL 0: Realizar Simulação de investimentos**
+
+	- **GOAL 1: Definir/ajustar budget (R$)**
+
+		- **METHOD 1.A: Digitar orçamento manualmente** <br>
+		(SEL.RULE: usar quando o usuário souber o valor a simular)
+
+			- OP.1.A.1: localizar campo “Budget (R$)”  
+			- OP.1.A.2: focar campo e digitar o valor em R$  
+			- OP.1.A.3: confirmar entrada (Enter ou clicar fora)  
+			- OP.1.A.4: verificar barra/resumo de orçamento atualizado  
+
+		- **METHOD 1.B: Ajustar orçamento por controles de incremento** <br>
+		(SEL.RULE: usar quando preferir aumentar/diminuir gradualmente)
+
+			- OP.1.B.1: clicar em “+” ou “−” para ajustar o valor  
+			- OP.1.B.2: observar orçamento restante/consumido  
+			- OP.1.B.3: confirmar valor final do budget  <br>
+
+	- **GOAL 2: Selecionar Ações (CRUD) para compor a carteira**
+
+		- **METHOD 2.A: Adicionar ação à carteira** <br>
+		(SEL.RULE: usar quando incluir novo ativo)
+
+			- OP.2.A.1: focar busca/autocomplete de ativo  
+			- OP.2.A.2: digitar ticker ou nome e selecionar na lista  
+			- OP.2.A.3: informar valor a alocar (R$) ou percentual (%)  
+			- OP.2.A.4: clicar em “Adicionar”  
+			- OP.2.A.5: verificar atualização de orçamento e distribuição  
+
+		- **METHOD 2.B: Remover ação da carteira** <br>
+		(SEL.RULE: usar quando ativo não deve permanecer)
+
+			- OP.2.B.1: localizar ativo na lista da carteira  
+			- OP.2.B.2: clicar em “Remover”  
+			- OP.2.B.3: confirmar remoção (se solicitado) e observar “Undo” (toast)  
+
+		- **METHOD 2.C: Editar ação da carteira** <br>
+		(SEL.RULE: usar quando desejar alterar valor ou trocar ativo)
+
+			- OP.2.C.1: focar campo de valor (R$ ou %) do ativo  
+			- OP.2.C.2: digitar novo valor e confirmar  
+			- OP.2.C.3: *(opcional)* trocar ticker mantendo alocação  
+			- OP.2.C.4: verificar recálculo de orçamento e alertas (excesso/concentração)  <br>
+
+	- **GOAL 3: Validar orçamento e consistência da carteira**
+		- OP.3.A.1: checar se valor investido ≤ orçamento  
+		- OP.3.A.2: identificar alertas (ex.: concentração > limite, ativo incompatível com perfil)  
+		- OP.3.A.3: decidir reduzir/redistribuir (METHOD 2.C) ou remover (METHOD 2.B)  
+		- OP.3.A.4: confirmar ajustes até eliminar alertas  <br>
+
+	- **GOAL 4: Finalizar simulação e registrar resultado**
+
+		- **METHOD 4.A: Salvar/exportar simulação** <br>
+		(SEL.RULE: usar para reutilizar ou compartilhar)
+
+			- OP.4.A.1: clicar em “Salvar” ou “Exportar”  
+			- OP.4.A.2: escolher formato (CSV/PNG/JSON)  
+			- OP.4.A.3: confirmar e verificar mensagem de sucesso  
+
+		- **METHOD 4.B: Resetar e recomeçar a simulação** <br>
+		(SEL.RULE: usar quando desejar iniciar do zero)
+
+			- OP.4.B.1: clicar em “Resetar simulação”  
+			- OP.4.B.2: confirmar ação  
+			- OP.4.B.3: verificar limpeza da carteira e do orçamento  <br>
+
+	- **GOAL 5: Revisar/atualizar suitability (condicional)**
+		- OP.5.A.1: ao detectar incompatibilidade de risco, abrir “Revisar perfil”  
+		- OP.5.A.2: responder questionário curto de reavaliação  
+		- OP.5.A.3: salvar novo perfil e retornar à simulação com recomendações ajustadas
+
+
+
 # Simulação de investimentos na plataforma
 
 **1\) HTA**
@@ -562,6 +683,103 @@ GOAL 0: Cadastrar usuáro na plataforma
 | **3.3.1 Editar quantidade investida (R$)**            | **Ação:** ajustar o valor alocado naquele ativo. <br>**Problemas:** ultrapassar orçamento ou ficar com centavos residuais. <br>**Recomendações:** **snap** para valores válidos, aviso de excesso, botão “**Rebalancear**” proporcional.                                                                                                                                                                                                                                          |
 | **3.3.2 Editar nome da ação (R$)**                    | **Ação:** trocar o ativo mantendo (opcionalmente) a mesma alocação. <br>**Problemas:** trocar para ativo incompatível com perfil/suitability. <br>**Recomendações:** **cheque de compatibilidade** com perfil (badge “Compatível/Alto risco”), confirmação antes de substituir e sugestão de **ativos equivalentes** (mesmo setor/volatilidade menor).                                                                                                                            |
 **2\) GOMS**
+
+GOAL 0: Realizar Simulação de investimentos
+
+GOAL 1: Definir/ajustar budget (R$)
+
+METHOD 1.A: Digitar orçamento manualmente
+SEL.RULE: usar quando o usuário souber o valor a simular
+
+OP.1.A.1: localizar campo “Budget (R$)”
+
+OP.1.A.2: focar campo e digitar o valor em R$
+
+OP.1.A.3: confirmar entrada (Enter ou clicar fora)
+
+OP.1.A.4: verificar barra/resumo de orçamento atualizado
+
+METHOD 1.B: Ajustar orçamento por controles de incremento
+SEL.RULE: usar quando preferir aumentar/diminuir gradualmente
+
+OP.1.B.1: clicar em “+” ou “−” para ajustar o valor
+
+OP.1.B.2: observar orçamento restante/consumido
+
+OP.1.B.3: confirmar valor final do budget
+
+GOAL 2: Selecionar Ações (CRUD) para compor a carteira
+
+METHOD 2.A: Adicionar ação à carteira
+SEL.RULE: usar quando incluir novo ativo
+
+OP.2.A.1: focar busca/autocomplete de ativo
+
+OP.2.A.2: digitar ticker ou nome e selecionar na lista
+
+OP.2.A.3: informar valor a alocar (R$) ou percentual (%)
+
+OP.2.A.4: clicar em “Adicionar”
+
+OP.2.A.5: verificar atualização de orçamento e distribuição
+
+METHOD 2.B: Remover ação da carteira
+SEL.RULE: usar quando ativo não deve permanecer
+
+OP.2.B.1: localizar ativo na lista da carteira
+
+OP.2.B.2: clicar em “Remover”
+
+OP.2.B.3: confirmar remoção (se solicitado) e observar “Undo” (toast)
+
+METHOD 2.C: Editar ação da carteira
+SEL.RULE: usar quando desejar alterar valor ou trocar ativo
+
+OP.2.C.1: focar campo de valor (R$ ou %) do ativo
+
+OP.2.C.2: digitar novo valor e confirmar
+
+OP.2.C.3: (opcional) trocar ticker mantendo alocação
+
+OP.2.C.4: verificar recálculo de orçamento e alertas (excesso/concentração)
+
+GOAL 3: Validar orçamento e consistência da carteira
+
+OP.3.A.1: checar se valor investido ≤ orçamento
+
+OP.3.A.2: identificar alertas (ex.: concentração > limite, ativo incompatível com perfil)
+
+OP.3.A.3: decidir reduzir/redistribuir (METHOD 2.C) ou remover (METHOD 2.B)
+
+OP.3.A.4: confirmar ajustes até eliminar alertas
+
+GOAL 4: Finalizar simulação e registrar resultado
+
+METHOD 4.A: Salvar/exportar simulação
+SEL.RULE: usar para reutilizar ou compartilhar
+
+OP.4.A.1: clicar em “Salvar” ou “Exportar”
+
+OP.4.A.2: escolher formato (CSV/PNG/JSON)
+
+OP.4.A.3: confirmar e verificar mensagem de sucesso
+
+METHOD 4.B: Resetar e recomeçar a simulação
+SEL.RULE: usar quando desejar iniciar do zero
+
+OP.4.B.1: clicar em “Resetar simulação”
+
+OP.4.B.2: confirmar ação
+
+OP.4.B.3: verificar limpeza da carteira e do orçamento
+
+GOAL 5: Revisar/atualizar suitability (condicional)
+
+OP.5.A.1: ao detectar incompatibilidade de risco, abrir “Revisar perfil”
+
+OP.5.A.2: responder questionário curto de reavaliação
+
+OP.5.A.3: salvar novo perfil e retornar à simulação com recomendações ajustadas
 
 # **Entrega 6  (data) \[em andamento/concluído\]**
 
