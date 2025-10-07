@@ -887,6 +887,18 @@ Outro ponto levantado foi o botão de Menu presente nas telas de Gráficos, Simu
 
 - Pós-sessão: documentar melhores ideias debatidas
 
+
+# Questionário
+
+**3.1) nome do instrumento e objetivo de aplicação**
+
+**Instrumento:** Questionário
+
+**Objetivo:** Coletar rapidamente dados padronizados de muitos usuários sobre perfil, hábitos e necessidades, gerando insumos objetivos para a plataforma.
+
+
+
+
 # **Entrega 8  (data) \[em andamento/concluído\]**
 
 **\[1 solução por equipe\]**
