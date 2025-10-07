@@ -896,7 +896,12 @@ Outro ponto levantado foi o botão de Menu presente nas telas de Gráficos, Simu
 
 **Objetivo:** Coletar rapidamente dados padronizados de muitos usuários sobre perfil, hábitos e necessidades, gerando insumos objetivos para a plataforma.
 
+**3.2) explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)** 
 
+Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relação ao tema
+- O moderador cria as perguntas e as alternativas de acordo com o que for de seu interesse saber
+- Os usuários irão responder as perguntas via link do google forms (https://forms.gle/X1pqFeSWmQGvU5yC9)
+- O moderador coleta as respostas para realizar uma análise posteriormente
 
 
 # **Entrega 8  (data) \[em andamento/concluído\]**
