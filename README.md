@@ -956,12 +956,29 @@ Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relaç�
 
    1. **Qualitativo**
 
-    
+    | Metas | Porcentagem | Justificativa |
+	| ----- | :---- | :---- |
+	| Facilidade de aprendizado (Learnability) | 20% | Aprender a usar a plataforma e entender melhor métricas para a compra e venda de ações é simples e intuitivo em nossa plataforma. |
+	| Eficiência no uso (Efficiency) | 20% | Usuários sentem que conseguem realizar tarefas rapidamente sem esforço excessivo. |
+	| Facilidade de retomar o uso (Memorability)  | 20% | Usuário consegue retomar o uso da plataforma sem dificuldades mesmo após um período sem acesso, apenas logando novamente com sua conta e senha. |
+	| Baixa taxa de erros (Errors) | 15% | Usuários relatam que cometem poucos erros na plataforma. |
+	| Satisfação do usuário (Satisfaction) | 25% | Usuário sente-se satisfeito e confortável usando a plataforma e percebe valor nas recomendações e na construção da carteira de investimento. |
+	| **Total** | **100%** |  |
 
 
-   2. **Quantitativo**  
+   2. **Quantitativo**
+
+	| Metas | Porcentagem | Justificativa |
+	| ----- | :---- | :---- |
+	| Facilidade de aprendizado | 20% | Tempo médio necessário para realizar o cadastro e responder as perguntas para compreender o seu perfil de investimento.|
+	| Eficiência no uso | 20% | Tempo médio para completar tarefas após entender o funcionamento da plataforma (número de cliques ou passos necessários). |
+	| Facilidade de retomar o uso (memorabilidade)  | 20% | Taxa de sucesso em realizar simulações de investimento após determinado intervalo de tempo (ex.: 1 semana sem uso). |
+	| Baixa taxa de erros | 15% | Número de erros críticos cometidos por usuário; frequência de erros recuperáveis vs irreversíveis. |
+	| Satisfação do usuário | 25% | Avaliação média de satisfação em escala (ex.: 1 a 5); número de feedbacks positivos vs negativos. |
+	| **Total** | **100%** |  |
       
-
+      
+<!--
 | Metas | Porcentagem | Justificativa |
 | ----- | :---- | :---- |
 | Facilidade de … |  |  |
@@ -970,8 +987,9 @@ Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relaç�
 |  | 1% |  |
 |  | 20% |  |
 | **Total** | **100%** |  |
+-->
 
-      
+
 
 # **Entrega 9 (data) \[em andamento/concluído\]**
 
