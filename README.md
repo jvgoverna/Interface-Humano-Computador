@@ -830,8 +830,9 @@ Outro ponto levantado foi o botão de Menu presente nas telas de Gráficos, Simu
 
 - Selecione e convite os participantes
 - Prepare em torno de 30 - 40 cartões, explique a tarefa que o usuário deverá realizar e peça para agrupar e nomear cada cartão, não guiando a decisão apenas obeservando e registrando as tomadas de decisão do usuário.
+- Durante o processo, os participantes formarão clusters (agrupamentos) de cartões que consideram relacionados, refletindo como percebem a organização natural das informações.
 - Registro: Capture os agrupamentos finais, nomes dos grupos, cartões e comentários do participante.
-- Analise os dados
+- Análise dos dados: Identifique padrões e semelhanças entre os clusters criados pelos diferentes usuários.
 - Resultado: um esqueleto de navegação e rótulos coerentes com o modelo mental dos usuários, reduzindo esforço cognitivo e erros de navegação.
 
 **3.3) instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)**
