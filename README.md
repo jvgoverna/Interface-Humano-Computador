@@ -970,11 +970,11 @@ Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relaç�
 
 	| Metas | Porcentagem | Justificativa |
 	| ----- | :---- | :---- |
-	| Facilidade de aprendizado | 20% | Tempo médio necessário para realizar o cadastro e responder as perguntas para compreender o seu perfil de investimento.|
-	| Eficiência no uso | 20% | Tempo médio para completar tarefas após entender o funcionamento da plataforma (número de cliques ou passos necessários). |
-	| Facilidade de retomar o uso (memorabilidade)  | 20% | Taxa de sucesso em realizar simulações de investimento após determinado intervalo de tempo (ex.: 1 semana sem uso). |
-	| Baixa taxa de erros | 15% | Número de erros críticos cometidos por usuário; frequência de erros recuperáveis vs irreversíveis. |
-	| Satisfação do usuário | 25% | Avaliação média de satisfação em escala (ex.: 1 a 5); número de feedbacks positivos vs negativos. |
+	| Facilidade de aprendizado (Learnability) | 20% | Tempo médio necessário para realizar o cadastro e responder as perguntas para compreender o seu perfil de investimento.|
+	| Eficiência no uso (Efficiency) | 20% | Tempo médio para completar tarefas após entender o funcionamento da plataforma (número de cliques ou passos necessários). |
+	| Facilidade de retomar o uso (Memorability)  | 20% | Taxa de sucesso em realizar simulações de investimento após determinado intervalo de tempo (ex.: 1 semana sem uso). |
+	| Baixa taxa de erros (Errors) | 15% | Número de erros críticos cometidos por usuário; frequência de erros recuperáveis vs irreversíveis. |
+	| Satisfação do usuário (Satisfaction) | 25% | Avaliação média de satisfação em escala (ex.: 1 a 5); número de feedbacks positivos vs negativos. |
 	| **Total** | **100%** |  |
       
       
