@@ -900,8 +900,17 @@ Outro ponto levantado foi o botão de Menu presente nas telas de Gráficos, Simu
 
 Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relação ao tema
 - O moderador cria as perguntas e as alternativas de acordo com o que for de seu interesse saber
-- Os usuários irão responder as perguntas via link do google forms (https://forms.gle/X1pqFeSWmQGvU5yC9)
+- Os usuários irão responder as perguntas via link do google forms
 - O moderador coleta as respostas para realizar uma análise posteriormente
+
+**3.3) instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)**
+
+- Preparação: Criar o Google Forms com seções padrão (Perfil → Dispositivo de acesso → Uso de apps financeiros → Experiência em investimentos → Metas & horizonte). Incluir termo de consentimento no início, estimar 3–5 min, marcar perguntas-chave como obrigatórias, ativar “1 resposta por pessoa” quando possível e fazer um piloto com 5–10 usuários. (Link do formulário: https://forms.gle/utgqWhXwafFhRpPF7).
+
+- Execução: Divulgar o link com instruções iguais para todos, mantendo autoaplicado (sem orientar respostas), priorizando questões de múltipla escolha e deixando o forms aberto por 7-10 dias.
+
+- Pós-coleta: Exportar as respostas para Excel, fazer gráficos de cada pergunta, criar cruzamentos (ex.: perfil × horizonte de investimento), anotar as decisões de design e incluir os gráficos no relatório.
+
 
 
 # **Entrega 8  (data) \[em andamento/concluído\]**
