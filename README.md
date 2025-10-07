@@ -806,7 +806,7 @@ Outro ponto levantado foi o botão de Menu presente nas telas de Gráficos, Simu
 
 * **Seu projeto deverá considerar aspectos éticos? Justifique usando os conceitos da aula.**
 
-	Sim, o projeto deve necessariamente considerar aspectos éticos, pois envolve pessoas e o tratamento de dados pessoais e financeiros. Os dados dos usuário ( Dados pessoais, de loguin e questionário de suitability) seguirá os princípios de autonomia, beneficência, não maleficência e justiça e equidade, com consentimento informado claro e possibilidade de retirada a qualquer momento.
+	Sim, o projeto deve necessariamente considerar aspectos éticos, pois envolve pessoas e o tratamento de dados pessoais e financeiros. Os dados dos usuário ( Dados pessoais, de login e questionário de suitability) seguirá os princípios de autonomia, beneficência, não maleficência e justiça e equidade, com consentimento informado claro e possibilidade de retirada a qualquer momento.
 
 	- Autonomia: Explicar o uso dos dados coletados e possibilidade de de recusar/desistir e pedir permissão para gravações.
  	- Beneficiência: Ponderar riscos/benefícios e maximizar benefícios (ex.: explicar limitações das recomendações, destacar que não é aconselhamento personalizado)
@@ -929,10 +929,10 @@ Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relaç�
 
 | Característica | Descrição |
 | :---- | :---- |
-| Descrição do Software |  |
-| Descrição do Hardware |  |
-| LISTA DE Capacidades da Plataforma (com explicação) |  |
-| LISTA DE Restrições da Plataforma (com explicação) |  |
+| Descrição do Software | Para o desenvolvimento da plataforma, utilizamos React e o CockroachDB para o armazenamento dos dados pessoais, de login e de suitability (perfil encontrado) dos investidores. Para a previsão das ações, aplicamos uma rede neural LSTM (Long Short-Term Memory), que auxilia na recomendação personalizada da carteira de investimentos em um horizonte de tempo de 1, 6 e 24 meses. |
+| Descrição do Hardware | A plataforma é acessada através de um navegador web, podendo ser executada em computadores com acesso à internet.|
+| LISTA DE Capacidades da Plataforma (com explicação) | - Cadastro e autenticação dos usuários na plataforma: Permite que usuários criem uma conta e tenham acesso a plataforma apartir de seu login. <br> - Coleta de perfil de investimento: Apartir de um questionário de suitability disponibilizado na plataforma é possível identificar o perfil de investimento do usuário. <br> - Previsão de ações com LSTM: Utilizando uma rede neural (LSTM) conseguimos prever a tendência das ações com base em dados históricos do mercado em um período de 1, 6 e 24 meses. <br> - Carteira de investimento personalizada: Carteira de ações adaptada ao perfil de investimento do usuário, auxiliando em sua tomada de decisão. <br> - Interface Web responsiva: Interface web com acesso via navegador com boa usabilidade e desempenho.|
+| LISTA DE Restrições da Plataforma (com explicação) | - Dependência de conexão com a internet: Por ser uma interface web, é necessário estar conectado à internet para seu funcionamento, podendo ocorrer baixa performance em casos de instabilidade ou má qualidade da conexão. <br> - Ausência de operações financeiras reais: A plataforma apenas recomenda carteiras de investimento ao investidor, ela não executa compras, vendas ou movimentações financeiras. <br> - Disponibilidade restrita aos navegadores: O sistema é acessível apenas em navegadores web, não havendo um aplicativo próprio para seu uso. <br> - Capacidade de armazenamento de informações do banco de dados limitada: Depende do número de usuários que utilizarem o nosso sistema, sendo possível a aquisição de um plano para uma maior capacidade de armazenamento do CockroachDB.|
 
    
 
