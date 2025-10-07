@@ -785,7 +785,7 @@ Durante o teste com a prototipação em papel, um usuário qualquer conseguiu en
 Outro ponto levantado foi o botão de Menu presente nas telas de Gráficos, Simulação de Investimentos e Perfil do Investidor. Como as opções só aparecem após clicar, o controle passou despercebido em um primeiro momento, reduzindo a descoberta das funcionalidades. A pessoa sugeriu deixar as opções de navegação sempre visíveis (por exemplo, uma barra lateral fixa ou abas), ou ao menos tornar o botão mais destacado e autoexplicativo, para facilitar a orientação no site.
 
 
-# **Entrega 7  (data) \[em andamento/concluído\]**
+# **Entrega 7  (data) \[concluído\]**
 
 **\[PARTE A: 1 solução completa por pessoa da equipe\]**
 
@@ -817,6 +817,8 @@ Outro ponto levantado foi o botão de Menu presente nas telas de Gráficos, Simu
 **\[PARTE B: 1 solução completa por pessoa da equipe \- e com técnicas diferente; questionário deve ser uma das técnicas escolhidas\]**
 
 **3\)	Ferramentas de Coleta de Dados (João) **  
+
+# Classificação de Cartões
 
 **3.1) nome do instrumento e objetivo de aplicação**
 
