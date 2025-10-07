@@ -845,6 +845,7 @@ Outro ponto levantado foi o botão de Menu presente nas telas de Gráficos, Simu
 
 - Coleta e organização: ao final de cada sessão, capturar a configuração dos grupos e os rótulos criados do perfil resumido do participante e observações.
 
+<!--
 # Grupo Focal
 
 **3.1) nome do instrumento e objetivo de aplicação**
@@ -867,7 +868,7 @@ Outro ponto levantado foi o botão de Menu presente nas telas de Gráficos, Simu
 - Execução: recrutar, agendar sessões de 1-2 horas, aplicar exatamente o mesmo roteiro e documente todas as informações importantes que obteve
 
 - Pós-sessão: transcrever pontos-chave, extrair citações que exemplifiquem necessidades e confusões, sintetizar temas, priorizar com a equipe e refletir no próximo protótipo e no plano de teste de usabilidade.
-
+-->
 # Brainstorming de Necessidades e Desejos dos Usuários
 
 **3.1) nome do instrumento e objetivo de aplicação**
