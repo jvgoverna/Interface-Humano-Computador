@@ -996,6 +996,17 @@ Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relaç�
 **\[1 solução completa por pessoa da equipe\]**
 
 1) **Cenários de Interação (destacar em cor diferente o texto alterado entre Cenário Problema e Cenário de Interação)**
+ 
+# Cenário de Interação – João Vitor
+**Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes** <br>
+Atores: João Vitor (investidor iniciante)
+
+João Vitor, é um senhor de 65 anos de idade professor da rede pública do estado de São Paulo, ele passou muitos anos guardando dinheiro em sua poupança, após ouvir rumores a respeito do mercado de investimento sobre maior rentabilidade de seu patrimônio em comparação com a poupança. Então decide retirar seu investimento aplicado e comprar ações.
+Após um longo dia de trabalho, João está em sua casa à frente de seu computador pessoal com o objetivo de explorar, entender e encontrar investimentos além da poupança. Seu plano mental é que ao navegar pelas ações recomendadas para seu perfil a plataforma apresente informações claras e com uma linguagem condizente ao seu perfil. **Então João acessa a plataforma de recomendação de ações Invest Mind** e preenche o questionário de suitability, onde o classifica como perfil conservador. **O sistema exibe um alerta informando que seu perfil de investidor foi classificado como conservador, valorizando a segurança e estabilidade em seus investimentos. Significando que o usuário prioriza retornos previsíveis e menor exposição a riscos.**
+
+Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuário. Onde, é possível simular um investimento sem receber recomendações sobre quais ações investir. Na parte superior da tela, há três botões que permitem ao usuário escolher o período de simulação: 1 mês, 6 meses ou 2 anos. Abaixo, há um campo de input onde o usuário informa o orçamento disponível e, logo depois, ele pode distribuir esse valor entre diferentes ações, especificando o nome da ação e o valor a ser investido em cada uma, até que todo o orçamento seja alocado. Após alocar todo o orçamento, o usuário pode clicar no botão 'Simular Portfólio'. Em seguida, o sistema exibirá, ao lado, o resultado da simulação, indicando quanto o usuário teria ganhado ou perdido no período selecionado previamente (1 mês, 6 meses ou 2 anos).** 
+
+**Logo abaixo dos resultados da simulação personalizada, o sistema apresenta uma comparação com os ganhos que o usuário teria obtido caso seguisse as recomendações baseadas em seu perfil de investidor. Nessa seção, são exibidas as ações recomendadas, o valor sugerido para investir em cada uma e o lucro estimado permitindo ao usuário comparar diretamente com o resultado da simulação que ele mesmo criou.**
 
 2) **Design Centrado na Comunicação**
 
