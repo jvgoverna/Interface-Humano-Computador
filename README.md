@@ -1046,19 +1046,18 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 |                         :---- |          :---- |
 |   Cadastrar usuário na plataforma                            | U: Preciso me cadastrar **na plataforma** para poder acessar recomendação de carteiras de investimento de acordo com o meu perfil de investidor |
 | \> informar dados do usuário                                 | D: Qual é o seu nome, CPF, data de nascimento, telefone celular e residencial, seu e-mail e senha de acesso a plataforma?. <br> U: Certo, vou preencher meus dados. <br> D: Verificando informações... cadastro realizado com sucesso. Redirecionando para a tela de login do sistema. |
-
-| tópico \> subtópico (diálogo) | falas e signos |
-|                         :---- |          :---- |
 |   Login do usuário na plataforma                             | U: Preciso me logar **na plataforma** para poder acessar recomendação de carteiras de investimento de acordo com o meu perfil de investidor |
 | \> informar dados cadastrados do usuário                     | D: Qual é o seu e-mail e senha cadastrados anteriormente? <br> U: Vou preencher meus dados cadastrados. <br> D: Verificando informações preenchidas... Cadastro encontrado no banco de dados. Redirecionando para a tela inicial da plataforma  |
+|   Responder questionário de suitability                      | U: Preciso responder o questionário de suitability para a identificação do meu perfil de investidor |
+| \> responder perguntas com base no seu perfil                | D: Aqui estão 10 perguntas que devem ser respondidas de acordo com seu conhecimento e familiaridade com investimentos. Cada resposta atribui pontos que serão somados para a identificação do seu perfil. As questões 7, 8 e 9 permitem múltiplas respostas. No final clique no botão de enviar seu questionário <br> U: Vou preencher essas questões de acordo com meu conhecimento. <br> D: Ok, questionário recebido, salvando pontuação no banco de dados, e redirecionando para a tela de simulação de compra de ações. |
+
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|   Responder questionário de suitability                      | U: Preciso responder o questionário de suitability para a identificação do meu perfil de investidor |
-| \> responder perguntas com base no seu perfil                | D: Aqui estão 10 perguntas que devem ser respondidas de acordo com seu conhecimento e familiaridade com investimentos. Cada resposta atribui pontos que serão somados para a identificação do seu perfil. As questões 7, 8 e 9 permitem múltiplas respostas. No final clique no botão de enviar seu questionário <br> U: Vou preencher essas questões de acordo com meu conhecimento. <br> D: Ok, questionário recebido, salvando pontuação no banco de dados e redirecionando para a tela de simulação de compra de ações. |
-
-
-
+|  Simular Investimento         | U: Quero simular um investimento com base no meu orçamento disponível |
+| \> verificar movimentação histórica das ações  | D: Ao clicar no campo menu no campo superior direito clique em histórico para visualizar como foi o comportamento da ação em um período de 7 anos | 
+| \> informar o orçamento disponível | D: Informe o valor total disponível para investir. <br> U: R$ 10.000,00  | 
+| \> distribuir orçamento       | D: Apartir desse orçamento como você deseja distribuir esse valor para a compra de no mínimo 3 ações? U: Quero aplicar R$ 2000,00 em SBSP3, R$ 3000,00 em ITUB4 e R$ 5000,00 em ELET3 |
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
