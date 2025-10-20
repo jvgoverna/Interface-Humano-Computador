@@ -1062,6 +1062,8 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
+|  Refazer teste                |U: Coloquei respostas erradas no meu questionário e gostaria de refazê-lo.|
+|  \> redirecionamento tela do questionário | D: Certo! Clique no menu e selecione a opção refazer teste. Você será redirecionado para a tela do questionário de suitability para refazê-lo.|
 |  Encerrar sessão              |U: Quero sair da minha conta.|
 | \> sair da conta              |D: Ok, Clique no menu novamente e seleciona a opção sair. |
 
