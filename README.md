@@ -341,7 +341,7 @@ Esse cenário revela falhas de interface humano-computador relacionadas à falta
 | 	[2]   |   ambiente       | Em que situação João decide decide aplicar seu investimento em ações (quando, onde e por quê)?                       |  |
 | 	[3]   |   ator(es)		 | Quais características de João auxiliou a atrapalhar o alcance do objetivo?                                           |  |
 | 	[4]   |   planejamento	 | Em que ordem João precisam realizar as ações? Poderia realizá-la de outra maneira?                            	    |  |
-| 	[5]   |   ação       	 | Quais erros podem ser cometidos ao utilizar a plataforma? Como podem ser desfeitos? Quais são suas consequências?    		    |  |
+| 	[5]   |   ação       	 | Quais erros podem ser cometidos ao utilizar a plataforma? Como podem ser desfeitos? Quais são suas consequências?    |  |
 | 	[6]   |   evento		 | Quais eventos disparam a necessidade de João alcançar o objetivo?    											    |  |
 | 	[7]   |   avaliação		 | Qual é o resultado do alcance do objetivo?     																	    |  |
 
@@ -996,6 +996,33 @@ Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relaç�
 **\[1 solução completa por pessoa da equipe\]**
 
 1) **Cenários de Interação (destacar em cor diferente o texto alterado entre Cenário Problema e Cenário de Interação)**
+
+# Cenário de Análise/Problema - João Vitor
+**Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes**
+Atores: João Vitor (investidor iniciante)
+
+João Vitor, é um senhor de 65 anos de idade professor da rede pública do estado de São Paulo, ele passou muitos anos guardando dinheiro em sua poupança, após ouvir rumores a respeito do mercado de investimento sobre maior rentabilidade de seu patrimônio em comparação com a poupança. Então decide retirar seu investimento aplicado e comprar ações.
+
+Após um longo dia de trabalho, João está em sua casa à frente de seu computador pessoal com o objetivo de explorar, entender e encontrar investimentos além da poupança. Seu plano mental é que ao navegar pelas ações recomendadas para seu perfil a plataforma apresente informações claras e com uma linguagem condizente ao seu perfil. Então João cria uma conta em uma plataforma de recomendação de ações e preenche o questionário de suitability, onde o classifica como perfil conservador.
+
+Após a classificação é recomendado diversas ações para investir, porém essas recomendações apresentam uma linguagem de difícil entendimento, com gráficos e dashboards com letras pequenas, linguagem técnica e cores de fácil confusão, não entendendo o significado de termos como volatilidade e não encontrando explicação simples no site.
+
+João avalia a plataforma de forma negativa, concluindo que o site é útil para pessoas que apresentam um conhecimento prévio sobre investimento financeiro, não sendo o caso dele e se sentindo frustado e inseguro se realmente vale a pena retirar seu investimento na poupança, por sua incapacidade de interpretar as informações e gráficos oferecidos a ele. Sua ação final foi de fechar a plataforma, abandonar o uso e continuar pesquisando sobre esse universo com amigos.
+
+
+# Questões de refinamento (João Vitor):
+
+| Indice | Elemento |Pergunta | Resposta |
+| -- | -- | -- | -- |
+| 	[1]   |   objetivo       | De que informações ou conhecimento João precisa para explorar, entender e encontrar investimentos além da poupança?  |  |
+| 	[2]   |   ambiente       | Em que situação João decide decide aplicar seu investimento em ações (quando, onde e por quê)?                       |  |
+| 	[3]   |   ator(es)		 | Quais características de João auxiliou a atrapalhar o alcance do objetivo?                                           |  |
+| 	[4]   |   planejamento	 | Em que ordem João precisam realizar as ações? Poderia realizá-la de outra maneira?                            	    |  |
+| 	[5]   |   ação       	 | Quais erros podem ser cometidos ao utilizar a plataforma? Como podem ser desfeitos? Quais são suas consequências?    |  |
+| 	[6]   |   evento		 | Quais eventos disparam a necessidade de João alcançar o objetivo?    											    |  |
+| 	[7]   |   avaliação		 | Qual é o resultado do alcance do objetivo?     																	    |  |
+
+---
  
 # Cenário de Interação – João Vitor
 **Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes** <br>
