@@ -1008,6 +1008,8 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 **Logo abaixo dos resultados da simulação personalizada, o sistema apresenta uma comparação com os ganhos que o usuário teria obtido caso seguisse as recomendações baseadas em seu perfil de investidor. Nessa seção, são exibidas as ações recomendadas, o valor sugerido para investir em cada uma e o lucro estimado permitindo ao usuário comparar diretamente com o resultado da simulação que ele mesmo criou.**
 
+**Nessa mesma tela de simulação há um botão escrito menu que ao clicar exibe uma janela deslizante com quatro opções clicáveis que ao clicar vai para a tela referente. A primeira opção o usuário é redireciado para a tela do questionário de suitability onde ele terá que refazer o questionário, a segunda opção é referente a comparação dos gráficos de previsões do fechamento de cada ação com os valore reais, onde é possível selecionar o gráfico para cada ação em um período de 2 anos (2023-2025). A terceira opção são gráficos históricos que cada ação obteve em um período de 7 anos (2016-2023).**
+
 2) **Design Centrado na Comunicação**
 
 **Nome do Cenário: XXXXXX**
