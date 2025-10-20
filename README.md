@@ -1040,15 +1040,25 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 2) **Design Centrado na Comunicação**
 
-**Nome do Cenário: XXXXXX**
+**Nome do Cenário: Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes**
 
 | tópico \> subtópico (diálogo) | falas e signos |
-| :---- | :---- |
-|  | U: Preciso … |
-| \>  | U: Quero … D: Aqui está o mapa |
-|  | U:  |
-|  | U:  |
-|  | D: Aqui está a informação filtrada |
+|                         :---- |          :---- |
+|   Cadastrar usuário na plataforma                            | U: Preciso me cadastrar **na plataforma** para poder acessar recomendação de carteiras de investimento de acordo com o meu perfil de investidor |
+| \> informar dados do usuário                                 | D: Qual é o seu nome, CPF, data de nascimento, telefone celular e residencial, seu e-mail e senha de acesso a plataforma?. <br> U: Certo, vou preencher meus dados. <br> D: Verificando informações... cadastro realizado com sucesso. Redirecionando para a tela de login do sistema. |
+
+| tópico \> subtópico (diálogo) | falas e signos |
+|                         :---- |          :---- |
+|   Login do usuário na plataforma                             | U: Preciso me logar **na plataforma** para poder acessar recomendação de carteiras de investimento de acordo com o meu perfil de investidor |
+| \> informar dados cadastrados do usuário                     | D: Qual é o seu e-mail e senha cadastrados anteriormente? <br> U: Vou preencher meus dados cadastrados. <br> D: Verificando informações preenchidas... Cadastro encontrado no banco de dados. Redirecionando para a tela inicial da plataforma  |
+
+| tópico \> subtópico (diálogo) | falas e signos |
+|                         :---- |          :---- |
+|   Responder questionário de suitability                      | U: Preciso responder o questionário de suitability para a identificação do meu perfil de investidor |
+| \> responder perguntas com base no seu perfil                | D: Aqui estão 10 perguntas que devem ser respondidas de acordo com seu conhecimento e familiaridade com investimentos. Cada resposta atribui pontos que serão somados para a identificação do seu perfil. As questões 7, 8 e 9 permitem múltiplas respostas. No final clique no botão de enviar seu questionário <br> U: Vou preencher essas questões de acordo com meu conhecimento. <br> D: Ok, questionário recebido, salvando pontuação no banco de dados e redirecionando para a tela de simulação de compra de ações. |
+
+
+
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
