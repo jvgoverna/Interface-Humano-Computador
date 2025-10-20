@@ -1057,7 +1057,8 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 |  Simular Investimento         | U: Quero simular um investimento com base no meu orçamento disponível |
 | \> verificar movimentação histórica das ações  | D: Ao clicar no campo menu no campo superior direito clique em histórico para visualizar como foi o comportamento da ação em um período de 7 anos | 
 | \> informar o orçamento disponível | D: Informe o valor total disponível para investir. <br> U: R$ 10.000,00  | 
-| \> distribuir orçamento       | D: Apartir desse orçamento como você deseja distribuir esse valor para a compra de no mínimo 3 ações? U: Quero aplicar R$ 2000,00 em SBSP3, R$ 3000,00 em ITUB4 e R$ 5000,00 em ELET3 |
+| \> distribuir orçamento       | D: Apartir desse orçamento como você deseja distribuir esse valor para a compra de no mínimo 3 ações? U: Quero aplicar R$ 2000,00 em SBSP3, R$ 3000,00 em ITUB4 e R$ 5000,00 em ELET3 <br> D: Após preecher distribuir o orçamento para cada ação escolha o período de tempo que preferir e clique no botão de simular investimento. <br> U: Quero ter lucro em um período de 12 meses. |
+| \> resultado					| D: Simulação concluída. Você teve prejuízo na ação da ITUB4 de R$20,00 e na SBSP3 de R$ 14,00. Mas teve um lucro total de R$ 300,00 nesse investimento. A IA recomendou investir R$ 3000,00 na SBSP3, R$ 5000,00 na BBDC4 e R$ 2000,00 na BBAS3, com um lucro total de R$ 1500,00|  
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
