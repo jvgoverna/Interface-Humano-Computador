@@ -1079,7 +1079,7 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 4) **Esquema Conceitual de Signos**
 
-| Credenciais (C) - credenciais para cadastro na plataforma | | | | | | | |
+| Credenciais (C) \- credenciais para cadastro na plataforma | | | | | | | |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **signo** | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
 |  |  |  |  |  |  |  |  |
