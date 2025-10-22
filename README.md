@@ -1071,6 +1071,8 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
+![Mapa de Objetivos](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Mapa%20de%20Objetivos.png)
+
 4) **Esquema Conceitual de Signos**
 
 Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
