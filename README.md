@@ -660,7 +660,10 @@ GOAL 0: Cadastrar usuáro na plataforma
 		- OP.5.A.2: responder questionário curto de reavaliação  
 		- OP.5.A.3: salvar novo perfil e retornar à simulação com recomendações ajustadas
 
+**3\) CTT**
 
+![CTT Login](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT-Login.png)
+# 
 
 # Simulação de investimentos na plataforma
 
@@ -760,7 +763,10 @@ GOAL 0: Cadastrar usuáro na plataforma
 		- OP.5.A.1: ao detectar incompatibilidade de risco, abrir “Revisar perfil”
 		- OP.5.A.2: responder questionário curto de reavaliação
 		- OP.5.A.3: salvar o novo perfil e retornar à simulação com recomendações ajustadas
+**3\) CTT**
 
+![CTT InitialPage](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT-InitialPage.png)
+# 
 
 # **Entrega 6  (data) \[em andamento/concluído\]**
 
