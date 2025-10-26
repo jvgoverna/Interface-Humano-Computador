@@ -106,7 +106,7 @@ Nosso público-alvo são pessoas que são responsáveis legais por si mesmas e t
 • **Corretora Rico [https://www.rico.com.vc/]**
 - Corretora digital que fornece uma plataforma de compra e venda de ativos financeiros e acompanhamento do portfólio de ativos do usuário
 
-![Rico](https://media.discordapp.net/attachments/1372327706980651028/1431097438625857626/AppRico.jpeg?ex=68fc2cd9&is=68fadb59&hm=3ee34ddca4d9908c322628a6cbd7506bd1fa3e714866cb6309aea4e4028a53d7&=&format=webp&width=497&height=960)
+![Rico](https://media.discordapp.net/attachments/1372327706980651028/1431097438625857626/AppRico.jpeg?ex=68ff7899&is=68fe2719&hm=84c426552854be93aa968e2e84c9140f750486aea6fb49ddb5f582cec4e3abe0&=&format=webp&width=497&height=960)
   
 
 3) **Características e funcionalidades dos concorrentes:**
