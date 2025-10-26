@@ -516,7 +516,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **3\) CTT**
 
-![CTT Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT%20ATT.png)
+![CTT Cadastro](https://cdn.discordapp.com/attachments/1372327706980651028/1432067281780867082/CTT_ATT.png?ex=68ffb416&is=68fe6296&hm=59d6d8a1d30553443c7d6bf50d814f88c6ad403dafef00d84fae94c93e560bcc&)
 # 
 
 # Login de Usuários na plataforma
