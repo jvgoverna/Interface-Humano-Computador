@@ -662,7 +662,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **3\) CTT**
 
-![CTT Login](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT-Login.png)
+![CTT Login](https://cdn.discordapp.com/attachments/1372327706980651028/1432068049040572618/CTT-Login.png?ex=68ffb4cd&is=68fe634d&hm=fdf60a9716e5b67acd80995ef7b4e758fca151ec91d192934243584e5dd40f16&)
 # 
 
 # Simulação de investimentos na plataforma
