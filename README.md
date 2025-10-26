@@ -430,7 +430,7 @@ Ao final do período planejado, [3] Pedro ficou abatido ao perceber que as açõ
 # Cadastro de Usuários na plataforma
 
 **1\) HTA**
-![HTA Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA%20Att.png)
+![HTA Cadastro](https://cdn.discordapp.com/attachments/1372327706980651028/1432066886979420210/HTA_Att.png?ex=68ffb3b8&is=68fe6238&hm=91f44a750c6c5561831dd5d862fca4306447a8616a830a57fe4e86981b923e29&)
 
 
 | Objetivos/Operações | Problemas e Recomendações | 
