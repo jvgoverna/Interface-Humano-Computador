@@ -166,7 +166,7 @@ Atualmente, observa-se uma tendência no uso de aplicações móveis e web que o
 
 # Persona Pedro
 
-![Pedro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Rosto%20Pedro%20Persona.png)
+![Pedro](https://cdn.discordapp.com/attachments/1372327706980651028/1432066226108235967/Rosto_Pedro_Persona.png?ex=68ffb31a&is=68fe619a&hm=0b0cfe0ea197ce65909ffd00b7a12fd88f523075f406bc293afff4aeece82182&)
 
 Atores: Pedro 
 
@@ -182,7 +182,7 @@ Pedro clonou o repositório, subiu a aplicação, preencheu o questionário de s
 
 # Persona Primária João Vitor
 
-![João](Imagens%20IHC/Rosto%20João%20Persona.png)
+![João](https://cdn.discordapp.com/attachments/1372327706980651028/1432066198056472606/Rosto_Joao_Persona.png?ex=68ffb314&is=68fe6194&hm=75bdd1f89efa1923bbd7da0b84ffa98676e256bdc91ee31c4e86d669e143d7f5&)
 
 Atores: João Vitor - "Clareza e simplicidade no investimento"
 
@@ -196,7 +196,7 @@ Para João, o mais importante não é acessar métricas complexas ou acompanhar 
 
 # Persona Primária Felipe Orlando
 
-![Felipe](Imagens%20IHC/Rosto%20Felipe%20Persona.png)
+![Felipe](https://cdn.discordapp.com/attachments/1372327706980651028/1432066209838534696/Rosto_Felipe_Persona.png?ex=68ffb316&is=68fe6196&hm=11d4f3985389e4df2431ed28acb98dbd473e2901a8de6c5bd9a1fa937138a22a&)
 
 Atores: Felipe Orlando - "Busca por mais conhecimento"
 
