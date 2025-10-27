@@ -765,7 +765,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 		- OP.5.A.3: salvar o novo perfil e retornar à simulação com recomendações ajustadas
 **3\) CTT**
 
-![CTT InitialPage](https://cdn.discordapp.com/attachments/1372327706980651028/1432068705965178970/CTT-InitialPage.png?ex=68ffb56a&is=68fe63ea&hm=12baf4fd525b519bf9c2fc9dff7e19b11ca1df03f4af5be0e3b438c6c389f7da&)
+![CTT InitialPage](https://cdn.discordapp.com/attachments/944449520832507945/1432200269017387170/CTT-InitialPageV2.png?ex=69002ff1&is=68fede71&hm=c799a2643fc2805c702ff8e788ee45e26fbfabb7a354975ec8c65d7b5392a80a&)
 # 
 
 # **Entrega 6  (data) \[em andamento/concluído\]**
