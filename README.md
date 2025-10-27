@@ -962,14 +962,13 @@ Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relaç�
 
    1. **Qualitativo**
 
-    | Metas | Porcentagem | Justificativa |
-	| ----- | :---- | :---- |
-	| Facilidade de aprendizado (Learnability) | 20% | Aprender a usar a plataforma e entender melhor métricas para a compra e venda de ações é simples e intuitivo em nossa plataforma. |
-	| Eficiência no uso (Efficiency) | 20% | Usuários sentem que conseguem realizar tarefas rapidamente sem esforço excessivo. |
-	| Facilidade de retomar o uso (Memorability)  | 20% | Usuário consegue retomar o uso da plataforma sem dificuldades mesmo após um período sem acesso, apenas logando novamente com sua conta e senha. |
-	| Baixa taxa de erros (Errors) | 15% | Usuários relatam que cometem poucos erros na plataforma. |
-	| Satisfação do usuário (Satisfaction) | 25% | Usuário sente-se satisfeito e confortável usando a plataforma e percebe valor nas recomendações e na construção da carteira de investimento. |
-	| **Total** | **100%** |  |
+    | Meta | Justificativa |
+	| ----- | :---- |
+	| Garantir que elementos clicáveis tenham feedback visual imediato| O feedback visual imediato nos elementos clicáveis evita dúvidas sobre o reconhecimento da ação. Isso reduz erros e aumenta a sensação de controle durante o uso. |
+	| Evitar o uso de linguagem técnica nas simulações e nas recomendações de ação | Facilitar o entendimento para investidores com pouca experiência, sem deixar de atender quem já tem mais conhecimento, usando uma comunicação simples e clara para que todos saibam exatamente o que foi recomendado e o que fazer. |
+	| Facilidade de retomar o uso (Memorability)  | Usuário consegue retomar o uso da plataforma sem dificuldades mesmo após um período sem acesso, apenas logando novamente com sua conta e senha. |
+	| Baixa taxa de erros (Errors) | Usuários relatam que cometem poucos erros na plataforma. |
+	| Satisfação do usuário (Satisfaction) | Usuário sente-se satisfeito e confortável usando a plataforma e percebe valor nas recomendações e na construção da carteira de investimento. |
 
 
    2. **Quantitativo**
