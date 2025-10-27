@@ -662,7 +662,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **3\) CTT**
 
-![CTT Login](https://cdn.discordapp.com/attachments/1372327706980651028/1432068049040572618/CTT-Login.png?ex=68ffb4cd&is=68fe634d&hm=fdf60a9716e5b67acd80995ef7b4e758fca151ec91d192934243584e5dd40f16&)
+![CTT Login](https://cdn.discordapp.com/attachments/944449520832507945/1432194972320268299/CTT-LoginV2.png?ex=69002b02&is=68fed982&hm=8b32b9053ef80e695ba0f47c6aeeeafaeb595f4885eb96cca87342b74f45e565&)
 # 
 
 # Simulação de investimentos na plataforma
