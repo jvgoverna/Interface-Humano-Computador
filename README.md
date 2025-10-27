@@ -965,10 +965,11 @@ Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relaç�
     | Meta | Justificativa |
 	| ----- | :---- |
 	| Garantir que elementos clicáveis tenham feedback visual imediato| O feedback visual imediato nos elementos clicáveis evita dúvidas sobre o reconhecimento da ação. Isso reduz erros e aumenta a sensação de controle durante o uso. |
-	| Evitar o uso de linguagem técnica nas simulações e nas recomendações de ação | Facilitar o entendimento para investidores com pouca experiência, sem deixar de atender quem já tem mais conhecimento, usando uma comunicação simples e clara para que todos saibam exatamente o que foi recomendado e o que fazer. |
-	| Facilidade de retomar o uso (Memorability)  | Usuário consegue retomar o uso da plataforma sem dificuldades mesmo após um período sem acesso, apenas logando novamente com sua conta e senha. |
-	| Baixa taxa de erros (Errors) | Usuários relatam que cometem poucos erros na plataforma. |
-	| Satisfação do usuário (Satisfaction) | Usuário sente-se satisfeito e confortável usando a plataforma e percebe valor nas recomendações e na construção da carteira de investimento. |
+	| Evitar o uso de linguagem técnica nas simulações e recomendações de investimento | Facilitar o entendimento para investidores com pouca experiência, sem deixar de atender quem já tem mais conhecimento, usando uma comunicação simples e clara para que todos saibam exatamente o que foi recomendado e o que fazer. |
+	| Priorizar uma navegação simples e de fácil entendimento  | O usuário deve compreender claramente as ações necessárias no sistema, evitando interpretações equivocadas e tornando a experiência mais fluida. |
+	| Durante a simulação, permitir que o usuário altere ou remova ações selecionadas | Durante a simulação, permitir que o usuário altere ou remova ações selecionadas e o orçamento disponível para o investimento. |
+	| Permitir que o usuário refaça o questionário a qualquer momento | O usuário pode refazer o questionário de suitability sempre que desejar ajustar seu perfil de investimento. |
+	| Assegurar que os dados do usuário e o site estejam sempre disponíveis.  | Garante que o usuário possa acessar a plataforma a qualquer momento, com segurança de que suas informações e dados estão protegidos.  |
 
 
    2. **Quantitativo**
