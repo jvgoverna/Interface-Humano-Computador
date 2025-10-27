@@ -1044,6 +1044,8 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 **Na mesma tela de simulação há um botão chamado “Menu” que, ao ser clicado, exibe uma janela deslizante com quatro opções clicáveis, cada uma direcionando para uma tela específica [4][5]. A primeira opção redireciona o usuário para o questionário de suitability, onde ele deverá refazer o questionário [5]. A segunda opção exibe os gráficos de previsão de fechamento de cada ação comparados aos valores reais, permitindo selecionar os gráficos de cada ação no período de 2023 a 2025 [6]. A terceira opção apresenta os gráficos históricos de cada ação referentes ao período de 2016 a 2023. Por fim, a quarta opção é um botão de sair, que realiza o logout do usuário e o redireciona para a página de login do sistema [7].**
 
+**Seu objetivo de explorar e entender alternativas à poupança foi alcançado. Ele conseguiu identificar suas necessidades, limites de compreensão e a importância de informações claras, refletindo sobre como tomar decisões financeiras mais seguras e adequadas ao seu perfil.**
+
 2) **Design Centrado na Comunicação**
 
 **Nome do Cenário: Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes**
