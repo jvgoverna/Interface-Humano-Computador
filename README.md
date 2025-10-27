@@ -419,7 +419,7 @@ Ao final do período planejado, [3] Pedro ficou abatido ao perceber que as açõ
 [7] Durante o uso do aplicativo, Pedro teve facilidade em utilizá-lo, pois o mesmo apresentava uma interface limpa e objetiva. Ele conseguiu navegar facilmente pelos gráficos, simular ações e realizar operações de compra e venda de forma rápida, o que lhe permitiu economizar tempo. Sentindo-se mais confiante, decidiu seguir as recomendações baseadas na classificação do seu perfil de investidor. Ele avaliou positivamente essa experiência inicial, destacando que a clareza visual e a fluidez da navegação foram essenciais para que se sentisse confortável com a plataforma. A organização das informações e a simplicidade no acesso às funcionalidades deram a ele uma sensação de controle, mesmo sendo um investidor relativamente novo.
 
 
-# **Entrega 5  (data) \[em andamento/concluído\]**
+# **Entrega 5  (data) \[concluído\]**
 
 **\[1 solução por pessoa\]**
 
