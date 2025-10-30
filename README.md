@@ -783,7 +783,7 @@ Essa segunda parte mostra as 4 últimas telas que podem ser vistas após o usuá
 ## Fluxograma da Prototipação em Papel
 As setas do fluxograma mostram para onde cada página pode levar a depender da escolha do usuário. Uma legenda de cada página é mostrada à esquerda da imagem. É bom ressaltar que após realizar o cadastro, o usuário já é redirecioando para a Página do Questionário de Suitability, não sendo necessário realizar o login.
 
-![Prototipação em Papel Fluxograma](https://media.discordapp.net/attachments/1372327706980651028/1433273361357734030/image.png?ex=69041756&is=6902c5d6&hm=d6d2acbd372712380dcc4a7129989310370723da6bbdb1747bac1809e91672c2&=&format=webp&quality=lossless&width=490&height=350)
+![Prototipação em Papel Fluxograma](https://media.discordapp.net/attachments/1372327706980651028/1433273361357734030/image.png?ex=69041756&is=6902c5d6&hm=d6d2acbd372712380dcc4a7129989310370723da6bbdb1747bac1809e91672c2&=&format=webp&quality=lossless)
 
 ## Simulação de Teste de Usuário
 Durante o teste com a prototipação em papel, um usuário qualquer conseguiu entender a proposta geral do site, mas relatou problemas na parte de cadastro, ficando confuso o acesso e o retorno nas telas de “Políticas da Empresa” e “Política de Privacidade” a partir do cadastro: os links não estavam evidentes, não ficou claro se eram obrigatórios antes de prosseguir e também não identificando para onde o botão de “voltar” levava. A sensação foi de “perder-se” nessas páginas auxiliares.
@@ -1083,7 +1083,7 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
-![Mapa de Objetivos](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Mapa%20de%20Objetivos.png)
+![Mapa de Objetivos](https://media.discordapp.net/attachments/1372327706980651028/1433273849201561661/image.png?ex=690417ca&is=6902c64a&hm=529f35ceb6a81e70c4beafad15a6b4f61f2269d7e815c10efe66212e3826bfc9&=&format=webp&quality=lossless)
 
 4) **Esquema Conceitual de Signos**
 
