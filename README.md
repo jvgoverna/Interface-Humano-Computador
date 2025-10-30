@@ -1052,21 +1052,21 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|   Cadastrar usuário na plataforma                            | U: Preciso me cadastrar **na plataforma** para poder acessar recomendação de carteiras de investimento de acordo com o meu perfil de investidor |
-| \> informar dados do usuário                                 | D: Qual é o seu nome, CPF, data de nascimento, telefone celular e residencial, seu e-mail e senha de acesso a plataforma?. <br> U: Certo, vou preencher meus dados. <br> D: Verificando informações... cadastro realizado com sucesso. Redirecionando para a tela de **login** da **plataforma**. |
-|   Login do usuário na plataforma                             | U: Preciso me logar **na plataforma** para poder simular investimentos de acordo com meu pefil identificado no **questionário** |
-| \> informar dados cadastrados do usuário                     | D: Qual é o seu e-mail e senha cadastrados anteriormente? <br> U: Vou preencher meus dados cadastrados. <br> D: Verificando informações preenchidas... Cadastro encontrado no banco de dados. Redirecionando para a tela do **questionário**  |
-|   Responder questionário de suitability                      | U: Preciso responder o questionário de suitability para posteriormente **simular** um investimento |
-| \> responder perguntas com base no seu perfil                | D: Aqui estão 10 perguntas que devem ser respondidas de acordo com seu conhecimento e familiaridade com investimentos. Cada resposta atribui pontos que serão somados para a identificação do seu perfil. As questões 7, 8 e 9 permitem múltiplas respostas. No final clique no botão de enviar seu questionário <br> U: Vou preencher essas questões de acordo com meu conhecimento. <br> D: Ok, questionário recebido, salvando pontuação no banco de dados, e redirecionando para a tela de **simular** **investimento**. |
+|   Cadastrar usuário na plataforma                            | U: Preciso me **cadastrar na plataforma** para poder acessar **recomendação de carteiras de investimento** de acordo com o meu **perfil** de investidor |
+| \> informar dados do usuário                                 | D: Qual é o seu **nome**, **CPF**, **data de nascimento**, **telefone celular e residencial**, seu **e-mail** e **senha de acesso a plataforma**?. <br> U: Certo, vou preencher meus dados. <br> D: Verificando informações... cadastro realizado com sucesso. Redirecionando para a tela de **login** da **plataforma**. |
+|   Login do usuário na plataforma                             | U: Preciso me logar **na plataforma** para poder **simular investimentos** de acordo com meu **pefil** identificado no **questionário** |
+| \> informar dados cadastrados do usuário                     | D: Qual é o seu **e-mail** e **senha** cadastrados anteriormente? <br> U: Vou preencher meus dados cadastrados. <br> D: Verificando informações preenchidas... Cadastro encontrado no banco de dados. Redirecionando para a tela do **questionário**  |
+|   Responder questionário de suitability                      | U: Preciso responder o **questionário** de suitability para posteriormente **simular investimento** |
+| \> responder perguntas com base no seu perfil                | D: Aqui estão 10 perguntas que devem ser respondidas de acordo com seu conhecimento e familiaridade com investimentos. Cada resposta atribui pontos que serão somados para a identificação do seu **perfil**. As questões 7, 8 e 9 permitem múltiplas respostas. No final clique no botão de enviar seu **questionário** <br> U: Vou preencher essas questões de acordo com meu conhecimento. <br> D: Ok, **questionário** recebido, salvando pontuação no banco de dados, e redirecionando para a tela de **simular** **investimento**. |
 
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|  Simular Investimento         | U: Quero simular um investimento com base no meu **orçamento** disponível |
-| \> verificar movimentação histórica das ações  | D: Ao clicar no campo menu no campo superior direito clique em histórico para visualizar como foi o comportamento da ação em um período de 7 anos | 
-| \> informar o orçamento disponível | D: Informe o valor total disponível para investir. <br> U: R$ 10.000,00  | 
-| \> distribuir orçamento       | D: Apartir desse **orçamento** como você deseja distribuir esse valor para a compra de no mínimo 3 ações? U: Quero aplicar R$ 2000,00 em SBSP3, R$ 3000,00 em ITUB4 e R$ 5000,00 em ELET3 <br> D: Após preecher distribua o **orçamento** para cada ação e escolha o período de tempo que preferir e clique no botão de simular investimento. <br> U: Quero simular o investimento em um período de 12 meses. |
-| \> resultado					| D: Simulação concluída. Você teve prejuízo na ação da ITUB4 de R$20,00 e na SBSP3 de R$ 14,00. Mas teve um lucro total de R$ 300,00 nesse investimento. Nossa IA recomendou investir R$ 3000,00 na SBSP3, R$ 5000,00 na BBDC4 e R$ 2000,00 na BBAS3, com um lucro total de R$ 1500,00|  
+|  Simular Investimento         | U: Quero **simular um investimento** com base no meu **orçamento** disponível |
+| \> verificar movimentação histórica das ações  | D: Ao clicar no campo menu no campo superior direito clique em **histórico** para visualizar como foi o comportamento da **ação** em um **período** de 7 anos | 
+| \> informar o orçamento disponível | D: Informe o **valor** total disponível para investir. <br> U: **R$ 10.000,00**  | 
+| \> distribuir orçamento       | D: Apartir desse **orçamento** como você deseja distribuir esse valor para a **compra** de no mínimo 3 **ações**? U: Quero aplicar **R$ 2000,00** em **SBSP3**, **R$ 3000,00** em **ITUB4** e **R$ 5000,00** em **ELET3** <br> D: Após preecher distribua o **orçamento** para cada **ação** e escolha o **período** de tempo que preferir e clique no botão de **simular investimento**. <br> U: Quero **simular investimento** em um **período** de **12 meses**. |
+| \> resultado					| D: Simulação concluída. Você teve prejuízo na **ação** da **ITUB4** de **R$20,00** e na **SBSP3** de **R$ 14,00**. Mas teve um **lucro total** de **R$ 300,00** nesse **investimento**. Nossa IA **recomendou** investir **R$ 3000,00** na **SBSP3**, **R$ 5000,00** na **BBDC4** e **R$ 2000,00** na **BBAS3**, com um **lucro** total de **R$ 1500,00**|  
 
 
 | tópico \> subtópico (diálogo) | falas e signos |
