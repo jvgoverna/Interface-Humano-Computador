@@ -166,7 +166,7 @@ Atualmente, observa-se uma tendência no uso de aplicações móveis e web que o
 
 # Persona Pedro
 
-![Pedro](https://cdn.discordapp.com/attachments/1372327706980651028/1432066226108235967/Rosto_Pedro_Persona.png?ex=68ffb31a&is=68fe619a&hm=0b0cfe0ea197ce65909ffd00b7a12fd88f523075f406bc293afff4aeece82182&)
+![Pedro](https://media.discordapp.net/attachments/1372327706980651028/1432066226108235967/Rosto_Pedro_Persona.png?ex=6903a79a&is=6902561a&hm=c3c4306a74818e4238dc36b05a7d65d3aa6587b50f325dd6b9180ee419f690bf&=&format=webp&quality=lossless&width=233&height=350)
 
 Atores: Pedro 
 
@@ -182,7 +182,7 @@ Pedro clonou o repositório, subiu a aplicação, preencheu o questionário de s
 
 # Persona Primária João Vitor
 
-![João](https://cdn.discordapp.com/attachments/1372327706980651028/1432066198056472606/Rosto_Joao_Persona.png?ex=68ffb314&is=68fe6194&hm=75bdd1f89efa1923bbd7da0b84ffa98676e256bdc91ee31c4e86d669e143d7f5&)
+![João](https://media.discordapp.net/attachments/1372327706980651028/1432066198056472606/Rosto_Joao_Persona.png?ex=6903a794&is=69025614&hm=975b3c6e6f2737c4dc86f41902cfd2829eaa4fc08273748d448eefc3aac2dc30&=&format=webp&quality=lossless&width=640&height=960)
 
 Atores: João Vitor - "Clareza e simplicidade no investimento"
 
@@ -196,7 +196,7 @@ Para João, o mais importante não é acessar métricas complexas ou acompanhar 
 
 # Persona Primária Felipe Orlando
 
-![Felipe](https://cdn.discordapp.com/attachments/1372327706980651028/1432066209838534696/Rosto_Felipe_Persona.png?ex=68ffb316&is=68fe6196&hm=11d4f3985389e4df2431ed28acb98dbd473e2901a8de6c5bd9a1fa937138a22a&)
+![Felipe](https://media.discordapp.net/attachments/1372327706980651028/1432066209838534696/Rosto_Felipe_Persona.png?ex=6903a796&is=69025616&hm=1b1d627a5f78bc9355a4e7263c45926150659a80040c64fcca9e9c7e1a3ab8a1&=&format=webp&quality=lossless&width=640&height=960)
 
 Atores: Felipe Orlando - "Busca por mais conhecimento"
 
