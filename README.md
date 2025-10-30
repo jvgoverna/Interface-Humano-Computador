@@ -516,7 +516,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **3\) CTT**
 
-![CTT Cadastro](https://cdn.discordapp.com/attachments/1372327706980651028/1432067281780867082/CTT_ATT.png?ex=68ffb416&is=68fe6296&hm=59d6d8a1d30553443c7d6bf50d814f88c6ad403dafef00d84fae94c93e560bcc&)
+![CTT Cadastro](https://media.discordapp.net/attachments/1372327706980651028/1432067281780867082/CTT_ATT.png?ex=6903a896&is=69025716&hm=39caaae99be2c35090707d20ff9d8e1b5b3e9c480b1043904a70a4d8c19c68d4&=&format=webp&quality=lossless&width=1872&height=663)
 # 
 
 # Login de Usuários na plataforma
