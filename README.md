@@ -1052,7 +1052,7 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|   Cadastrar usuário na plataforma                            | U: Preciso me **cadastrar na plataforma** para poder acessar **recomendação de carteiras de investimento** de acordo com o meu **perfil** de investidor |
+|   Cadastrar usuário na plataforma                            | U: Preciso me **cadastrar na plataforma** para poder acessar **recomendação de carteiras de investimento** de acordo com o meu **perfil de investidor** |
 | \> informar dados do usuário                                 | D: Qual é o seu **nome**, **CPF**, **data de nascimento**, **telefone celular e residencial**, seu **e-mail**, **senha de acesso a plataforma** e você aceita a **política de privacidade** e **termos da plataforma**?. <br> U: Certo, vou preencher meus dados. <br> D: Verificando informações...  cadastro realizado com sucesso. Redirecionando para a tela de **login** da **plataforma**. |
 |   Login do usuário na plataforma                             | U: Preciso me logar **na plataforma** para poder **simular investimentos** de acordo com meu **pefil** identificado no **questionário** |
 | \> informar dados cadastrados do usuário                     | D: Qual é o seu **e-mail** e **senha** cadastrados anteriormente? <br> U: Vou preencher meus dados cadastrados. <br> D: Verificando informações preenchidas... Cadastro encontrado no banco de dados. Redirecionando para a tela do **questionário**  |
@@ -1091,7 +1091,7 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
 | Cadastrar na Plataforma | sistema  | Tela de cadastro das informações do usuário na plataforma | interação de usuário (formulário) | Disponível apenas para usuários não autenticados. E-mail e CPF devem ser válidos, únicos e o aceite dos termos é obrigatório. | Campos vazios e campos obrigatórios marcados com *.| PP: Campos obrigatórios com expressão explícita (*), verificação em tempo real de CPF e e-mail previamente cadastrados| RA: mensagem de erro e possibilidade de editar campos incorretos |
-
+| Recomendação de carteiras de investimento | sistema | Após a autenticação do usuário, o mapeamento do perfil e a realização da simulação manual, o sistema apresenta as três ações mais compatíveis com o perfil do investidor | Comportamento do sistema | Para que a recomendação seja gerada, o usuário deve simular no mínimo três ações. | Nenhuma recomendação disponível | PP: O sistema permite simular menos de três ações, porém exibe uma mensagem em vermelho informando que são necessárias pelo menos três para gerar recomendações.  | RA: Mensagem de erro em vermelho indicando o que o usuário deve editar  |
 <!--
 Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 
