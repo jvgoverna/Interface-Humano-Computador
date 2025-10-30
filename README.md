@@ -1090,7 +1090,7 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | Credenciais (C) \- credenciais para cadastro na plataforma | | | | | | | |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **signo** | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
-| Cadastrar na Plataforma | sistema  | Tela de cadastro das informações do usuário na plataforma | interação de usuário (formulário) | Disponível apenas para não autenticados; e-mail e CPF deve ser válido e único e aceite dos termos obrigatórios. | Campos vazios e campos obrigatórios marcados com *.| Máscara de entrada, verificação de e-mail e CPF já cadastrados e validação em tempo real | mensagem de erro e possibilidade de editar campos incorretos |
+| Cadastrar na Plataforma | sistema  | Tela de cadastro das informações do usuário na plataforma | interação de usuário (formulário) | Disponível apenas para não autenticados; e-mail e CPF deve ser válido e único e aceite dos termos obrigatórios. | Campos vazios e campos obrigatórios marcados com *.| PP: Campos obrigatórios com expressão explícita (*), verificação em tempo real de CPF e e-mail previamente cadastrados| RA: mensagem de erro e possibilidade de editar campos incorretos |
 
 <!--
 Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
