@@ -166,7 +166,7 @@ Atualmente, observa-se uma tendência no uso de aplicações móveis e web que o
 
 # Persona Pedro
 
-![Pedro](https://media.discordapp.net/attachments/1372327706980651028/1432066226108235967/Rosto_Pedro_Persona.png?ex=6903a79a&is=6902561a&hm=c3c4306a74818e4238dc36b05a7d65d3aa6587b50f325dd6b9180ee419f690bf&=&format=webp&quality=lossless&width=233&height=350)
+![Pedro](https://media.discordapp.net/attachments/1372327706980651028/1432066226108235967/Rosto_Pedro_Persona.png?ex=6903a79a&is=6902561a&hm=c3c4306a74818e4238dc36b05a7d65d3aa6587b50f325dd6b9180ee419f690bf&=&format=webp&quality=lossless&width=640&height=960)
 
 Atores: Pedro 
 
