@@ -1051,42 +1051,42 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|   Cadastrar usuário na plataforma                            | U: Preciso me **cadastrar na plataforma** para poder acessar **recomendação de carteiras de investimento** de acordo com o meu **perfil de investidor** **(Signo: cadastra na plataforma, recomendação de carteiras de investimento e Perfil de Investidor/Questionário)** |
-| \> informar dados do usuário                                 | D: Qual é o seu **nome**, **CPF**, **data de nascimento**, **telefone celular e residencial**, seu **e-mail**, **senha de acesso a plataforma** e você aceita a **política de privacidade** e **termos de uso da plataforma**?. <br> U: Certo, vou preencher meus dados. <br> D: Verificando informações...  cadastro realizado com sucesso. Redirecionando para a tela de **login na plataforma**. **(Signo: política de privacidade e termos de uso da plataforma e login na plataforma)**|
-|   Login do usuário na plataforma                             | U: Preciso realizar o **login na plataforma** para poder **simular investimentos** de acordo com meu **pefil** identificado no **questionário** **(Signo: login na plaforma, simular investimentos e Perfil de Investidor/Questionário)**|
-| \> informar dados cadastrados do usuário                     | D: Qual é o seu **e-mail** e **senha** cadastrados anteriormente? <br> U: Vou preencher meus dados cadastrados. <br> D: Verificando informações preenchidas... Cadastro encontrado no banco de dados. Redirecionando para a tela do **questionário** **(Signo: Perfil de Investidor/Questionário )** |
-|   Responder questionário de suitability                      | U: Preciso responder o **questionário** de suitability para posteriormente **simular investimento** **(Signo: Perfil de Investidor/Questionário e simular investimentos)** |
-| \> responder perguntas com base no seu perfil                | D: Aqui estão 10 perguntas que devem ser respondidas de acordo com seu conhecimento e familiaridade com investimentos. Cada resposta atribui pontos que serão somados para a identificação do seu **perfil**. As questões 7, 8 e 9 permitem múltiplas respostas. No final clique no botão de enviar seu **questionário** <br> U: Vou preencher essas questões de acordo com meu conhecimento. <br> D: Ok, **questionário** recebido, salvando pontuação no banco de dados, e redirecionando para a tela de **simular investimento** **(Signo: Perfil de Investidor/Questionário e simular investimento)**|
+|   Cadastrar usuário na plataforma                            | U: Preciso me **cadastrar na plataforma** para poder acessar **recomendação de carteiras de investimento** de acordo com o meu **perfil de investidor**|
+| \> informar dados do usuário                                 | D: Qual é o seu **nome**, **CPF**, **data de nascimento**, **telefone celular e residencial**, seu **e-mail**, **senha de acesso a plataforma** e você aceita a **política de privacidade** e **termos de uso da plataforma**?. <br> U: Certo, vou preencher meus dados. <br> D: Verificando informações...  cadastro realizado com sucesso. Redirecionando para a tela de **login na plataforma**.|
+|   Login do usuário na plataforma                             | U: Preciso realizar o **login na plataforma** para poder **simular investimentos** de acordo com meu **pefil** identificado no **questionário**
+| \> informar dados cadastrados do usuário                     | D: Qual é o seu **e-mail** e **senha** cadastrados anteriormente? <br> U: Vou preencher meus dados cadastrados. <br> D: Verificando informações preenchidas... Cadastro encontrado no banco de dados. Redirecionando para a tela do **questionário**|
+|   Responder questionário de suitability                      | U: Preciso responder o **questionário** de suitability para posteriormente **simular investimento**|
+| \> responder perguntas com base no seu perfil                | D: Aqui estão 10 perguntas que devem ser respondidas de acordo com seu conhecimento e familiaridade com investimentos. Cada resposta atribui pontos que serão somados para a identificação do seu **perfil**. As questões 7, 8 e 9 permitem múltiplas respostas. No final clique no botão de enviar seu **questionário** <br> U: Vou preencher essas questões de acordo com meu conhecimento. <br> D: Ok, **questionário** recebido, salvando pontuação no banco de dados, e redirecionando para a tela de **simular investimento**|
 
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|  Simular Investimento         | U: Quero **simular um investimento** com base no meu **orçamento** disponível **(Signo: simular investimento)** |
-| \> verificar movimentação histórica das ações  | D: Ao clicar no campo menu no campo superior direito clique em **histórico** para visualizar como foi o comportamento da **ação** em um **período** de 7 anos **(Signo: histórico)**| 
+|  Simular Investimento         | U: Quero **simular um investimento** com base no meu **orçamento** disponível|
+| \> verificar movimentação histórica das ações  | D: Ao clicar no campo **menu** no canto superior direito clique em **histórico** para visualizar como foi o comportamento da **ação** em um **período** de **7 anos**| 
 | \> informar o orçamento disponível | D: Informe o **valor** total disponível para investir. <br> U: **R$ 10.000,00**  | 
 | \> distribuir orçamento       | D: Apartir desse **orçamento** como você deseja distribuir esse valor para a **compra** de no mínimo 3 **ações**? U: Quero aplicar **R$ 2000,00** em **SBSP3**, **R$ 3000,00** em **ITUB4** e **R$ 5000,00** em **ELET3** <br> D: Após preecher distribua o **orçamento** para cada **ação** e escolha o **período** de tempo que preferir e clique no botão de **simular investimento**. <br> U: Quero **simular investimento** em um **período** de **12 meses**. |
-| \> resultado					| D: Simulação concluída. Você teve prejuízo na **ação** da **ITUB4** de **R$20,00** e na **SBSP3** de **R$ 14,00**. Mas teve um **lucro total** de **R$ 300,00** nesse **investimento**. Nossa IA **recomendou** investir **R$ 3000,00** na **SBSP3**, **R$ 5000,00** na **BBDC4** e **R$ 2000,00** na **BBAS3**, com um **lucro** total de **R$ 1500,00**|  
+| \> resultado					| D: Simulação concluída. Você teve prejuízo na **ação** da **ITUB4** de **R$20,00** e na **SBSP3** de **R$ 14,00**. Mas teve um **lucro total** de **R$ 300,00** nesse **investimento**. A **recomendação da IA** foi de investir **R$ 3000,00** na **SBSP3**, **R$ 5000,00** na **BBDC4** e **R$ 2000,00** na **BBAS3**, com um **lucro** total de **R$ 1500,00**|  
 
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
 |  Refazer teste                |U: Coloquei respostas erradas no meu **questionário** e gostaria de refazê-lo.|
-|  \> redirecionamento tela do questionário | D: Certo! Clique no menu e selecione a opção refazer teste. Você será redirecionado para a tela do **questionário** de suitability para refazê-lo.|
+|  \> redirecionamento tela do questionário | D: Certo! Clique no **menu** e selecione a opção **refazer teste**. Você será redirecionado para a tela do **questionário** de suitability para refazê-lo.|
 
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
 |  Deslogar conta da plataforma                |U: Quero encerrar minha sessão na **plataforma**.|
-|  \> Sair da plataforma | D: Certo! Clique no menu e selecione a opção sair. <br> U: OK! <br> D: Deslogando da **plataforma** e redirecionando para a tela de login.|
+|  \> Sair da plataforma | D: Certo! Clique no **menu** e selecione a opção **sair**. <br> U: OK! <br> D: Deslogando da **plataforma** e redirecionando para a tela de **login**.|
 
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
 ![Mapa de Objetivos](https://media.discordapp.net/attachments/1372327706980651028/1433273849201561661/image.png?ex=690417ca&is=6902c64a&hm=529f35ceb6a81e70c4beafad15a6b4f61f2269d7e815c10efe66212e3826bfc9&=&format=webp&quality=lossless)
 
-4) **Esquema Conceitual de Signos**
+4) **Esquema Conceitual Geral de Signos**
 
-| Credenciais (C) \- credenciais para cadastro na plataforma | | | | | | | |
+| | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
 | Cadastrar na Plataforma | Sistema  | Tela de cadastro das informações do usuário na plataforma | interação de usuário (formulário) | Disponível apenas para usuários não autenticados. E-mail e CPF devem ser válidos, únicos e o aceite dos termos é obrigatório. | Campos vazios e campos obrigatórios marcados com *.| PP: Campos obrigatórios com expressão explícita (*), verificação em tempo real de CPF e e-mail previamente cadastrados| RA: mensagem de erro e possibilidade de editar campos incorretos |
@@ -1096,6 +1096,14 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | Política de privacidade e termos de uso | sistema | Na tela de cadastro, o usuário deve marcar uma caixa de seleção para aceitar os Termos de Uso e a Política de Privacidade da plataforma. É possível clicar nos links do texto para acessar as telas completas dos termos ou da política, e ambas as telas possuem um botão “Voltar” que retorna o usuário para a tela de cadastro| interação de usuário (caixa de seleção) | Para realizar o cadastro é necessário que essa caixa seja preenchida | Caixa de seleção desativada | PA: O botão de cadastro só é habilitado quando o usuário marca a caixa de seleção aceitando os Termos de Uso e a Política de Privacidade, impedindo que o cadastro seja concluído sem o aceite obrigatório. | - |
 | Simular Investimento | Sistema | Na tela de simulação de investimento, o usuário deve informar seu orçamento disponível e selecionar as ações e respectivos valores que deseja simular | interação de usuário  | O usuário deve selecionar pelo menos uma ação cujo valor para compra seja menor ou igual ao orçamento disponível. | Campos vazios | PA: O sistema impede que o usuário simule valores acima do orçamento disponível, exibindo uma mensagem de erro em vermelho e desabilitando o botão de simulação até que os valores sejam corrigidos. | RA: O usuário corrige os valores das ações para que fiquem menores ou iguais ao orçamento disponível, permitindo que o botão de simulação seja habilitado e a simulação seja realizada. |
 | Histórico | Sistema | O usuário pode acessar o histórico de todas as 8 ações a qualquer momento clicando no botão de menu disponível na tela de simulação | interação de usuário | campo de seleção limpo para o usuário escolher qual ação visualizar | - | -|
+
+
+4a) **Esquema conceitual de signos: Cadastrar usuário na plataforma**
+
+| Credenciais (C) \- credenciais para Cadastrar usuário na plataforma  | | | | | | | |
+| :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
+| **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
+| Cadastrar na Plataforma | | | | | | | |
 <!--
 Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 
