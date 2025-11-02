@@ -1051,7 +1051,7 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|   Cadastrar usuário na plataforma                            | U: Preciso me **cadastrar na plataforma** para poder acessar **recomendação de carteiras de investimento** de acordo com o meu **perfil de investidor**|
+|   Cadastrar usuário na plataforma                            | U: Preciso me **cadastrar na plataforma** para poder acessar recomendação de carteiras de investimento de acordo com o meu perfil de investidor|
 | \> informar dados do usuário                                 | D: Qual é o seu **nome**, **CPF**, **data de nascimento**, **telefone celular e residencial**, seu **e-mail**, **senha de acesso a plataforma** e você aceita a **política de privacidade** e **termos de uso da plataforma**?. <br> U: Certo, vou preencher meus dados. <br> D: Verificando informações...  cadastro realizado com sucesso. Redirecionando para a tela de **login na plataforma**.|
 |   Login do usuário na plataforma                             | U: Preciso realizar o **login na plataforma** para poder **simular investimentos** de acordo com meu **pefil** identificado no **questionário**
 | \> informar dados cadastrados do usuário                     | D: Qual é o seu **e-mail** e **senha** cadastrados anteriormente? <br> U: Vou preencher meus dados cadastrados. <br> D: Verificando informações preenchidas... Cadastro encontrado no banco de dados. Redirecionando para a tela do **questionário**|
@@ -1103,7 +1103,9 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | Credenciais (C) \- credenciais para Cadastrar usuário na plataforma  | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
-| Cadastrar na Plataforma | | | | | | | |
+| nome<br>CPF<br>data de nascimento<br>telefone celular<br>telefone residencial<br>e-mail<br>senha| sistema | Signos obtidos na tela de cadastro das informações do usuário na plataforma | interação de usuário (formulário) | Os campos de e-mail e CPF passam por verificação de unicidade: se já houver cadastro com essas informações, o sistema exibirá uma mensagem informando que o usuário já foi registrado. O telefone residencial é o único campo opcional. A data de nascimento é validada automaticamente para impedir valores inválidos, como a data de hoje ou quaisquer datas futuras. | Campos vazios e campos obrigatórios marcados com * |PP: Campos obrigatórios com expressão explícita (*), verificação em tempo real de CPF e e-mail previamente cadastrados |RA: Após a ruptura (e-mail/CPF já cadastrado ou data inválida), o sistema informa o erro, destaca o(s) campo(s) e permite correção imediata |
+| política de privacidade e termos de uso da plataforma | Sistema | Campo com checkbox acompanhado de links para Política de Privacidade e Termos de Uso, ao marcar, o usuário declara que leu e concorda, e ao clicar nos links é direcionado à página correspondente com opção de voltar a página de cadastro | interação de usuário (checkbox e páginas informativas) | Para a realização do cadastro é necessário que esse campo seja preenchido| checkbox não marcado |PA: O botão Cadastrar permanece desabilitado até que o usuário marque o consentimento | - |
+
 <!--
 Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 
