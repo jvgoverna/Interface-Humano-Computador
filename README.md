@@ -159,10 +159,9 @@ Nosso público-alvo são pessoas que são responsáveis legais por si mesmas e t
 
 Atualmente, observa-se uma tendência no uso de aplicações móveis e web que oferecem uma interface de fácil uso e entendimento ao investidor. Além da utilização de diversos perguntas para a construção do questionário de suitability e identificar o perfil de investimento do usuário. E encontra-se também o uso da Inteligência artificial para ajudar a instruir o investidor, principalmente os iniciantes na compra e venda de seus ativos financeiros.
 
-# **Entrega 3 (data) \[em andamento/concluído\]**
+# **Entrega 3 (data) \[concluído\]**
 
 **1\) Personas**   
-**\[1 solução completa por pessoa da equipe \- identificar o autor\]**
 
 # Persona Pedro
 
