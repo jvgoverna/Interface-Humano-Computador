@@ -1062,10 +1062,10 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
 |  Simular Investimento         | U: Quero simular um investimento com base no meu **orçamento** disponível|
-| \> verificar movimentação histórica das ações  | D: Ao clicar no campo **menu** no canto superior direito clique em **histórico** para visualizar como foi o comportamento da **ação** em um **período** de **7 anos**| 
+| \> verificar movimentação histórica das ações  | D: Ao clicar no campo **menu** no canto superior direito clique em **histórico** para visualizar como foi o comportamento da **ação** em um **período de 7 anos**| 
 | \> informar o orçamento disponível | D: Informe o **valor** total disponível para investir. <br> U: **R$ 10.000,00**  | 
-| \> distribuir orçamento       | D: Apartir desse **orçamento** como você deseja distribuir esse valor para a compra de no mínimo 3 **ações**? U: Quero aplicar **R$ 2000,00** em **SBSP3**, **R$ 3000,00** em **ITUB4** e **R$ 5000,00** em **ELET3** <br> D: Após preecher distribua o **orçamento** para cada **ação** e escolha o **período** de tempo que preferir e clique no botão de **simular investimento**. <br> U: Quero **simular investimento** em um **período** de **12 meses**. |
-| \> resultado					| D: Simulação concluída. Você teve prejuízo na **ação** da **ITUB4** de **R$20,00** e na **SBSP3** de **R$ 14,00**. Mas teve um **lucro total** de **R$ 300,00** nesse **investimento**. A **recomendação da IA** foi de investir **R$ 3000,00** na **SBSP3**, **R$ 5000,00** na **BBDC4** e **R$ 2000,00** na **BBAS3**, com um **lucro** total de **R$ 1500,00**|  
+| \> distribuir orçamento       | D: Apartir desse **orçamento** como você deseja distribuir esse valor para a compra de no mínimo 3 **ações**? U: Quero aplicar **R$ 2000,00** em **SBSP3**, **R$ 3000,00** em **ITUB4** e **R$ 5000,00** em **ELET3** <br> D: Após preecher distribua o **orçamento** para cada **ação** e escolha o **período** de tempo que preferir e clique no botão de **simular investimento**. <br> U: Quero **simular investimento** em um **período de 12 meses**. |
+| \> resultado					| D: Simulação concluída. Você teve **prejuízo na ação** da **ITUB4** de **R$20,00** e na **SBSP3** de **R$ 14,00**. Mas teve um **lucro total de R$ 200,00** nesse investimento. A **recomendação da IA** foi de investir **R$ 3000,00** na **SBSP3**, **R$ 5000,00** na **BBDC4** e **R$ 2000,00** na **BBAS3**, com um **lucro total de R$ 1500,00**|  
 
 
 | tópico \> subtópico (diálogo) | falas e signos |
@@ -1123,7 +1123,22 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
 | orçamento<br>ações | Sistema | Na tela de simulação de investimento, o usuário deve informar seu orçamento disponível para investimento |interação de usuário (campo orçamento e ações) | O usuário deve selecionar pelo menos uma ação cujo valor para compra seja menor ou igual ao orçamento disponível.| Campos vazios | PA: O sistema impede que o usuário simule valores acima do orçamento disponível, exibindo uma mensagem de erro em vermelho e desabilitando o botão de simulação até que os valores sejam corrigidos. |RA: O usuário corrige os valores das ações para que fiquem menores ou iguais ao orçamento disponível, permitindo que o botão de simulação seja habilitado e a simulação seja realizada.|
-| menu<br>histórico<br>7 anos| Sistema | O usuário pode acessar o histórico de todas as 8 ações a qualquer momento clicando no botão de menu disponível na tela de simulação| interação de usuário | - | - | - | - |
+| menu<br>histórico<br>período de 7 anos| Sistema | O usuário pode acessar o histórico de todas as 8 ações a qualquer momento clicando no botão de menu disponível na tela de simulação| interação de usuário | - | - | - | - |
+| valor<br>R$ 10000,00<br>R$ 2000,00<br>R$ 3000,00 <br>R$ 5000,00| Usuário | Orçamento de R$10.000,00 para o investimento em 3 ações sendo R$2000,00 na ação da SBSP3, R$ 3000,00 para ITUB4 e R$ 5000,00 para ELET3| interação de usuário (campo orçamento e ações) | Valor total inserido nas ações deve ser menor ou igual ao orçamento disponível | campos nulos | PA: PA: O sistema impede que o usuário simule valores acima do orçamento disponível, exibindo uma mensagem de erro em vermelho e desabilitando o botão de simulação até que os valores sejam corrigidos. | RA: O usuário corrige os valores das ações para que fiquem menores ou iguais ao orçamento disponível, permitindo que o botão de simulação seja habilitado e a simulação seja realizada.|
+| SBSP3<br>ITUB4<br>ELET3<br>período de 12 meses| usuário | Ações escolhidas para o investimento em um período de 12 meses | interação de usuário (campo orçamento e ações) | - | campos nulos | - | - |
+| Prejuízo na ação<br>ITUB4<br>R$ 20,00<br>SBSP3<br>R$ 14,00<br>lucro total de R$ 200,00| sistema | Prejuízos e lucros obtidos na simulação das ações escolhidas no período definido pelo usuário | Comportamento Sistema | - | - | - | - |
+| recomendação da IA<br>R$ 3000,00<br>SBSP3<br>R$ 5000,00<br>BBDC4<br>R$ 2000,00<br>BBAS3<br>lucro total de R$ 1500,00| Sistema | Com base no perfil de investidor do usuário, a IA recomendou estas ações, informando os valores necessários para o aporte e a estimativa de lucro correspondente | Comportamento do sistema | Ações para o perfil identificado | - | PA: Se o usuário clicar em Simular investimento com menos de três ações selecionadas, o sistema exibirá uma mensagem de erro em vermelho informando que a recomendação exige a seleção de pelo menos três ações. | RA: O usuário seleciona ao menos três ações, clica novamente em Simular investimento e recebe as recomendações desejadas. |
+
+4d) **Esquema conceitual de signos: Refazer Teste**
+| Credenciais (C) \- credenciais para Refazer teste | | | | | | | |
+| :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
+| **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
+
+4e) **Esquema conceitual de signos: Deslogar conta da plataforma**
+| Credenciais (C) \- credenciais para Deslogar conta da plataforma	 | | | | | | | |
+| :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
+| **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
+
 <!--
 Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 
