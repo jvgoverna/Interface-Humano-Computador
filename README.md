@@ -1045,6 +1045,18 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 **Seu objetivo de explorar e entender alternativas à poupança foi alcançado. Ele conseguiu identificar suas necessidades, limites de compreensão e a importância de informações claras, refletindo sobre como tomar decisões financeiras mais seguras e adequadas ao seu perfil [7].**
 
+# Cenário de Interação – Felipe Orlando
+
+Felipe Orlando, engenheiro civil de 42 anos, possui mais de 10 anos de experiência no mercado de ações. Ao longo da trajetória, desenvolveu domínio de conceitos técnicos como volatilidade, dividend yield e valuation. Seu objetivo prático é converter previsões em decisões rápidas; por isso, considera essenciais os gráficos de previsão com horizonte de 24 meses e um caminho de recomendação coerente ao seu perfil agressivo [1].
+
+O cenário ocorre em seu cotidiano de investidor ativo, que dedica tempo diário à análise de relatórios e ao acompanhamento do mercado [2]. Nesse ambiente, a plataforma surge como complemento às ferramentas que já utiliza, mas precisa responder à expectativa de um usuário com alto nível de conhecimento; limitações de clareza metodológica ou de flexibilidade são percebidas rapidamente [3].
+
+Ao utilizar a plataforma, Felipe segue a sequência já mapeada no refinamento: cria sua conta, responde ao questionário de suitability e é classificado como investidor agressivo. **Imediatamente após a classificação, o sistema o direciona para a aba Simulação de Ações**, onde ele executa a simulação para o seu perfil [4]. **Nessa etapa não há gráficos: a tela exibe somente as ações recomendadas para Felipe** com base no modelo e **mostra, para cada papel, a estimativa de crescimento projetada para 6, 12 ou 24 meses (conforme a opção escolhida), além do resultado estimado do portfólio para o horizonte selecionado.O objetivo aqui é dar uma resposta direta sobre “o que comprar” e “quanto tende a subir” segundo a predição, sem exigir ajustes avançados** [4][5].
+
+Depois de verificar a lista recomendada e o ganho estimado, **Felipe clica no botão Menu e acessa Gráficos de Previsões. Nessa área, ele analisa, gráfico a gráfico, as previsões de 24 meses das ações sugeridas, para entender melhor os motivos da escolha da IA e visualizar o andamento projetado de cada papel segundo o modelo. Essa navegação complementa a etapa de simulação: primeiro ele vê as recomendações e os percentuais de alta; na sequência, aprofunda-se nos gráficos para validar a coerência das projeções com sua leitura de mercado e decidir com mais segurança** [6].
+
+Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação objetiva → lista de ações recomendadas com estimativa de crescimento (6/12/24m) → análise visual nos gráficos de previsão**, mantendo a simplicidade operacional e a clareza de resultados que espera do sistema. Ainda reconhece espaço para evoluir em clareza metodológica e opções de personalização, conforme apontado no refinamento, mas considera que **as previsões no horizonte selecionado e a recomendação alinhada ao perfil agressivo já permitem transformar as projeções em um plano de execução prático** [7].
+
 2) **Design Centrado na Comunicação**
 
 **Nome do Cenário: Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes**
