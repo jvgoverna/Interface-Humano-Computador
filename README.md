@@ -1070,14 +1070,14 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|  Refazer teste                |U: Coloquei respostas erradas no meu questionário e gostaria de refazê-lo.|
+|  Refazer teste                |U: Coloquei respostas erradas no meu **questionário** e gostaria de refazê-lo.|
 |  \> redirecionamento tela do questionário | D: Certo! Clique no **menu** e selecione a opção **refazer teste**. Você será redirecionado para a tela do **questionário** de suitability para refazê-lo.|
 
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|  Deslogar conta da plataforma                |U: Quero **encerrar** minha sessão na plataforma.|
-|  \> Sair da plataforma | D: Certo! Clique no **menu** e selecione a opção **sair**. <br> U: OK! <br> D: Deslogando da **plataforma** e redirecionando para a tela de **login**.|
+|  Deslogar conta da plataforma                |U: Quero **encerrar minha sessão** na plataforma.|
+|  \> Sair da plataforma | D: Certo! Clique no **menu** e selecione a opção **sair**. <br> U: OK! <br> D: Deslogando da plataforma e redirecionando para a tela de **login**.|
 
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
@@ -1096,6 +1096,10 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | Política de privacidade e termos de uso | sistema | Na tela de cadastro, o usuário deve marcar uma caixa de seleção para aceitar os Termos de Uso e a Política de Privacidade da plataforma. É possível clicar nos links do texto para acessar as telas completas dos termos ou da política, e ambas as telas possuem um botão “Voltar” que retorna o usuário para a tela de cadastro| interação de usuário (caixa de seleção) | Para realizar o cadastro é necessário que essa caixa seja preenchida | Caixa de seleção desativada | PA: O botão de cadastro só é habilitado quando o usuário marca a caixa de seleção aceitando os Termos de Uso e a Política de Privacidade, impedindo que o cadastro seja concluído sem o aceite obrigatório. | - |
 | Simular Investimento | Sistema | Na tela de simulação de investimento, o usuário deve informar seu orçamento disponível e selecionar as ações e respectivos valores que deseja simular | interação de usuário  | O usuário deve selecionar pelo menos uma ação cujo valor para compra seja menor ou igual ao orçamento disponível. | Campos vazios | PA: O sistema impede que o usuário simule valores acima do orçamento disponível, exibindo uma mensagem de erro em vermelho e desabilitando o botão de simulação até que os valores sejam corrigidos. | RA: O usuário corrige os valores das ações para que fiquem menores ou iguais ao orçamento disponível, permitindo que o botão de simulação seja habilitado e a simulação seja realizada. |
 | Histórico | Sistema | O usuário pode acessar o histórico de todas as 8 ações a qualquer momento clicando no botão de menu disponível na tela de simulação | interação de usuário |- | - | -| - |
+| Refazer Teste | Sistema | Na tela de simulação de investimento, o usuário pode refazer o questionário a qualquer momento: basta abrir o menu no canto superior direito, selecionar “Refazer teste” e será redirecionado para a tela do questionário. | Comportamento do sistema | - | Barra lateral do menu fechada | - | - |
+| encerrar minha sessão | Sistema | Na tela de simulação de investimento, o usuário pode encerrar sua sessão a qualquer momento: basta abrir o menu no canto superior direito, selecionar "sair" e será redirecionado para a tela de login da plataforma | Comportamento sistema | - |  Barra lateral do menu fechada  | - | - |
+
+
 
 
 4a) **Esquema conceitual de signos: Cadastrar usuário na plataforma**
@@ -1133,13 +1137,13 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | Credenciais (C) \- credenciais para Refazer teste | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
-| menu<br>refazer teste| Sistema | Na tela de simular investimento o usupário pode a qualquer momento refazer o qu | | | | | |
+| questionário<br>menu<br>refazer teste| Sistema | Na tela de simulação de investimento, o usuário pode refazer o questionário a qualquer momento: basta abrir o menu no canto superior direito, selecionar “Refazer teste” e será redirecionado para a tela do questionário. | Comportamento do sistema | - | Barra lateral do menu fechada | - | - |
 
 4e) **Esquema conceitual de signos: Deslogar conta da plataforma**
 | Credenciais (C) \- credenciais para Deslogar conta da plataforma	 | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
-| | | | | | | | |
+| encerrar minha sessão<br>menu<br>login | Sistema | Na tela de simulação de investimento, o usuário pode encerrar sua sessão a qualquer momento: basta abrir o menu no canto superior direito, selecionar "sair" e será redirecionado para a tela de login da plataforma | Comportamento sistema | - |  Barra lateral do menu fechada  | - | - |
 
 <!--
 Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
