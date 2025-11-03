@@ -1101,6 +1101,13 @@ Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação
 | **Responder questionário de suitability** | **U:** Quero responder o **questionário** para configurar as recomendações ao meu perfil agressivo. |
 | > **responder perguntas com base no seu perfil** | **D:** São **10 perguntas**; algumas aceitam **múltiplas respostas**. No final, clique em **Enviar**. <br> **U:** Respondo de acordo com minha experiência, aceitando **alta volatilidade**, **maior risco** visando **ganho mais rápido** e mostrando meu conhecimento com investimentos. <br> **D:** *Processando…* **Perfil identificado: Agressivo.** Redirecionando para **Simulação de Ações**. |
 
+| tópico > subtópico (diálogo) | falas e signos |
+|---|---|
+| **Simular Investimento** | **U:** Quero simular um investimento com base no meu **orçamento disponível**, escolhendo **6 meses** porque busco **ganhos mais rápidos**. |
+| > **informar o orçamento disponível** | **D:** Informe o **valor total** disponível para investir. <br> **U:** **R$ 10.000,00**. |
+| > **selecionar ações e distribuir orçamento** | **D:** Selecione **ao menos 3 ações** e **distribua o orçamento**. Clique em **Simular Portfólio**. <br> **U:** **ABEV3 R$ 3.000,00**, **ITUB4 R$ 3.000,00**, **ELET3 R$ 4.000,00**. <br> D: Concluído o preenchimento, escolha o período (6/12/24 meses) e clique em Simular Investimento. <br> U: Defino o período de 6 meses para a simulação. |
+| > **resultado** | **D:** *Simulação concluída (6 meses).* <br> **Resultado Histórico (6m):** **R$ 1.637,89** — **ABEV3** **R$ -159,55**, **ITUB4** **R$ +869,50**, **ELET3** **R$ +927,95**. <br> **Recomendação da IA (6m):** **Lucro total estimado: R$ 3.109,70** — **SBSP3 (R$ 5.000,00)** **R$ +1.776,23**; **ITUB4 (R$ 3.000,00)** **R$ +869,50**; **ELET3 (R$ 2.000,00)** **R$ +463,97**. |
+
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
