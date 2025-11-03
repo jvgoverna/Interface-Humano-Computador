@@ -1070,13 +1070,13 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|  Refazer teste                |U: Coloquei respostas erradas no meu **questionário** e gostaria de refazê-lo.|
+|  Refazer teste                |U: Coloquei respostas erradas no meu questionário e gostaria de refazê-lo.|
 |  \> redirecionamento tela do questionário | D: Certo! Clique no **menu** e selecione a opção **refazer teste**. Você será redirecionado para a tela do **questionário** de suitability para refazê-lo.|
 
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|  Deslogar conta da plataforma                |U: Quero encerrar minha sessão na **plataforma**.|
+|  Deslogar conta da plataforma                |U: Quero **encerrar** minha sessão na plataforma.|
 |  \> Sair da plataforma | D: Certo! Clique no **menu** e selecione a opção **sair**. <br> U: OK! <br> D: Deslogando da **plataforma** e redirecionando para a tela de **login**.|
 
 
@@ -1133,11 +1133,13 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | Credenciais (C) \- credenciais para Refazer teste | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
+| menu<br>refazer teste| Sistema | Na tela de simular investimento o usupário pode a qualquer momento refazer o qu | | | | | |
 
 4e) **Esquema conceitual de signos: Deslogar conta da plataforma**
 | Credenciais (C) \- credenciais para Deslogar conta da plataforma	 | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
+| | | | | | | | |
 
 <!--
 Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
