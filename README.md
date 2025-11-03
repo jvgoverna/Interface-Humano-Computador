@@ -1091,6 +1091,16 @@ Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação
 |  Deslogar conta da plataforma                |U: Quero **encerrar minha sessão** na plataforma.|
 |  \> Sair da plataforma | D: Certo! Clique no **menu** e selecione a opção **sair**. <br> U: OK! <br> D: Deslogando da plataforma e redirecionando para a tela de **login**.|
 
+**Nome do Cenário: Felipe Orlando**
+| tópico > subtópico (diálogo) | falas e signos |
+|---|---|
+| **Cadastrar usuário na plataforma** | **U:** Quero me cadastrar para receber recomendações alinhadas ao meu **perfil agressivo** e já simular posições. |
+| > **informar dados do usuário** | **D:** Informe **nome, CPF, data de nascimento, telefone (celular e residencial), e-mail, senha** e aceite a **política de privacidade** e **termos de uso**. <br> **U:** Preencho meus dados. <br> **D:** *Verificando informações…* **Cadastro concluído.** Redirecionando para **login**. |
+| **Login do usuário na plataforma** | **U:** Vou fazer **login** para seguir com a simulação conforme meu perfil de investimento. |
+| > **informar dados cadastrados do usuário** | **D:** Qual é o **e-mail** e a **senha** cadastrados? <br> **U:** Informo minhas credenciais. <br> **D:** *Validando…* **Login realizado.** Redirecionando para o **questionário de suitability**. |
+| **Responder questionário de suitability** | **U:** Quero responder o **questionário** para configurar as recomendações ao meu perfil agressivo. |
+| > **responder perguntas com base no seu perfil** | **D:** São **10 perguntas**; algumas aceitam **múltiplas respostas**. No final, clique em **Enviar**. <br> **U:** Respondo de acordo com minha experiência, aceitando **alta volatilidade**, **maior risco** visando **ganho mais rápido** e mostrando meu conhecimento com investimentos. <br> **D:** *Processando…* **Perfil identificado: Agressivo.** Redirecionando para **Simulação de Ações**. |
+
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
