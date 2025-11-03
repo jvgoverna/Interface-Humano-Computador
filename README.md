@@ -1108,6 +1108,14 @@ Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação
 | > **selecionar ações e distribuir orçamento** | **D:** Selecione **ao menos 3 ações** e **distribua o orçamento**. Clique em **Simular Portfólio**. <br> **U:** **ABEV3 R$ 3.000,00**, **ITUB4 R$ 3.000,00**, **ELET3 R$ 4.000,00**. <br> D: Concluído o preenchimento, escolha o período (6/12/24 meses) e clique em Simular Investimento. <br> U: Defino o período de 6 meses para a simulação. |
 | > **resultado** | **D:** *Simulação concluída (6 meses).* <br> **Resultado Histórico (6m):** **R$ 1.637,89** — **ABEV3** **R$ -159,55**, **ITUB4** **R$ +869,50**, **ELET3** **R$ +927,95**. <br> **Recomendação da IA (6m):** **Lucro total estimado: R$ 3.109,70** — **SBSP3 (R$ 5.000,00)** **R$ +1.776,23**; **ITUB4 (R$ 3.000,00)** **R$ +869,50**; **ELET3 (R$ 2.000,00)** **R$ +463,97**. |
 
+| tópico > subtópico (diálogo) | falas e signos |
+|---|---|
+| **Acessar Previsões** | **U:** Quero ver os **gráficos de previsão** para entender o porquê das recomendações. |
+| > **abrir menu** | **D:** Toque em **Menu** para acessar as seções da plataforma. <br> **U:** Abro o **Menu**. |
+| > **ir para “Previsões”** | **D:** Selecione **Previsões** para visualizar os **gráficos dos próximos 24 meses**. <br> **U:** Clico em **Previsões**. |
+| > **escolher ação para visualizar** | **D:** Escolha uma ação da lista para abrir o respectivo **gráfico de previsão (24m)**. <br> **U:** Examino as ações indicadas pela IA para validar as recomendações. |
+
+
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
