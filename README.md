@@ -1210,7 +1210,15 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 **MOLIC**
 
 **Nome do Cenário:**  
-**Diagrama:**
+**Diagrama: Cadastrar na Plataforma**
+![MPLIC Cadastrar](https://media.discordapp.net/attachments/1372327706980651028/1435106901577699379/Diagrama_Molic_Cadastrar_Usuario.png?ex=690ac2f4&is=69097174&hm=f20986a9a034e18796f4f3d6a368f1a37b41886342f763e8db8cfc7c502bd7d2&=&format=webp&quality=lossless&width=862&height=960)
+
+**Diagrama: Logar na Plataforma**
+![MOLIC Logar](https://media.discordapp.net/attachments/1372327706980651028/1435107262841622578/Diagrama_Molic_Logar_na_Plataforma.png?ex=690ac34a&is=690971ca&hm=99b0d1ccaccfa3f7671beacbcbf0785059645657f1cbdd3ab26df932572f9fe8&=&format=webp&quality=lossless)
+
+##Diagramna Questionário**
+![MOLIC Questionário](https://media.discordapp.net/attachments/1372327706980651028/1435107611547668551/Diagrama_Molic_Questionario.png?ex=690ac39d&is=6909721d&hm=5b08338a0dc4e27d55fa8fb1f6553f4df7122eaead48f7acddfe476b4cb55d7f&=&format=webp&quality=lossless)
+
 
 # **Entrega 11 (data) \[em andamento/concluído\]**
 
