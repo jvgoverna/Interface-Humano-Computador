@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Página-1" id="JrdNFP8y6vYWbhAqkKno">
+    <mxGraphModel dx="1042" dy="1731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nA2naRLcvKNGeN3oXILR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QoRf_8y44q_V3t5oB1nv-1" target="nA2naRLcvKNGeN3oXILR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nA2naRLcvKNGeN3oXILR-5" value="u: Realizar questionário&lt;div&gt;gco: Descobrir perfil investidor&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nA2naRLcvKNGeN3oXILR-4">
+          <mxGeometry x="-0.0578" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBBBBB;" parent="1" vertex="1">
+          <mxGeometry x="354" y="-54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-2" value="Questionário Suitability" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="311.5" y="152" width="205" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-3" value="d+u: responder questionário suitability:&lt;div&gt;questionário&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="QoRf_8y44q_V3t5oB1nv-2" vertex="1">
+          <mxGeometry x="1" y="24" width="204" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" parent="1" source="QoRf_8y44q_V3t5oB1nv-6" target="QoRf_8y44q_V3t5oB1nv-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="572" y="325" />
+              <mxPoint x="572" y="189" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-10" value="d: Campos incompletos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QoRf_8y44q_V3t5oB1nv-9" vertex="1" connectable="0">
+          <mxGeometry x="0.1897" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QoRf_8y44q_V3t5oB1nv-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-19" value="d: salva informações do questionário&lt;div&gt;e retorna o perfil de investidor&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QoRf_8y44q_V3t5oB1nv-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.098" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="395" y="303" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QoRf_8y44q_V3t5oB1nv-3" target="QoRf_8y44q_V3t5oB1nv-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-11" value="u: campos preenchidos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QoRf_8y44q_V3t5oB1nv-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.0592" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-15" value="Redirecionamento" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="311.5" y="414" width="205" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="QoRf_8y44q_V3t5oB1nv-17" value="d: Redireciona para a tela de simular investimento:&lt;div&gt;questionário&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="QoRf_8y44q_V3t5oB1nv-15" vertex="1">
+          <mxGeometry x="1" y="24" width="204" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nA2naRLcvKNGeN3oXILR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nA2naRLcvKNGeN3oXILR-1" target="QoRf_8y44q_V3t5oB1nv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nA2naRLcvKNGeN3oXILR-7" value="d: carrega questionário suitability" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nA2naRLcvKNGeN3oXILR-6">
+          <mxGeometry x="-0.19" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nA2naRLcvKNGeN3oXILR-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="395" y="74" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="nA2naRLcvKNGeN3oXILR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QoRf_8y44q_V3t5oB1nv-17" target="QoRf_8y44q_V3t5oB1nv-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="173" y="441" />
+              <mxPoint x="173" y="-24" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nA2naRLcvKNGeN3oXILR-9" value="&lt;div&gt;d: carrega tela de simulação de investimento&lt;/div&gt;gcc: perfil do usuário descoberto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nA2naRLcvKNGeN3oXILR-8">
+          <mxGeometry x="-0.2634" relative="1" as="geometry">
+            <mxPoint x="2" y="-34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
