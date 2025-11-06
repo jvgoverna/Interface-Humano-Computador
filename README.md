@@ -1186,6 +1186,15 @@ Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação
 
 **Esquema Conceitual Geral de Signos**
 
+| signo | origem | observações | tipo de conteúdo | restrições sobre o conteúdo | valor default | prevenção |
+|---|---|---|---|---|---|---|
+| Cadastrar na Plataforma | sistema | Tela de cadastro das informações do usuário. | interação de usuário (formulário) | Disponível só para não autenticados. **E-mail** e **CPF** devem ser válidos/únicos; aceite dos **Termos** e **Política** é obrigatório. | Campos vazios; obrigatórios marcados com * | **PP:** Máscara e validação de CPF/e-mail; **PA:** Botão “Cadastrar” desabilitado até todos obrigatórios + aceite. |
+| Login na Plataforma | sistema | Acesso com e-mail e senha cadastrados. | interação de usuário (formulário) | Requer conta criada; | Campos vazios | **PP:** Mensagem de erro clara em caso de credencial inválida; manter campos preenchidos para correção. |
+| Política de Privacidade e Termos de Uso | sistema | Caixa de seleção para aceite; links abrem os textos completos e retornam ao cadastro. | interação de usuário (caixa de seleção) | Aceite obrigatório para concluir cadastro. | Caixa desmarcada | **PA:** Botão “Cadastrar” só habilita após marcar a caixa. |
+| Perfil de Investidor / Questionário (Suitability) | sistema/usuário | 10 perguntas (algumas múltipla escolha) para classificar o perfil. | interação de usuário (questionário) | Envio apenas com todas as questões respondidas. | Campos de resposta vazios | **PA:** Botão “Enviar” desabilitado até 100% de progresso; **PP:** instruções curtas por questão. |
+| Simular Investimento | sistema | Na tela de simulação, o usuário informa **orçamento** e seleciona **≥ 3 ações**, distribuindo os valores; escolhe **6/12/24 meses**. | interação de usuário (formulário de seleção) | Somatório por ação **= orçamento**; mínimo **3 ações**; valores numéricos válidos; horizonte selecionado (6/12/24m). | Orçamento vazio; sem ações; horizonte não selecionado | **PA:** Botão “Simular Portfólio” desabilitado até cumprir regras. **PP:** Máscara de moeda; mensagem em vermelho se < 3 ações ou soma ≠ orçamento. |
+| Recomendação de Carteiras de Investimento (IA) | sistema | Após simulação válida, o sistema mostra **somente as ações recomendadas** para o **horizonte escolhido (6/12/24m)** com a **estimativa de crescimento** por ação e o **lucro total estimado** do portfólio. | comportamento do sistema (resumo) | Exibida somente se a simulação tiver ≥ 3 ações válidas no horizonte selecionado. | Nenhuma recomendação disponível | **PA:** Não gera recomendação sem cumprir regras da simulação; **PP:** textos objetivos (+/− em verde/vermelho). |
+| Previsões (Gráficos 24 meses) | sistema | Acesso via **Menu → Previsões**. Exibe **gráfico a gráfico (24m)** das **ações recomendadas** para entender o racional da IA. | visualização de dados (gráfico) | - | Lista vazia de gráficos | - |
 
 
 <!--
