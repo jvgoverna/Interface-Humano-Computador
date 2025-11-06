@@ -1045,18 +1045,6 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 **Seu objetivo de explorar e entender alternativas à poupança foi alcançado. Ele conseguiu identificar suas necessidades, limites de compreensão e a importância de informações claras, refletindo sobre como tomar decisões financeiras mais seguras e adequadas ao seu perfil [7].**
 
-# Cenário de Interação – Felipe Orlando
-
-Felipe Orlando, engenheiro civil de 42 anos, possui mais de 10 anos de experiência no mercado de ações. Ao longo da trajetória, desenvolveu domínio de conceitos técnicos como volatilidade, dividend yield e valuation. Seu objetivo prático é converter previsões em decisões rápidas; por isso, considera essenciais os gráficos de previsão com horizonte de 24 meses e um caminho de recomendação coerente ao seu perfil agressivo [1].
-
-O cenário ocorre em seu cotidiano de investidor ativo, que dedica tempo diário à análise de relatórios e ao acompanhamento do mercado [2]. Nesse ambiente, a plataforma surge como complemento às ferramentas que já utiliza, mas precisa responder à expectativa de um usuário com alto nível de conhecimento; limitações de clareza metodológica ou de flexibilidade são percebidas rapidamente [3].
-
-Ao utilizar a plataforma, Felipe segue a sequência já mapeada no refinamento: cria sua conta, responde ao questionário de suitability e é classificado como investidor agressivo. **Imediatamente após a classificação, o sistema o direciona para a aba Simulação de Ações**, onde ele executa a simulação para o seu perfil [4]. **Nessa etapa não há gráficos: a tela exibe somente as ações recomendadas para Felipe** com base no modelo e **mostra, para cada papel, a estimativa de crescimento projetada para 6, 12 ou 24 meses (conforme a opção escolhida), além do resultado estimado do portfólio para o horizonte selecionado.O objetivo aqui é dar uma resposta direta sobre “o que comprar” e “quanto tende a subir” segundo a predição, sem exigir ajustes avançados** [4][5].
-
-Depois de verificar a lista recomendada e o ganho estimado, **Felipe clica no botão Menu e acessa Gráficos de Previsões. Nessa área, ele analisa, gráfico a gráfico, as previsões de 24 meses das ações sugeridas, para entender melhor os motivos da escolha da IA e visualizar o andamento projetado de cada papel segundo o modelo. Essa navegação complementa a etapa de simulação: primeiro ele vê as recomendações e os percentuais de alta; na sequência, aprofunda-se nos gráficos para validar a coerência das projeções com sua leitura de mercado e decidir com mais segurança** [6].
-
-Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação objetiva → lista de ações recomendadas com estimativa de crescimento (6/12/24m) → análise visual nos gráficos de previsão**, mantendo a simplicidade operacional e a clareza de resultados que espera do sistema. Ainda reconhece espaço para evoluir em clareza metodológica e opções de personalização, conforme apontado no refinamento, mas considera que **as previsões no horizonte selecionado e a recomendação alinhada ao perfil agressivo já permitem transformar as projeções em um plano de execução prático** [7].
-
 2) **Design Centrado na Comunicação**
 
 **Nome do Cenário: Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes**
@@ -1090,32 +1078,6 @@ Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação
 |                         :---- |          :---- |
 |  Deslogar conta da plataforma                |U: Quero **encerrar minha sessão** na plataforma.|
 |  \> Sair da plataforma | D: Certo! Clique no **menu** e selecione a opção **sair**. <br> U: OK! <br> D: Deslogando da plataforma e redirecionando para a tela de **login**.|
-
-**Nome do Cenário: Felipe Orlando**
-| tópico > subtópico (diálogo) | falas e signos |
-|---|---|
-| **Cadastrar usuário na plataforma** | **U:** Quero me cadastrar para receber recomendações alinhadas ao meu **perfil agressivo** e já simular posições. |
-| > **informar dados do usuário** | **D:** Informe **nome, CPF, data de nascimento, telefone (celular e residencial), e-mail, senha** e aceite a **política de privacidade** e **termos de uso**. <br> **U:** Preencho meus dados. <br> **D:** *Verificando informações…* **Cadastro concluído.** Redirecionando para **login**. |
-| **Login do usuário na plataforma** | **U:** Vou fazer **login** para seguir com a simulação conforme meu perfil de investimento. |
-| > **informar dados cadastrados do usuário** | **D:** Qual é o **e-mail** e a **senha** cadastrados? <br> **U:** Informo minhas credenciais. <br> **D:** *Validando…* **Login realizado.** Redirecionando para o **questionário de suitability**. |
-| **Responder questionário de suitability** | **U:** Quero responder o **questionário** para configurar as recomendações ao meu perfil agressivo. |
-| > **responder perguntas com base no seu perfil** | **D:** São **10 perguntas**; algumas aceitam **múltiplas respostas**. No final, clique em **Enviar**. <br> **U:** Respondo de acordo com minha experiência, aceitando **alta volatilidade**, **maior risco** visando **ganho mais rápido** e mostrando meu conhecimento com investimentos. <br> **D:** *Processando…* **Perfil identificado: Agressivo.** Redirecionando para **Simulação de Ações**. |
-
-| tópico > subtópico (diálogo) | falas e signos |
-|---|---|
-| **Simular Investimento** | **U:** Quero simular um investimento com base no meu **orçamento disponível**, escolhendo **6 meses** porque busco **ganhos mais rápidos**. |
-| > **informar o orçamento disponível** | **D:** Informe o **valor total** disponível para investir. <br> **U:** **R$ 10.000,00**. |
-| > **selecionar ações e distribuir orçamento** | **D:** Selecione **ao menos 3 ações** e **distribua o orçamento**. Clique em **Simular Portfólio**. <br> **U:** **ABEV3 R$ 3.000,00**, **ITUB4 R$ 3.000,00**, **ELET3 R$ 4.000,00**. <br> D: Concluído o preenchimento, escolha o período (6/12/24 meses) e clique em Simular Investimento. <br> U: Defino o período de 6 meses para a simulação. |
-| > **resultado** | **D:** *Simulação concluída (6 meses).* <br> **Resultado Histórico (6m):** **R$ 1.637,89** — **ABEV3** **R$ -159,55**, **ITUB4** **R$ +869,50**, **ELET3** **R$ +927,95**. <br> **Recomendação da IA (6m):** **Lucro total estimado: R$ 3.109,70** — **SBSP3 (R$ 5.000,00)** **R$ +1.776,23**; **ITUB4 (R$ 3.000,00)** **R$ +869,50**; **ELET3 (R$ 2.000,00)** **R$ +463,97**. |
-
-| tópico > subtópico (diálogo) | falas e signos |
-|---|---|
-| **Acessar Previsões** | **U:** Quero ver os **gráficos de previsão** para entender o porquê das recomendações. |
-| > **abrir menu** | **D:** Toque em **Menu** para acessar as seções da plataforma. <br> **U:** Abro o **Menu**. |
-| > **ir para “Previsões”** | **D:** Selecione **Previsões** para visualizar os **gráficos dos próximos 24 meses**. <br> **U:** Clico em **Previsões**. |
-| > **escolher ação para visualizar** | **D:** Escolha uma ação da lista para abrir o respectivo **gráfico de previsão (24m)**. <br> **U:** Examino as ações indicadas pela IA para validar as recomendações. |
-
-
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
@@ -1181,6 +1143,50 @@ Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
 | encerrar minha sessão<br>menu<br>login | Sistema | Na tela de simulação de investimento, o usuário pode encerrar sua sessão a qualquer momento: basta abrir o menu no canto superior direito, selecionar "sair" e será redirecionado para a tela de login da plataforma | Comportamento sistema | - |  Barra lateral do menu fechada  | - | - |
+
+# ---- Felipe ----
+
+# Cenário de Interação – Felipe Orlando
+
+Felipe Orlando, engenheiro civil de 42 anos, possui mais de 10 anos de experiência no mercado de ações. Ao longo da trajetória, desenvolveu domínio de conceitos técnicos como volatilidade, dividend yield e valuation. Seu objetivo prático é converter previsões em decisões rápidas; por isso, considera essenciais os gráficos de previsão com horizonte de 24 meses e um caminho de recomendação coerente ao seu perfil agressivo [1].
+
+O cenário ocorre em seu cotidiano de investidor ativo, que dedica tempo diário à análise de relatórios e ao acompanhamento do mercado [2]. Nesse ambiente, a plataforma surge como complemento às ferramentas que já utiliza, mas precisa responder à expectativa de um usuário com alto nível de conhecimento; limitações de clareza metodológica ou de flexibilidade são percebidas rapidamente [3].
+
+Ao utilizar a plataforma, Felipe segue a sequência já mapeada no refinamento: cria sua conta, responde ao questionário de suitability e é classificado como investidor agressivo. **Imediatamente após a classificação, o sistema o direciona para a aba Simulação de Ações**, onde ele executa a simulação para o seu perfil [4]. **Nessa etapa não há gráficos: a tela exibe somente as ações recomendadas para Felipe** com base no modelo e **mostra, para cada papel, a estimativa de crescimento projetada para 6, 12 ou 24 meses (conforme a opção escolhida), além do resultado estimado do portfólio para o horizonte selecionado.O objetivo aqui é dar uma resposta direta sobre “o que comprar” e “quanto tende a subir” segundo a predição, sem exigir ajustes avançados** [4][5].
+
+Depois de verificar a lista recomendada e o ganho estimado, **Felipe clica no botão Menu e acessa Gráficos de Previsões. Nessa área, ele analisa, gráfico a gráfico, as previsões de 24 meses das ações sugeridas, para entender melhor os motivos da escolha da IA e visualizar o andamento projetado de cada papel segundo o modelo. Essa navegação complementa a etapa de simulação: primeiro ele vê as recomendações e os percentuais de alta; na sequência, aprofunda-se nos gráficos para validar a coerência das projeções com sua leitura de mercado e decidir com mais segurança** [6].
+
+Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação objetiva → lista de ações recomendadas com estimativa de crescimento (6/12/24m) → análise visual nos gráficos de previsão**, mantendo a simplicidade operacional e a clareza de resultados que espera do sistema. Ainda reconhece espaço para evoluir em clareza metodológica e opções de personalização, conforme apontado no refinamento, mas considera que **as previsões no horizonte selecionado e a recomendação alinhada ao perfil agressivo já permitem transformar as projeções em um plano de execução prático** [7].
+
+
+**Nome do Cenário: Felipe Orlando**
+| tópico > subtópico (diálogo) | falas e signos |
+|---|---|
+| **Cadastrar usuário na plataforma** | **U:** Quero me cadastrar para receber recomendações alinhadas ao meu **perfil agressivo** e já simular posições. |
+| > **informar dados do usuário** | **D:** Informe **nome, CPF, data de nascimento, telefone (celular e residencial), e-mail, senha** e aceite a **política de privacidade** e **termos de uso**. <br> **U:** Preencho meus dados. <br> **D:** *Verificando informações…* **Cadastro concluído.** Redirecionando para **login**. |
+| **Login do usuário na plataforma** | **U:** Vou fazer **login** para seguir com a simulação conforme meu perfil de investimento. |
+| > **informar dados cadastrados do usuário** | **D:** Qual é o **e-mail** e a **senha** cadastrados? <br> **U:** Informo minhas credenciais. <br> **D:** *Validando…* **Login realizado.** Redirecionando para o **questionário de suitability**. |
+| **Responder questionário de suitability** | **U:** Quero responder o **questionário** para configurar as recomendações ao meu perfil agressivo. |
+| > **responder perguntas com base no seu perfil** | **D:** São **10 perguntas**; algumas aceitam **múltiplas respostas**. No final, clique em **Enviar**. <br> **U:** Respondo de acordo com minha experiência, aceitando **alta volatilidade**, **maior risco** visando **ganho mais rápido** e mostrando meu conhecimento com investimentos. <br> **D:** *Processando…* **Perfil identificado: Agressivo.** Redirecionando para **Simulação de Ações**. |
+
+| tópico > subtópico (diálogo) | falas e signos |
+|---|---|
+| **Simular Investimento** | **U:** Quero simular um investimento com base no meu **orçamento disponível**, escolhendo **6 meses** porque busco **ganhos mais rápidos**. |
+| > **informar o orçamento disponível** | **D:** Informe o **valor total** disponível para investir. <br> **U:** **R$ 10.000,00**. |
+| > **selecionar ações e distribuir orçamento** | **D:** Selecione **ao menos 3 ações** e **distribua o orçamento**. Clique em **Simular Portfólio**. <br> **U:** **ABEV3 R$ 3.000,00**, **ITUB4 R$ 3.000,00**, **ELET3 R$ 4.000,00**. <br> D: Concluído o preenchimento, escolha o período (6/12/24 meses) e clique em Simular Investimento. <br> U: Defino o período de 6 meses para a simulação. |
+| > **resultado** | **D:** *Simulação concluída (6 meses).* <br> **Resultado Histórico (6m):** **R$ 1.637,89** — **ABEV3** **R$ -159,55**, **ITUB4** **R$ +869,50**, **ELET3** **R$ +927,95**. <br> **Recomendação da IA (6m):** **Lucro total estimado: R$ 3.109,70** — **SBSP3 (R$ 5.000,00)** **R$ +1.776,23**; **ITUB4 (R$ 3.000,00)** **R$ +869,50**; **ELET3 (R$ 2.000,00)** **R$ +463,97**. |
+
+| tópico > subtópico (diálogo) | falas e signos |
+|---|---|
+| **Acessar Previsões** | **U:** Quero ver os **gráficos de previsão** para entender o porquê das recomendações. |
+| > **abrir menu** | **D:** Toque em **Menu** para acessar as seções da plataforma. <br> **U:** Abro o **Menu**. |
+| > **ir para “Previsões”** | **D:** Selecione **Previsões** para visualizar os **gráficos dos próximos 24 meses**. <br> **U:** Clico em **Previsões**. |
+| > **escolher ação para visualizar** | **D:** Escolha uma ação da lista para abrir o respectivo **gráfico de previsão (24m)**. <br> **U:** Examino as ações indicadas pela IA para validar as recomendações. |
+
+
+**Esquema Conceitual Geral de Signos**
+
+
 
 <!--
 Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
