@@ -1106,10 +1106,27 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | Credenciais (C) \- credenciais para Cadastrar usuário na plataforma  | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
+| nome  | usuário  | campo obrigatório | interação de usuário (formulário) | - |  campo vazio | PP: Campo obrigatório com expressão explícita (*) | RA: Destaque nos campos incorretos e mensagem de erro|
+| CPF  | usuário | Campo obrigatório e único | interação de usuário (formulário) | O CPF informado deve ser único e válido | campo vazio | PP: Campo do CPF obrigatório, único e válido | RA: Destaque no campo incorreto e mensagem de erro  |
+| data de nascimento  | usuário  | Campo obrigatório  | interação de usuário | Não permitir datas futuras (posteriores ao dia atual) e uma idade mínima de 18 anos  | campo vazio | PP | RA |
+| telefone celular  | usuário | Campo Obrigatório | interação de usuário | - | campo vazio | PP | RA |
+| telefone residencial  | usuário | campo opcional | interação de usuário | - | campo vazio | PP | RA |
+| e-mail  | usuário | Campo obrigatório e único | interação de usuário | O e-mail de ser único e validado | campo vazio | PP: Campo do e-mail obrigatório, único e válido  | RA: Destaque no campo incorreto e mensagem de erro |
+| senha  | usuário | Campo obrigatório | interação de usuário | - | campo vazio | PP | RA |
+| política de privacidade  | usuário | Campo obrigatório | interação de usuário | - | Caixa de escolha desmarcada | PP | RA |
+| termos de uso da plataforma  | usuário | campo obrigatório  | interação de usuário | -  | Caixa de escolha desmarcada | PP | RA |
+| login na plataforma  | sistema | Após o cadastro do usuário o sistema redireciona para a tela de login do sistema  | sistema | Cadastro efetuado com sucesso  | - | PP: O sistema válida todos os campos preenchidos e redireciona para a tela de login | RA: Caso ocorra alguma informação incorreta o sistema retorna mensagens de erro e deixa o usuário realizar a mudança |
+
+
+
+<!--
+| Credenciais (C) \- credenciais para Cadastrar usuário na plataforma  | | | | | | | |
+| :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
+| **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
 | nome<br>CPF<br>data de nascimento<br>telefone celular<br>telefone residencial<br>e-mail<br>senha| sistema | Signos obtidos na tela de cadastro das informações do usuário na plataforma | interação de usuário (formulário) | Os campos de e-mail e CPF passam por verificação de unicidade: se já houver cadastro com essas informações, o sistema exibirá uma mensagem informando que o usuário já foi registrado. O telefone residencial é o único campo opcional. A data de nascimento é validada automaticamente para impedir valores inválidos, como a data de hoje ou quaisquer datas futuras. | Campos vazios e campos obrigatórios marcados com * |PP: Campos obrigatórios com expressão explícita (*), verificação em tempo real de CPF e e-mail previamente cadastrados |RA: Após a ruptura (e-mail/CPF já cadastrado ou data inválida), o sistema informa o erro, destaca o(s) campo(s) e permite correção imediata |
 | política de privacidade e termos de uso da plataforma | Sistema | Campo com checkbox acompanhado de links para Política de Privacidade e Termos de Uso, ao marcar, o usuário declara que leu e concorda, e ao clicar nos links é direcionado à página correspondente com opção de voltar a página de cadastro | interação de usuário (checkbox e páginas informativas) | Para a realização do cadastro é necessário que esse campo seja preenchido| checkbox não marcado |PA: O botão Cadastrar permanece desabilitado até que o usuário marque o consentimento | RA: Após ler a Política de Privacidade e os Termos de Uso, o usuário marca o checkbox de consentimento e o botão Cadastrar é habilitado. |
 | Login na plataforma | Sistema | Após a realização do cadastro, o sistema redireciona o usuário para a tela de login | Comportamento do sistema | - | - | - | -|
-
+-->
 
 4b) **Esquema conceitual de signos: Login do usuário na plataforma**
 
