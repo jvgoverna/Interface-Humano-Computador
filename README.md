@@ -1347,29 +1347,29 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 **Link para o FIGMA:**
 
 ## Página de Cadastro
-![Página de Cadastro](https://discordapp.com/channels/@me/956996682019635200/1437217001000144956)
+![Página de Cadastro](https://cdn.discordapp.com/attachments/956996682019635200/1437217000681373696/BC69149B-5501-4CCF-AC78-C91ACDA0C0EE.png?ex=69127023&is=69111ea3&hm=4671fa0580ee28862cba6a64d5203788337655151be23ec9e6af3e2dd16bd962&)
 
 ## Página de Login
-![Página de Login]()
+![Página de Login](https://cdn.discordapp.com/attachments/956996682019635200/1437217198367051776/CDE753B8-D397-4D09-ACE2-AF1384E28627.png?ex=69127052&is=69111ed2&hm=27c7a4fc6fc447834d0490163bb81821442000f8a6adc58b9e41b8bd2aa64500&)
 
 ## Políticas
-![Políticas da Empresa]()
-![Políticas de Privacidade]()
+![Políticas da Empresa](https://cdn.discordapp.com/attachments/956996682019635200/1437217253023154392/F55B9E7D-1F70-46E2-8C56-CC71B308CB8A.png?ex=6912705f&is=69111edf&hm=2eec2b5d9ca739e9d83fb50bb923dbec52a9f86ca7f65cbebd00e8b836e8fb87&)
+![Políticas de Privacidade](https://cdn.discordapp.com/attachments/956996682019635200/1437217307804827648/B29C0DA5-DD78-42FE-8147-3BDB8B6FA4A7.png?ex=6912706c&is=69111eec&hm=54202aee3a789be5555b798b3b7e5bb477ae8eee70f83ab5b35972c7bc5f564a&)
 
 ## Questionário de Suitability
-![Questionário de Suitability 01]()
-![Questionário de Suitability 02]()
-![Questionário de Suitability 03]()
+![Questionário de Suitability 01](https://cdn.discordapp.com/attachments/956996682019635200/1437217445298569297/FD8F69B9-84C3-4E6A-8F5A-0E1D6BCE61BD.png?ex=6912708d&is=69111f0d&hm=889f3941dbab58ca904bc1661489426f4cbffe9937af07b4a192de5e3c33d2e9&)
+![Questionário de Suitability 02](https://cdn.discordapp.com/attachments/956996682019635200/1437217495437148290/F4988E8F-5940-443E-B539-CB7573DFC4A9.png?ex=69127099&is=69111f19&hm=c2e8010be1bc3b9e00341f1cc21f2a9134e57428709d3dc32ddbb4981aba98a9&)
+![Questionário de Suitability 03](https://cdn.discordapp.com/attachments/956996682019635200/1437217531017297950/57724203-91D7-412B-8A2F-9F5D03813C56.png?ex=691270a1&is=69111f21&hm=b3269f67f3cc5ebd099cb5e71d0017826790f1095ffe63081371b3c20c19dc36&)
 
 ## Simulação de Ações
-![Simulação de Ações 01]()
-![Simulação de Ações 02]()
+![Simulação de Ações 01](https://cdn.discordapp.com/attachments/956996682019635200/1437217643042963537/65FC5013-266D-4F6A-87A0-9A5524668824.png?ex=691270bc&is=69111f3c&hm=ea66ac75765cbbd6ade7ed15f6339bbe127a4d17187e5d025bc3db877a61aeab&)
+![Simulação de Ações 02](https://cdn.discordapp.com/attachments/956996682019635200/1437217835104604331/E27B7426-A785-4BDB-96A2-D2B8AE48C504.png?ex=691270ea&is=69111f6a&hm=3cb58ea6ad92a891d76bcc320b101ef37b83d9f944c29c19660be752955e7e5c&)
 
 ## Gráfico de Previsões
-![Gráfico de Previsões]()
+![Gráfico de Previsões](https://cdn.discordapp.com/attachments/956996682019635200/1437217889341145290/E27A9AFA-C385-463E-A742-E1A3BE326C1F.png?ex=691270f7&is=69111f77&hm=5853b7eff033550ffdead307766fa81d3c0fa588c4ab3815b7ca20a235a6818f&)
 
 ## Gráfico do Histórico
-![Gráfico do Histórico]()
+![Gráfico do Histórico](https://cdn.discordapp.com/attachments/956996682019635200/1437217944701636649/07B4C1AB-3BE0-4708-984E-24970F012355.png?ex=69127104&is=69111f84&hm=a9ff53d8fecc9d7832de85d4d25d7c3f3a609843c5b13612395e5f30dab3ff6b&)
 
 
 
