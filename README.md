@@ -1083,7 +1083,7 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
-![Mapa de Objetivos](https://media.discordapp.net/attachments/1372327706980651028/1433273849201561661/image.png?ex=690417ca&is=6902c64a&hm=529f35ceb6a81e70c4beafad15a6b4f61f2269d7e815c10efe66212e3826bfc9&=&format=webp&quality=lossless)
+![Mapa de Objetivos João](https://media.discordapp.net/attachments/1372327706980651028/1433273849201561661/image.png?ex=690417ca&is=6902c64a&hm=529f35ceb6a81e70c4beafad15a6b4f61f2269d7e815c10efe66212e3826bfc9&=&format=webp&quality=lossless)
 
 4) **Esquema Conceitual Geral de Signos**
 
@@ -1114,7 +1114,7 @@ Ao utilizar a plataforma, Felipe segue a sequência já mapeada no refinamento: 
 
 Depois de verificar a lista recomendada e o ganho estimado, **Felipe clica no botão Menu e acessa Gráficos de Previsões. Nessa área, ele analisa, gráfico a gráfico, as previsões de 24 meses das ações sugeridas, para entender melhor os motivos da escolha da IA e visualizar o andamento projetado de cada papel segundo o modelo. Essa navegação complementa a etapa de simulação: primeiro ele vê as recomendações e os percentuais de alta; na sequência, aprofunda-se nos gráficos para validar a coerência das projeções com sua leitura de mercado e decidir com mais segurança** [6].
 
-Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação objetiva → lista de ações recomendadas com estimativa de crescimento (6/12/24m) → análise visual nos gráficos de previsão**, mantendo a simplicidade operacional e a clareza de resultados que espera do sistema. Ainda reconhece espaço para evoluir em clareza metodológica e opções de personalização, conforme apontado no refinamento, mas considera que **as previsões no horizonte selecionado e a recomendação alinhada ao perfil agressivo já permitem transformar as projeções em um plano de execução prático** [7].
+**Ao final, Felipe avalia que o fluxo está coerente com seu perfil: simulação objetiva → lista de ações recomendadas com estimativa de crescimento (6/12/24m) → análise visual nos gráficos de previsão, mantendo a simplicidade operacional e a clareza de resultados que espera do sistema. Ainda reconhece espaço para evoluir em clareza metodológica e opções de personalização, conforme apontado no refinamento, mas considera que as previsões no horizonte selecionado e a recomendação alinhada ao perfil agressivo já permitem transformar as projeções em um plano de execução prático** [7].
 
 2) **Design Centrado na Comunicação**
 
@@ -1144,6 +1144,8 @@ Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação
 | > **escolher ação para visualizar** | **D:** Escolha uma ação da lista para abrir o respectivo **gráfico de previsão (24m)**. <br> **U:** Examino as ações indicadas pela IA para validar as recomendações. |
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
+
+![Mapa de Objetivos Felipe](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MapaObjetivosFelipe.png)
 
 4) **Esquema Conceitual Geral de Signos**
 
@@ -1197,6 +1199,8 @@ Antes de investir novamente, já após um ano de uso, Pedro agora tem metas dife
 | > resultado | **D:** *Simulação concluída (2 anos).* <br> **Resultado Histórico (2 anos):** R$ **2.963,37** — **ELET3**: **+ R$ 1.204,49**, **BBAS3**: **+ R$ 166,36**, **ITUB4**: **+ R$ 1.592,53**. <br> **Recomendação da IA (2 anos):** Lucro total estimado **R$ 9.163,11** — **SBSP3** (R$ 5.000,00) **+ R$ 5.971,33**; **ITUB4** (R$ 3.000,00) **+ R$ 2.388,79**; **ELET3** (R$ 2.000,00) **+ R$ 803,00**. |
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
+
+![Mapa de Objetivos Pedro](https://raw.githubusercontent.com/jvgoverna/Interface-Humano-Computador/refs/heads/main/Imagens%20IHC/MapaObjetivosPedro.png)
 
 4) **Esquema Conceitual Geral de Signos**
 
