@@ -1346,6 +1346,30 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 **Protótipo Correspondente ao MOLIC**  
 **Link para o FIGMA:**
 
+### Arena: Login e Cadastro
+![Arena Logar](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Login-Captura.png)
+![Arena Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Cadastro-Captura.png)
+![Arena Politicas](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Politicas-Captura.png)
+![Arena Politicas2](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Politicas-Captura.png)
+
+### Arena: Página Inicial
+![Arena InitialPage](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/InitialPage-Captura.png)
+
+### Arena: Menu
+![Arena Menu](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Menu-Captura.png)
+
+### Arena: Questionário
+![Arena Questionario1](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Questionario1-Captura.png)
+![Arena Questionario2](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Questionario2-Captura.png)
+![Arena Questionario3](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Questionario3-Captura.png)
+
+### Arena: Previsões
+![Arena Acuracia](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Acuracia-Captura.png)
+
+### Arena:  Histórico
+![Arena Histórico](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Hist%C3%B3rico-Captura.png)
+
+
 # **Entrega 12 (data) \[em andamento/concluído\]**
 
 **\[1 solução por equipe\]**
