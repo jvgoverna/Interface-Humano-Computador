@@ -1108,13 +1108,13 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
 | nome  | usuário  | campo obrigatório | interação de usuário (formulário) | - |  campo vazio | PP: Campo obrigatório com expressão explícita (*) | RA: Destaque nos campos incorretos e mensagem de erro|
 | CPF  | usuário | Campo obrigatório e único | interação de usuário (formulário) | O CPF informado deve ser único e válido | campo vazio | PP: Campo do CPF obrigatório, único e válido | RA: Destaque no campo incorreto e mensagem de erro  |
-| data de nascimento  | usuário  | Campo obrigatório  | interação de usuário | Não permitir datas futuras (posteriores ao dia atual) e uma idade mínima de 18 anos  | campo vazio | PP | RA |
-| telefone celular  | usuário | Campo Obrigatório | interação de usuário | - | campo vazio | PP | RA |
-| telefone residencial  | usuário | campo opcional | interação de usuário | - | campo vazio | PP | RA |
+| data de nascimento  | usuário  | Campo obrigatório  | interação de usuário | Não permitir datas futuras (posteriores ao dia atual) e uma idade mínima de 18 anos  | campo vazio | PP: Campo de data de nascimento obrigatória e válido | RA: Destaque no campo incorreto e mensagem de erro |
+| telefone celular  | usuário | Campo Obrigatório | interação de usuário | - | campo vazio | PP: Campo de telefone celular obrigatório | RA: Destaque no campo incorreto e mensagem de erro |
+| telefone residencial  | usuário | campo opcional | interação de usuário | - | campo vazio | - | - |
 | e-mail  | usuário | Campo obrigatório e único | interação de usuário | O e-mail de ser único e validado | campo vazio | PP: Campo do e-mail obrigatório, único e válido  | RA: Destaque no campo incorreto e mensagem de erro |
-| senha  | usuário | Campo obrigatório | interação de usuário | - | campo vazio | PP | RA |
-| política de privacidade  | usuário | Campo obrigatório | interação de usuário | - | Caixa de escolha desmarcada | PP | RA |
-| termos de uso da plataforma  | usuário | campo obrigatório  | interação de usuário | -  | Caixa de escolha desmarcada | PP | RA |
+| senha  | usuário | Campo obrigatório | interação de usuário | - | campo vazio | PP: Campo de senha obrigatório | RA: Destaque no campo incorreto e mensagem de erro |
+| política de privacidade  | usuário | Campo obrigatório | interação de usuário | - | Caixa de escolha desmarcada | PP: Obrigatório marcar com um check o botão das políticas | RA: Destaque no campo incorreto e mensagem de erro |
+| termos de uso da plataforma  | usuário | campo obrigatório  | interação de usuário | -  | Caixa de escolha desmarcada | PP: Obrigatório marcar com um check o botão dos termos | RA: Destaque no campo incorreto e mensagem de erro |
 | login na plataforma  | sistema | Após o cadastro do usuário o sistema redireciona para a tela de login do sistema  | sistema | Cadastro efetuado com sucesso  | - | PP: O sistema válida todos os campos preenchidos e redireciona para a tela de login | RA: Caso ocorra alguma informação incorreta o sistema retorna mensagens de erro e deixa o usuário realizar a mudança |
 <!--
 | Credenciais (C) \- credenciais para Cadastrar usuário na plataforma  | | | | | | | |
