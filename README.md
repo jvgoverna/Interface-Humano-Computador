@@ -1359,7 +1359,7 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 ![Arena Menu](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Menu-Captura.png)
 
 ### Arena: Questionário
-![Arena Questionario1](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Questionario1-Captura.png)
+![Arena Questionario1](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Questionario1.1-Captura.png)
 ![Arena Questionario2](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Questionario2-Captura.png)
 ![Arena Questionario3](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Questionario3-Captura.png)
 
