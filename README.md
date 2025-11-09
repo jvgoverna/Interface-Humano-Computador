@@ -1134,8 +1134,8 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | senha | usuário | Campo obrigatório e único, deve ser cadastrado anteriomente | interação de usuário | a senha deve ter sido cadastrada anteriormente | campo vazio | PP: Campo de senha obrigatório, cadastrado anteriormente e com nmáscara de caracteres  | RA: Destaque no campo incorreto e mensagem de erro  |
 | questionário | usuário | Após a efetuação do login no sistema, ele verifica se o questionário já foi preenchido anteriormente se sim redireciona para a tela de simulação de investimento, caso ao contrário para a tela de questionário de suitabilty | interação de usuário | Ter realizado o login no sistema  | respostas vazias | PA: Bloqueio do botão de enviar questionário até o preenchimento de todas as questões | - |
 
-
-| Credenciais (C) \- credenciais para realizar Responder questionário de suitability  | | | | | | | |
+4c) **Esquema conceitual de signos: Responder questionário de suitability**
+| Credenciais (C) \- credenciais para Responder questionário de suitability  | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
 | simular investimento | sistema | Após responder todas as questões do questionário, o sistema redireciona para a tela de simulação de investimento | sistema | Ter realizado o questionário de suitability anteriomente | - | - | - |
@@ -1154,8 +1154,33 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | questionário | sistema | Preenchimento obrigatório de todas as questões desse questionário de suitability | interação de usuário (questionário) | Para acesso as demais funionalidades da plataforma é necessário o preenchimento desse questionário | Campos de preenchimento não disponíveis |PA: O botão de enviar questionário é desabilitado até que todos os campos sejam preechidos | - |
 | Simular Investimento<br>perfil de investimento | Sistema | Após o preenchimento do questionário o sistema redirecionará o usuário para a tela de simulação de investimento com o perfil identificado e sendo mostrado ao usuário | Comportamento do sistema | Preenchimento de todos os campos do questionário | Página carregada | - | - |
 -->
-4c) **Esquema conceitual de signos: Simular Investimento**
+4d) **Esquema conceitual de signos: Simular Investimento**
 
+| Credenciais (C) \- credenciais para Simular Investimento  | | | | | | | |
+| :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
+| **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
+| orçamento   |  |  |  |  |  |  |  |
+| menu    |  |  |  |  |  |  |  |
+| ação     |  |  |  |  |  |  |  |
+| período de 7 anos   |  |  |  |  |  |  |  |
+| valor    |  |  |  |  |  |  |  |
+| R$ 10.000,00   |  |  |  |  |  |  |  |
+| R$ 2000,00   |  |  |  |  |  |  |  |
+| SBSP3   |  |  |  |  |  |  |  |
+| R$ 3000,00   |  |  |  |  |  |  |  |
+| ITUB4   |  |  |  |  |  |  |  |
+| R$ 5000,00   |  |  |  |  |  |  |  |
+| ELET3   |  |  |  |  |  |  |  |
+| orçamento   |  |  |  |  |  |  |  |
+| simular investimento    |  |  |  |  |  |  |  |
+| prejuízo na ação   |  |  |  |  |  |  |  |
+| R$20,00  |  |  |  |  |  |  |  |
+| R$ 14,00   |  |  |  |  |  |  |  |
+| lucro total de R$ 200,00   |  |  |  |  |  |  |  |
+| recomendação da IA  |  |  |  |  |  |  |  |
+
+
+<!--
 | Credenciais (C) \- credenciais para Simular Investimento  | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
@@ -1165,14 +1190,15 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | SBSP3<br>ITUB4<br>ELET3<br>período de 12 meses| usuário | Ações escolhidas para o investimento em um período de 12 meses | interação de usuário (campo orçamento e ações) | - | campos nulos | - | - |
 | Prejuízo na ação<br>ITUB4<br>R$ 20,00<br>SBSP3<br>R$ 14,00<br>lucro total de R$ 200,00| sistema | Prejuízos e lucros obtidos na simulação das ações escolhidas no período definido pelo usuário | Comportamento Sistema | - | - | - | - |
 | recomendação da IA<br>R$ 3000,00<br>SBSP3<br>R$ 5000,00<br>BBDC4<br>R$ 2000,00<br>BBAS3<br>lucro total de R$ 1500,00| Sistema | Com base no perfil de investidor do usuário, a IA recomendou estas ações, informando os valores necessários para o aporte e a estimativa de lucro correspondente | Comportamento do sistema | Ações para o perfil identificado | - | PA: Se o usuário clicar em Simular investimento com menos de três ações selecionadas, o sistema exibirá uma mensagem de erro em vermelho informando que a recomendação exige a seleção de pelo menos três ações. | RA: O usuário seleciona ao menos três ações, clica novamente em Simular investimento e recebe as recomendações desejadas. |
+-->
 
-4d) **Esquema conceitual de signos: Refazer Teste**
+4e) **Esquema conceitual de signos: Refazer Teste**
 | Credenciais (C) \- credenciais para Refazer teste | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
 | questionário<br>menu<br>refazer teste| Sistema | Na tela de simulação de investimento, o usuário pode refazer o questionário a qualquer momento: basta abrir o menu no canto superior direito, selecionar “Refazer teste” e será redirecionado para a tela do questionário. | Comportamento do sistema | - | Barra lateral do menu fechada | - | - |
 
-4e) **Esquema conceitual de signos: Deslogar conta da plataforma**
+4f) **Esquema conceitual de signos: Deslogar conta da plataforma**
 | Credenciais (C) \- credenciais para Deslogar conta da plataforma	 | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
