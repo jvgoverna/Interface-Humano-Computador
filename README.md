@@ -1123,25 +1123,25 @@ Depois de verificar a lista recomendada e o ganho estimado, **Felipe clica no bo
 | tópico > subtópico (diálogo) | falas e signos |
 |---|---|
 | **Cadastrar usuário na plataforma** | **U:** Quero me cadastrar para receber recomendações alinhadas ao meu **perfil agressivo** e já simular posições. |
-| > **informar dados do usuário** | **D:** Informe **nome, CPF, data de nascimento, telefone (celular e residencial), e-mail, senha** e aceite a **política de privacidade** e **termos de uso**. <br> **U:** Preencho meus dados. <br> **D:** *Verificando informações…* **Cadastro concluído.** Redirecionando para **login**. |
+| > **informar dados do usuário** | **D:** Informe **nome, CPF, data de nascimento, telefone (celular e residencial), e-mail, senha**, aceite a **política de privacidade** e **termos de uso** e clique no **botão de cadastrar**. <br> **U:** Preencho meus dados. <br> **D:** *Verificando informações…* Cadastro concluído. Redirecionando para **login**. |
 | **Login do usuário na plataforma** | **U:** Vou fazer **login** para seguir com a simulação conforme meu perfil de investimento. |
-| > **informar dados cadastrados do usuário** | **D:** Qual é o **e-mail** e a **senha** cadastrados? <br> **U:** Informo minhas credenciais. <br> **D:** *Validando…* **Login realizado.** Redirecionando para o **questionário de suitability**. |
+| > **informar dados cadastrados do usuário** | **D:** Qual é o **e-mail** e a **senha** cadastrados? <br> **U:** Informo minhas credenciais e clico no **botão de login**. <br> **D:** *Validando…* Login realizado. Redirecionando para o **questionário de suitability**. |
 | **Responder questionário de suitability** | **U:** Quero responder o **questionário** para configurar as recomendações ao meu perfil agressivo. |
-| > **responder perguntas com base no seu perfil** | **D:** São **10 perguntas**; algumas aceitam **múltiplas respostas**. No final, clique em **Enviar**. <br> **U:** Respondo de acordo com minha experiência, aceitando **alta volatilidade**, **maior risco** visando **ganho mais rápido** e mostrando meu conhecimento com investimentos. <br> **D:** *Processando…* **Perfil identificado: Agressivo.** Redirecionando para **Simulação de Ações**. |
+| > **responder perguntas com base no seu perfil** | **D:** São **10 perguntas**; algumas aceitam múltiplas respostas. No final, clique em **Enviar**. <br> **U:** Respondo de acordo com minha experiência, aceitando alta volatilidade, maior risco visando ganho mais rápido e mostrando meu conhecimento com investimentos. <br> **D:** *Processando…* **Perfil identificado: Agressivo.** Redirecionando para **Simulação de Ações**. |
 
 | tópico > subtópico (diálogo) | falas e signos |
 |---|---|
-| **Simular Investimento** | **U:** Quero simular um investimento com base no meu **orçamento disponível**, escolhendo **6 meses** porque busco **ganhos mais rápidos**. |
-| > **informar o orçamento disponível** | **D:** Informe o **valor total** disponível para investir. <br> **U:** **R$ 10.000,00**. |
-| > **selecionar ações e distribuir orçamento** | **D:** Selecione **ao menos 3 ações** e **distribua o orçamento**. Clique em **Simular Portfólio**. <br> **U:** **ABEV3 R$ 3.000,00**, **ITUB4 R$ 3.000,00**, **ELET3 R$ 4.000,00**. <br> D: Concluído o preenchimento, escolha o período (6/12/24 meses) e clique em Simular Investimento. <br> U: Defino o período de 6 meses para a simulação. |
-| > **resultado** | **D:** *Simulação concluída (6 meses).* <br> **Resultado Histórico (6m):** **R$ 1.637,89** — **ABEV3** **R$ -159,55**, **ITUB4** **R$ +869,50**, **ELET3** **R$ +927,95**. <br> **Recomendação da IA (6m):** **Lucro total estimado: R$ 3.109,70** — **SBSP3 (R$ 5.000,00)** **R$ +1.776,23**; **ITUB4 (R$ 3.000,00)** **R$ +869,50**; **ELET3 (R$ 2.000,00)** **R$ +463,97**. |
+| **Simular Investimento** | **U:** Quero **simular um investimento** com base no meu **orçamento disponível**, escolhendo **6 meses** porque busco **ganhos mais rápidos** (na tela **Simular Investimento**). |
+| > **informar o orçamento disponível** | **D:** Informe o **valor total** disponível para investir no campo **"Seu Orçamento (R$)"**; o **"Total Investido"** será atualizado automaticamente. <br> **U:** **R$ 10.000,00**. |
+| > **selecionar ações e distribuir orçamento** | **D:** Selecione **ao menos 3 ações** nos cartões **"Ações para simular"** e **distribua o orçamento**; em seguida, escolha o horizonte nas abas **6 Meses / 1 Ano / 2 Anos** e clique em **"Simular Portfólio"**. <br> **U:** **ABEV3 R$ 3.000,00**, **ITUB4 R$ 3.000,00**, **ELET3 R$ 4.000,00**. <br> **U:** Defino o período de **6 meses** para a simulação. |
+| > **resultado** | **D:** *Simulação concluída (6 meses).* <br> **Resultado Histórico (6m):** **R$ 1.637,89** — **ABEV3** **R$ -159,55**, **ITUB4** **R$ +869,50**, **ELET3** **R$ +927,95** (lista de **resultados por ação**). <br> **Recomendação da IA (6m):** **Lucro total estimado: R$ 3.109,70** — **SBSP3 (R$ 5.000,00)** **R$ +1.776,23**; **ITUB4 (R$ 3.000,00)** **R$ +869,50**; **ELET3 (R$ 2.000,00)** **R$ +463,97** (lista de **recomendações por ação**). |
 
 | tópico > subtópico (diálogo) | falas e signos |
 |---|---|
 | **Acessar Previsões** | **U:** Quero ver os **gráficos de previsão** para entender o porquê das recomendações. |
 | > **abrir menu** | **D:** Toque em **Menu** para acessar as seções da plataforma. <br> **U:** Abro o **Menu**. |
 | > **ir para “Previsões”** | **D:** Selecione **Previsões** para visualizar os **gráficos dos próximos 24 meses**. <br> **U:** Clico em **Previsões**. |
-| > **escolher ação para visualizar** | **D:** Escolha uma ação da lista para abrir o respectivo **gráfico de previsão (24m)**. <br> **U:** Examino as ações indicadas pela IA para validar as recomendações. |
+| > **escolher ação para visualizar** | **D:** **Selecione a ação para comparar o modelo** e ver seu respectivo **gráfico de acurácia** de previsão (24m) e leia a **legenda do gráfico** para compreender melhor. <br> **U:** Examino as ações indicadas pela IA para validar as recomendações. |
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
