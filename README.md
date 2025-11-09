@@ -1051,12 +1051,12 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 | tópico \> subtópico (diálogo) | falas e signos |
 |                         :---- |          :---- |
-|   Cadastrar usuário na plataforma                            | U: Preciso me **cadastrar na plataforma** para poder acessar recomendação de carteiras de investimento de acordo com o meu perfil de investidor|
+|   Cadastrar usuário na plataforma                            | U: Preciso me cadastrar na plataforma para poder acessar recomendação de carteiras de investimento de acordo com o meu perfil de investidor|
 | \> informar dados do usuário                                 | D: Qual é o seu **nome**, **CPF**, **data de nascimento**, **telefone celular e residencial**, seu **e-mail**, **senha de acesso a plataforma** e você aceita a **política de privacidade** e **termos de uso da plataforma**?. <br> U: Certo, vou preencher meus dados. <br> D: Verificando informações...  cadastro realizado com sucesso. Redirecionando para a tela de **login na plataforma**.|
-|   Login do usuário na plataforma                             | U: Preciso realizar o login na plataforma para poder **simular investimentos** de acordo com meu **pefil de investimento** identificado no **questionário**
+|   Login do usuário na plataforma                             | U: Preciso realizar o login na plataforma para poder simular investimentos de acordo com meu pefil de investimento identificado no questionário
 | \> informar dados cadastrados do usuário                     | D: Qual é o seu **e-mail** e **senha** cadastrados anteriormente? <br> U: Vou preencher meus dados cadastrados. <br> D: Verificando informações preenchidas... Cadastro encontrado no banco de dados. Redirecionando para a tela do **questionário**|
-|   Responder questionário de suitability                      | U: Preciso responder o **questionário** de suitability para posteriormente **simular investimento**|
-| \> responder perguntas com base no seu perfil                | D: Aqui estão 10 perguntas que devem ser respondidas de acordo com seu conhecimento e familiaridade com investimentos. Cada resposta atribui pontos que serão somados para a identificação do seu **perfil de investimento**. As questões 7, 8 e 9 permitem múltiplas respostas. No final clique no botão de enviar seu **questionário** <br> U: Vou preencher essas questões de acordo com meu conhecimento. <br> D: Ok, **questionário** recebido, salvando pontuação no banco de dados, e redirecionando para a tela de **simular investimento**|
+|   Responder questionário de suitability                      | U: Preciso responder o questionário de suitability para posteriormente **simular investimento**|
+| \> responder perguntas com base no seu perfil                | D: Aqui estão 10 perguntas que devem ser respondidas de acordo com seu conhecimento e familiaridade com investimentos. Cada **resposta** atribui pontos que serão somados para a identificação do seu **perfil de investimento**. As questões 7, 8 e 9 permitem múltiplas respostas. No final clique no botão de enviar seu questionário <br> U: Vou preencher essas **questões** de acordo com meu conhecimento. <br> D: Ok, **respostas** recebidas, salvando pontuação no banco de dados, e redirecionando para a tela de **simular investimento**|
 
 
 | tópico \> subtópico (diálogo) | falas e signos |
@@ -1116,9 +1116,6 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | política de privacidade  | usuário | Campo obrigatório | interação de usuário | - | Caixa de escolha desmarcada | PP | RA |
 | termos de uso da plataforma  | usuário | campo obrigatório  | interação de usuário | -  | Caixa de escolha desmarcada | PP | RA |
 | login na plataforma  | sistema | Após o cadastro do usuário o sistema redireciona para a tela de login do sistema  | sistema | Cadastro efetuado com sucesso  | - | PP: O sistema válida todos os campos preenchidos e redireciona para a tela de login | RA: Caso ocorra alguma informação incorreta o sistema retorna mensagens de erro e deixa o usuário realizar a mudança |
-
-
-
 <!--
 | Credenciais (C) \- credenciais para Cadastrar usuário na plataforma  | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
@@ -1133,10 +1130,30 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | Credenciais (C) \- credenciais para realizar Login do usuário na plataforma  | | | | | | | |
 | :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
+| e-mail | usuário | Campo obrigatório e único, deve ser cadastrado anteriomente | interação de usuário | o e-mail deve ser único e cadastrado anteriormente | campo vazio  | PP: Campo do e=mail obrigatório, único e válido  | RA: Destaque no campo incorreto e mensagem de erro|
+| senha | usuário | Campo obrigatório e único, deve ser cadastrado anteriomente | interação de usuário | a senha deve ter sido cadastrada anteriormente | campo vazio | PP: Campo de senha obrigatório, cadastrado anteriormente e com nmáscara de caracteres  | RA: Destaque no campo incorreto e mensagem de erro  |
+| questionário | usuário | Após a efetuação do login no sistema, ele verifica se o questionário já foi preenchido anteriormente se sim redireciona para a tela de simulação de investimento, caso ao contrário para a tela de questionário de suitabilty | interação de usuário | Ter realizado o login no sistema  | respostas vazias | PA: Bloqueio do botão de enviar questionário até o preenchimento de todas as questões | - |
+
+
+| Credenciais (C) \- credenciais para realizar Responder questionário de suitability  | | | | | | | |
+| :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
+| **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
+| simular investimento | sistema | Após responder todas as questões do questionário, o sistema redireciona para a tela de simulação de investimento | sistema | Ter realizado o questionário de suitability anteriomente | - | - | - |
+| perfil de investimento | sistema | Após o preenchimento de todas as questões do questionário, o sistema informará qual é o perfil de investimento do usuário | sistema | Ter realizado o questionário | perfil não informado | - | - |
+| questões| sistema | 10 questões que o usuário deverá responder para ter sua identificação de perfil de investidor | ineteração do usuário (formulário) | - | Perguntas informadas | - | - |
+| respostas | usuário | - | interação do usuário | Preenchimento de todas as questões | campos vazios |  PA: Caso o usuário não tenha respondido alguma questão, o sistema bloqueia o botão de enviar questionário  | - |
+
+
+
+
+<!--
+| Credenciais (C) \- credenciais para realizar Login do usuário na plataforma  | | | | | | | |
+| :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
+| **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
 | e-mail e senha | Sistema | Para realizar o login na plataforma é necessário ter uma conta cadastrada anteriormente | interação de usuário (formulário) | Cadastro efetuado anteriormente no sistema | Campos vazios |PP: O sistema permite que o usuário tente efetuar o login com dados incorretos e exibe uma mensagem de erro, informando erro ao efetuar login, permitindo que ele corrija e tente novamente | RA: O usuário corrige o login ou senha conforme a mensagem de erro e tenta novamente, permitindo que o acesso seja realizado com sucesso|
 | questionário | sistema | Preenchimento obrigatório de todas as questões desse questionário de suitability | interação de usuário (questionário) | Para acesso as demais funionalidades da plataforma é necessário o preenchimento desse questionário | Campos de preenchimento não disponíveis |PA: O botão de enviar questionário é desabilitado até que todos os campos sejam preechidos | - |
 | Simular Investimento<br>perfil de investimento | Sistema | Após o preenchimento do questionário o sistema redirecionará o usuário para a tela de simulação de investimento com o perfil identificado e sendo mostrado ao usuário | Comportamento do sistema | Preenchimento de todos os campos do questionário | Página carregada | - | - |
-
+-->
 4c) **Esquema conceitual de signos: Simular Investimento**
 
 | Credenciais (C) \- credenciais para Simular Investimento  | | | | | | | |
