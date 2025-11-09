@@ -1000,9 +1000,11 @@ Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relaç�
 
 **\[1 solução completa por pessoa da equipe\]**
 
+# ---- João ----
+
 1) **Cenários de Interação (destacar em cor diferente o texto alterado entre Cenário Problema e Cenário de Interação)**
 
-# Cenário de Análise/Problema - João Vitor
+## Cenário de Análise/Problema - João Vitor
 **Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes**
 Atores: João Vitor (investidor iniciante)
 
@@ -1015,7 +1017,7 @@ Após a classificação é recomendado diversas ações para investir, porém es
 João avalia a plataforma de forma negativa, concluindo que o site é útil para pessoas que apresentam um conhecimento prévio sobre investimento financeiro, não sendo o caso dele e se sentindo frustado e inseguro se realmente vale a pena retirar seu investimento na poupança, por sua incapacidade de interpretar as informações e gráficos oferecidos a ele. Sua ação final foi de fechar a plataforma, abandonar o uso e continuar pesquisando sobre esse universo com amigos.
 
 
-# Questões de refinamento (João Vitor):
+## Questões de refinamento (João Vitor):
 
 | Indice | Elemento |Pergunta | Resposta |
 | -- | -- | -- | -- |
@@ -1029,7 +1031,7 @@ João avalia a plataforma de forma negativa, concluindo que o site é útil para
 
 ---
  
-# Cenário de Interação – João Vitor
+## Cenário de Interação – João Vitor
 **Clareza e Simplicidade: A Necessidade de Usabilidade para Investidores Iniciantes** <br>
 Atores: João Vitor (investidor iniciante)
 
@@ -1098,8 +1100,117 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | Refazer Teste | Sistema | Na tela de simulação de investimento, o usuário pode refazer o questionário a qualquer momento: basta abrir o menu no canto superior direito, selecionar “Refazer teste” e será redirecionado para a tela do questionário. | Comportamento do sistema | - | Barra lateral do menu fechada | - | - |
 | Encerrar minha sessão | Sistema | Na tela de simulação de investimento, o usuário pode encerrar sua sessão a qualquer momento: basta abrir o menu no canto superior direito, selecionar "sair" e será redirecionado para a tela de login da plataforma | Comportamento sistema | - |  Barra lateral do menu fechada  | - | - |
 
+# ---- Felipe ----
+
+1) **Cenários de Interação (destacar em cor diferente o texto alterado entre Cenário Problema e Cenário de Interação)**
+
+## Cenário de Interação – Felipe Orlando
+
+Felipe Orlando, engenheiro civil de 42 anos, possui mais de 10 anos de experiência no mercado de ações. Ao longo da trajetória, desenvolveu domínio de conceitos técnicos como volatilidade, dividend yield e valuation. Seu objetivo prático é converter previsões em decisões rápidas; por isso, considera essenciais os gráficos de previsão com horizonte de 24 meses e um caminho de recomendação coerente ao seu perfil agressivo [1].
+
+O cenário ocorre em seu cotidiano de investidor ativo, que dedica tempo diário à análise de relatórios e ao acompanhamento do mercado [2]. Nesse ambiente, a plataforma surge como complemento às ferramentas que já utiliza, mas precisa responder à expectativa de um usuário com alto nível de conhecimento; limitações de clareza metodológica ou de flexibilidade são percebidas rapidamente [3].
+
+Ao utilizar a plataforma, Felipe segue a sequência já mapeada no refinamento: cria sua conta, responde ao questionário de suitability e é classificado como investidor agressivo. **Imediatamente após a classificação, o sistema o direciona para a aba Simulação de Ações**, onde ele executa a simulação para o seu perfil [4]. **Nessa etapa não há gráficos: a tela exibe somente as ações recomendadas para Felipe** com base no modelo e **mostra, para cada papel, a estimativa de crescimento projetada para 6, 12 ou 24 meses (conforme a opção escolhida), além do resultado estimado do portfólio para o horizonte selecionado.O objetivo aqui é dar uma resposta direta sobre “o que comprar” e “quanto tende a subir” segundo a predição, sem exigir ajustes avançados** [4][5].
+
+Depois de verificar a lista recomendada e o ganho estimado, **Felipe clica no botão Menu e acessa Gráficos de Previsões. Nessa área, ele analisa, gráfico a gráfico, as previsões de 24 meses das ações sugeridas, para entender melhor os motivos da escolha da IA e visualizar o andamento projetado de cada papel segundo o modelo. Essa navegação complementa a etapa de simulação: primeiro ele vê as recomendações e os percentuais de alta; na sequência, aprofunda-se nos gráficos para validar a coerência das projeções com sua leitura de mercado e decidir com mais segurança** [6].
+
+Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação objetiva → lista de ações recomendadas com estimativa de crescimento (6/12/24m) → análise visual nos gráficos de previsão**, mantendo a simplicidade operacional e a clareza de resultados que espera do sistema. Ainda reconhece espaço para evoluir em clareza metodológica e opções de personalização, conforme apontado no refinamento, mas considera que **as previsões no horizonte selecionado e a recomendação alinhada ao perfil agressivo já permitem transformar as projeções em um plano de execução prático** [7].
+
+2) **Design Centrado na Comunicação**
+
+**Nome do Cenário: Felipe Orlando**
+
+| tópico > subtópico (diálogo) | falas e signos |
+|---|---|
+| **Cadastrar usuário na plataforma** | **U:** Quero me cadastrar para receber recomendações alinhadas ao meu **perfil agressivo** e já simular posições. |
+| > **informar dados do usuário** | **D:** Informe **nome, CPF, data de nascimento, telefone (celular e residencial), e-mail, senha** e aceite a **política de privacidade** e **termos de uso**. <br> **U:** Preencho meus dados. <br> **D:** *Verificando informações…* **Cadastro concluído.** Redirecionando para **login**. |
+| **Login do usuário na plataforma** | **U:** Vou fazer **login** para seguir com a simulação conforme meu perfil de investimento. |
+| > **informar dados cadastrados do usuário** | **D:** Qual é o **e-mail** e a **senha** cadastrados? <br> **U:** Informo minhas credenciais. <br> **D:** *Validando…* **Login realizado.** Redirecionando para o **questionário de suitability**. |
+| **Responder questionário de suitability** | **U:** Quero responder o **questionário** para configurar as recomendações ao meu perfil agressivo. |
+| > **responder perguntas com base no seu perfil** | **D:** São **10 perguntas**; algumas aceitam **múltiplas respostas**. No final, clique em **Enviar**. <br> **U:** Respondo de acordo com minha experiência, aceitando **alta volatilidade**, **maior risco** visando **ganho mais rápido** e mostrando meu conhecimento com investimentos. <br> **D:** *Processando…* **Perfil identificado: Agressivo.** Redirecionando para **Simulação de Ações**. |
+
+| tópico > subtópico (diálogo) | falas e signos |
+|---|---|
+| **Simular Investimento** | **U:** Quero simular um investimento com base no meu **orçamento disponível**, escolhendo **6 meses** porque busco **ganhos mais rápidos**. |
+| > **informar o orçamento disponível** | **D:** Informe o **valor total** disponível para investir. <br> **U:** **R$ 10.000,00**. |
+| > **selecionar ações e distribuir orçamento** | **D:** Selecione **ao menos 3 ações** e **distribua o orçamento**. Clique em **Simular Portfólio**. <br> **U:** **ABEV3 R$ 3.000,00**, **ITUB4 R$ 3.000,00**, **ELET3 R$ 4.000,00**. <br> D: Concluído o preenchimento, escolha o período (6/12/24 meses) e clique em Simular Investimento. <br> U: Defino o período de 6 meses para a simulação. |
+| > **resultado** | **D:** *Simulação concluída (6 meses).* <br> **Resultado Histórico (6m):** **R$ 1.637,89** — **ABEV3** **R$ -159,55**, **ITUB4** **R$ +869,50**, **ELET3** **R$ +927,95**. <br> **Recomendação da IA (6m):** **Lucro total estimado: R$ 3.109,70** — **SBSP3 (R$ 5.000,00)** **R$ +1.776,23**; **ITUB4 (R$ 3.000,00)** **R$ +869,50**; **ELET3 (R$ 2.000,00)** **R$ +463,97**. |
+
+| tópico > subtópico (diálogo) | falas e signos |
+|---|---|
+| **Acessar Previsões** | **U:** Quero ver os **gráficos de previsão** para entender o porquê das recomendações. |
+| > **abrir menu** | **D:** Toque em **Menu** para acessar as seções da plataforma. <br> **U:** Abro o **Menu**. |
+| > **ir para “Previsões”** | **D:** Selecione **Previsões** para visualizar os **gráficos dos próximos 24 meses**. <br> **U:** Clico em **Previsões**. |
+| > **escolher ação para visualizar** | **D:** Escolha uma ação da lista para abrir o respectivo **gráfico de previsão (24m)**. <br> **U:** Examino as ações indicadas pela IA para validar as recomendações. |
+
+3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
+
+4) **Esquema Conceitual Geral de Signos**
+
+| signo | origem | observações | tipo de conteúdo | restrições sobre o conteúdo | valor default | prevenção |
+|---|---|---|---|---|---|---|
+| Cadastrar na Plataforma | sistema | Tela de cadastro das informações do usuário. | interação de usuário (formulário) | Disponível só para não autenticados. **E-mail** e **CPF** devem ser válidos/únicos; aceite dos **Termos** e **Política** é obrigatório. | Campos vazios; obrigatórios marcados com * | **PP:** Máscara e validação de CPF/e-mail; **PA:** Botão “Cadastrar” desabilitado até todos obrigatórios + aceite. |
+| Login na Plataforma | sistema | Acesso com e-mail e senha cadastrados. | interação de usuário (formulário) | Requer conta criada; | Campos vazios | **PP:** Mensagem de erro clara em caso de credencial inválida; manter campos preenchidos para correção. |
+| Política de Privacidade e Termos de Uso | sistema | Caixa de seleção para aceite; links abrem os textos completos e retornam ao cadastro. | interação de usuário (caixa de seleção) | Aceite obrigatório para concluir cadastro. | Caixa desmarcada | **PA:** Botão “Cadastrar” só habilita após marcar a caixa. |
+| Perfil de Investidor / Questionário (Suitability) | sistema/usuário | 10 perguntas (algumas múltipla escolha) para classificar o perfil. | interação de usuário (questionário) | Envio apenas com todas as questões respondidas. | Campos de resposta vazios | **PA:** Botão “Enviar” desabilitado até 100% de progresso; **PP:** instruções curtas por questão. |
+| Simular Investimento | sistema | Na tela de simulação, o usuário informa **orçamento** e seleciona **≥ 3 ações**, distribuindo os valores; escolhe **6/12/24 meses**. | interação de usuário (formulário de seleção) | Somatório por ação **= orçamento**; mínimo **3 ações**; valores numéricos válidos; horizonte selecionado (6/12/24m). | Orçamento vazio; sem ações; horizonte não selecionado | **PA:** Botão “Simular Portfólio” desabilitado até cumprir regras. **PP:** Máscara de moeda; mensagem em vermelho se < 3 ações ou soma ≠ orçamento. |
+| Recomendação de Carteiras de Investimento (IA) | sistema | Após simulação válida, o sistema mostra **somente as ações recomendadas** para o **horizonte escolhido (6/12/24m)** com a **estimativa de crescimento** por ação e o **lucro total estimado** do portfólio. | comportamento do sistema (resumo) | Exibida somente se a simulação tiver ≥ 3 ações válidas no horizonte selecionado. | Nenhuma recomendação disponível | **PA:** Não gera recomendação sem cumprir regras da simulação; **PP:** textos objetivos (+/− em verde/vermelho). |
+| Previsões (Gráficos 24 meses) | sistema | Acesso via **Menu → Previsões**. Exibe **gráfico a gráfico (24m)** das **ações recomendadas** para entender o racional da IA. | visualização de dados (gráfico) | - | Lista vazia de gráficos | - |
+
+# ----- Pedro -----
+
+1) **Cenários de Interação (destacar em cor diferente o texto alterado entre Cenário Problema e Cenário de Interação)**
+
+## Cenário de Interação – Pedro
+
+Pedro começou a investir no ano passado utilizando o software InvestMind, buscando organizar suas aplicações e receber recomendações de carteiras alinhadas ao seu estilo de investimento [1]. Ao descobrir a plataforma, em um contexto de interesse crescente por investimentos em ações e influência de amigos que já utilizavam ferramentas digitais para investir, ele decidiu criar uma conta e experimentar o sistema [2]. Assim como no cenário problema, ele criou sua conta, fez login, respondeu ao questionário de Suitability e foi classificado como investidor agressivo, o que naquele momento fazia sentido para seu comportamento. A partir desse cadastro inicial, o sistema passou a exibir, no topo da tela de simulação, o texto “Perfil de Investidor Identificado: Agressivo” e o card explicativo do perfil, deixando claro o tipo de recomendação que seria gerada para ele [3].
+
+Antes de investir novamente, já após um ano de uso, Pedro agora tem metas diferentes: ele deseja reduzir a exposição à volatilidade, priorizar ações mais estáveis e preservar o capital, ainda que com retornos potencialmente menores [4]. **Ao acessar novamente a InvestMind, Pedro identifica que já se passaram mais de seis meses desde a última avaliação de perfil e decide refazer o questionário de Suitability. Dessa forma, antes mesmo de seguir para novas recomendações, Pedro percebe que o perfil utilizado até então pode não refletir mais sua realidade atual [6].**
+
+**Ao clicar em “Refazer Teste”, Pedro realiza uma sequência de ações na interface: é direcionado para a tela do questionário de Suitability, responde novamente às 10 perguntas sobre seu conhecimento, objetivos e tolerância a risco e, por fim, clica em “Enviar questionário” [5]. O sistema processa as respostas e exibe a mensagem: “Novo perfil identificado: Conservador”, seguida de uma breve descrição do que isso significa em termos de risco e volatilidade. Em seguida, a plataforma o redireciona automaticamente para a tela de simulação de investimentos, agora com o cabeçalho atualizado para “Perfil de Investidor Identificado: Conservador” e com o card de perfil conservador em destaque, reforçando visualmente a mudança [3][6].**
+
+**Na área de simulação, Pedro informa seu orçamento, escolhe o horizonte de tempo de 2 anos e seleciona as ações para testar. A partir da nova configuração, o sistema passa a apresentar nas Recomendações da IA, apenas ativos compatíveis com o perfil conservador, priorizando ações menos voláteis e mais estáveis, permitindo que ele ajuste a carteira de acordo com o seu novo perfil de investidor antes de tomar a decisão final [4][5].**
+
+**Ao final do fluxo, Pedro consegue montar uma carteira alinhada ao seu novo perfil, com recomendações coerentes com sua postura mais cautelosa. O sistema, ao tornar o perfil sempre visível na tela principal evita que Pedro continue investindo como se ainda fosse agressivo. Em sua avaliação, a InvestMind passa a ser vista como uma ferramenta mais segura e confiável, pois demonstra preocupação em se adaptar às mudanças de comportamento do investidor e em prevenir recomendações inadequadas [7]. Dessa forma, a interação corrige diretamente as falhas levantadas no cenário problema, relacionadas à falta de feedback e de mecanismos de prevenção de erro entre humano e sistema.**
+
+2) **Design Centrado na Comunicação**
+ 
+**Nome do Cenário: Pedro**
+
+| tópico > subtópico (diálogo) | falas e signos |
+| :---- | :---- |
+| Login do usuário na plataforma | U: Quero realizar o login na plataforma InvestMind para revisar meus investimentos. <br> D: Exibe a tela de login com campos para e-mail e senha, botão **Entrar** e link **Esqueci minha senha**. |
+| > informar dados cadastrados do usuário | D: Qual é o e-mail e a senha cadastrados anteriormente? <br> U: Informo minhas credenciais. <br> D: **Validando... Login realizado com sucesso.** Redirecionando para a tela de simulação de investimentos. |
+| Acesso ao menu | U: Quero verificar se o meu perfil de investidor ainda faz sentido para mim. <br> D: Exibe, no canto superior direito, o ícone/botão **Menu**. |
+| > abrir menu | U: Clico no botão **Menu**. <br> D: Abre um painel lateral com as opções **Refazer Teste**, **Previsões**, **Histórico** e **Sair**. |
+| > selecionar "Refazer Teste" | U: Clico na opção **Refazer Teste** para atualizar meu perfil de investidor. <br> D: Fecha o menu e redireciona para a tela do **Questionário de Suitability**. |
+| Responder questionário de suitability | U: Quero responder novamente ao questionário para que as recomendações acompanhem meu comportamento atual, mais conservador. <br> D: Exibe o título **Questionário de Suitability**, um breve texto explicativo e a barra de progresso das 10 perguntas. |
+| > responder perguntas com base no novo perfil | D: São 10 perguntas; algumas aceitam múltiplas respostas. No final, clique em **Enviar questionário**. <br> U: Respondo às perguntas de acordo com meu novo objetivo de reduzir riscos, escolhendo alternativas mais conservadoras. <br> D: **Verificando respostas...** |
+| > envio e confirmação do novo perfil | U: Clico no botão **Enviar questionário**. <br> D: **Processando... Novo perfil identificado: Conservador.** Exibe um card com a descrição do perfil conservador e o botão **Ir para Simulação de Ações**. |
+| Retornar à simulação com perfil atualizado | U: Clico em **Ir para Simulação de Ações** para ver as novas recomendações com base no meu perfil conservador. <br> D: Redireciona para a tela de simulação, atualiza o cabeçalho para **Perfil de Investidor Identificado: Conservador** e passa a gerar recomendações compatíveis com esse perfil. |
+
+| tópico > subtópico (diálogo) | falas e signos |
+| :---- | :---- |
+| Simular Investimento | **U:** Quero montar uma simulação usando meu **orçamento total**, escolhendo o horizonte de **2 anos** para avaliar o retorno no médio prazo. |
+| > informar o orçamento disponível | **D:** Digite o **valor total** que você pretende investir nesta simulação. <br> **U:** Preencho com **R$ 10.000,00**. |
+| > selecionar ações e distribuir orçamento | **D:** Selecione **pelo menos 3 ações** e divida o orçamento entre elas. Em seguida, clique em **Simular Portfólio**. <br> **U:** Escolho **ELET3 R$ 3.000,00**, **BBAS3 R$ 5.000,00** e **ITUB4 R$ 2.000,00**. <br> **D:** Após o preenchimento, o sistema confirma a soma de **R$ 10.000,00** como **Total Investido**. <br> **U:** Mantenho o período configurado em **2 anos** para a simulação. |
+| > resultado | **D:** *Simulação concluída (2 anos).* <br> **Resultado Histórico (2 anos):** R$ **2.963,37** — **ELET3**: **+ R$ 1.204,49**, **BBAS3**: **+ R$ 166,36**, **ITUB4**: **+ R$ 1.592,53**. <br> **Recomendação da IA (2 anos):** Lucro total estimado **R$ 9.163,11** — **SBSP3** (R$ 5.000,00) **+ R$ 5.971,33**; **ITUB4** (R$ 3.000,00) **+ R$ 2.388,79**; **ELET3** (R$ 2.000,00) **+ R$ 803,00**. |
+
+3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
+
+4) **Esquema Conceitual Geral de Signos**
+
+| signo | origem | observações | tipo de conteúdo | restrições sobre o conteúdo | valor default | prevenção |
+|---|---|---|---|---|---|---|
+| Login na Plataforma | sistema | Tela com campos de e-mail e senha para que Pedro acesse sua conta já existente. | interação de usuário (formulário) | Requer conta previamente cadastrada e credenciais corretas. | Campos vazios | **PP:** mensagem clara em caso de credencial inválida; manter campos preenchidos para correção. |
+| Menu / Acesso ao “Refazer Teste” | sistema | Ícone de **Menu** no canto superior direito que abre a lista de opções, incluindo **Refazer Teste**. | navegação | Disponível apenas para usuário autenticado. | Menu fechado | **PP:** rótulo “Refazer Teste” deixa explícito que o perfil pode ser recalibrado; evita que o usuário ignore essa possibilidade. |
+| Questionário de Suitability (refazer teste) | sistema/usuário | Conjunto de 10 perguntas que Pedro responde novamente para atualizar o perfil de investidor. | interação de usuário (questionário) | Envio permitido apenas quando todas as perguntas forem respondidas. | Campos de resposta vazios | **PA:** botão “Enviar questionário” desabilitado até 100% de preenchimento; **PP:** instruções curtas em cada pergunta. |
+| Confirmação de novo perfil | sistema | Após o envio, o sistema exibe “Novo perfil identificado: Conservador”, com um resumo do perfil e botão “Ir para Simulação de Ações”. | feedback do sistema | Exibido somente após processamento válido do questionário. | Não exibido antes do envio | **PP:** reforça visualmente a mudança de perfil, evitando que Pedro continue achando que ainda é agressivo. |
+| Simular Investimento | sistema | Na tela de simulação, Pedro informa o orçamento, escolhe pelo menos 3 ações e define o horizonte (6 meses, 1 ano ou 2 anos) antes de clicar em “Simular Portfólio”. | interação de usuário (formulário de seleção) | Somatório dos valores por ação = orçamento; mínimo 3 ações; valores numéricos válidos; horizonte selecionado. | Orçamento vazio; sem ações; horizonte não selecionado | **PA:** botão “Simular Portfólio” desabilitado até cumprir as regras; **PP:** máscara de moeda e avisos em vermelho se < 3 ações ou soma ≠ orçamento. |
+| Recomendação de Carteiras de Investimento (IA) | sistema | Após simulação válida, o sistema mostra apenas as ações sugeridas pela IA para o horizonte escolhido, com lucro total estimado e ganho por papel, ajustados ao novo perfil de Pedro. | comportamento do sistema (resumo) | Exibida somente se houver simulação válida com perfil identificado. | Nenhuma recomendação disponível | **PA:** não gera recomendação sem simulação consistente; **PP:** ganhos e riscos apresentados de forma objetiva, com uso de cores para destacar lucros/perdas. |
 
 
+# Esquema Conceitual de Signos
 
 4a) **Esquema conceitual de signos: Cadastrar usuário na plataforma**
 
@@ -1117,14 +1228,6 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | termos de uso da plataforma  | usuário | campo obrigatório  | interação de usuário | -  | Caixa de escolha desmarcada | PP: Obrigatório marcar com um check o botão dos termos | RA: Destaque no campo incorreto e mensagem de erro |
 | botão Cadastrar | sistema | Envia o formulário quando todos os requisitos forem atendidos; evita duplo clique com estado de carregamento. | controle de ação | Só habilita com formulário válido e aceite marcado | desabilitado | PA: desabilitado até cumprir regras; loading e bloqueio de reenvio; | RA: se e-mail/CPF já existentes, exibe aviso; mantém dados para corrigir e reenviar. |
 | login na plataforma  | sistema | Após o cadastro do usuário o sistema redireciona para a tela de login do sistema  | sistema | Cadastro efetuado com sucesso  | - | PP: O sistema válida todos os campos preenchidos e redireciona para a tela de login | RA: Caso ocorra alguma informação incorreta o sistema retorna mensagens de erro e deixa o usuário realizar a mudança |
-<!--
-| Credenciais (C) \- credenciais para Cadastrar usuário na plataforma  | | | | | | | |
-| :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
-| **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
-| nome<br>CPF<br>data de nascimento<br>telefone celular<br>telefone residencial<br>e-mail<br>senha| sistema | Signos obtidos na tela de cadastro das informações do usuário na plataforma | interação de usuário (formulário) | Os campos de e-mail e CPF passam por verificação de unicidade: se já houver cadastro com essas informações, o sistema exibirá uma mensagem informando que o usuário já foi registrado. O telefone residencial é o único campo opcional. A data de nascimento é validada automaticamente para impedir valores inválidos, como a data de hoje ou quaisquer datas futuras. | Campos vazios e campos obrigatórios marcados com * |PP: Campos obrigatórios com expressão explícita (*), verificação em tempo real de CPF e e-mail previamente cadastrados |RA: Após a ruptura (e-mail/CPF já cadastrado ou data inválida), o sistema informa o erro, destaca o(s) campo(s) e permite correção imediata |
-| política de privacidade e termos de uso da plataforma | Sistema | Campo com checkbox acompanhado de links para Política de Privacidade e Termos de Uso, ao marcar, o usuário declara que leu e concorda, e ao clicar nos links é direcionado à página correspondente com opção de voltar a página de cadastro | interação de usuário (checkbox e páginas informativas) | Para a realização do cadastro é necessário que esse campo seja preenchido| checkbox não marcado |PA: O botão Cadastrar permanece desabilitado até que o usuário marque o consentimento | RA: Após ler a Política de Privacidade e os Termos de Uso, o usuário marca o checkbox de consentimento e o botão Cadastrar é habilitado. |
-| Login na plataforma | Sistema | Após a realização do cadastro, o sistema redireciona o usuário para a tela de login | Comportamento do sistema | - | - | - | -|
--->
 
 4b) **Esquema conceitual de signos: Login do usuário na plataforma**
 
@@ -1190,95 +1293,6 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | gráfico de acurácia (Valor Predito x Valor Real) | sistema | Exibe duas curvas ao longo do tempo, comparando o valor predito pelo modelo e o valor real da ação | visualização de dados (gráfico) | Depende de uma ação válida selecionada; só exibe dados para papéis suportados | não exibido antes da seleção | PP: eixos e legenda claramente identificados (“Valor Predito”, “Valor Real”) e atualização automática ao mudar a ação | RA: em caso de falha no carregamento dos dados, exibir mensagem de erro e permitir tentar novamente ou escolher outra ação |
 | legenda do gráfico | sistema | Indica quais cores/linhas representam o Valor Predito e o Valor Real | texto/ícone de apoio visual | Deve estar sempre presente quando o gráfico for exibido | legenda visível | PP: uso de cores bem contrastantes para facilitar a distinção entre predito e real | RA: se a legenda falhar ou não puder ser carregada, manter a distinção por rótulos diretos nas linhas do gráfico |
 
-
-# ---- Felipe ----
-
-# Cenário de Interação – Felipe Orlando
-
-Felipe Orlando, engenheiro civil de 42 anos, possui mais de 10 anos de experiência no mercado de ações. Ao longo da trajetória, desenvolveu domínio de conceitos técnicos como volatilidade, dividend yield e valuation. Seu objetivo prático é converter previsões em decisões rápidas; por isso, considera essenciais os gráficos de previsão com horizonte de 24 meses e um caminho de recomendação coerente ao seu perfil agressivo [1].
-
-O cenário ocorre em seu cotidiano de investidor ativo, que dedica tempo diário à análise de relatórios e ao acompanhamento do mercado [2]. Nesse ambiente, a plataforma surge como complemento às ferramentas que já utiliza, mas precisa responder à expectativa de um usuário com alto nível de conhecimento; limitações de clareza metodológica ou de flexibilidade são percebidas rapidamente [3].
-
-Ao utilizar a plataforma, Felipe segue a sequência já mapeada no refinamento: cria sua conta, responde ao questionário de suitability e é classificado como investidor agressivo. **Imediatamente após a classificação, o sistema o direciona para a aba Simulação de Ações**, onde ele executa a simulação para o seu perfil [4]. **Nessa etapa não há gráficos: a tela exibe somente as ações recomendadas para Felipe** com base no modelo e **mostra, para cada papel, a estimativa de crescimento projetada para 6, 12 ou 24 meses (conforme a opção escolhida), além do resultado estimado do portfólio para o horizonte selecionado.O objetivo aqui é dar uma resposta direta sobre “o que comprar” e “quanto tende a subir” segundo a predição, sem exigir ajustes avançados** [4][5].
-
-Depois de verificar a lista recomendada e o ganho estimado, **Felipe clica no botão Menu e acessa Gráficos de Previsões. Nessa área, ele analisa, gráfico a gráfico, as previsões de 24 meses das ações sugeridas, para entender melhor os motivos da escolha da IA e visualizar o andamento projetado de cada papel segundo o modelo. Essa navegação complementa a etapa de simulação: primeiro ele vê as recomendações e os percentuais de alta; na sequência, aprofunda-se nos gráficos para validar a coerência das projeções com sua leitura de mercado e decidir com mais segurança** [6].
-
-Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação objetiva → lista de ações recomendadas com estimativa de crescimento (6/12/24m) → análise visual nos gráficos de previsão**, mantendo a simplicidade operacional e a clareza de resultados que espera do sistema. Ainda reconhece espaço para evoluir em clareza metodológica e opções de personalização, conforme apontado no refinamento, mas considera que **as previsões no horizonte selecionado e a recomendação alinhada ao perfil agressivo já permitem transformar as projeções em um plano de execução prático** [7].
-
-
-**Nome do Cenário: Felipe Orlando**
-
-| tópico > subtópico (diálogo) | falas e signos |
-|---|---|
-| **Cadastrar usuário na plataforma** | **U:** Quero me cadastrar para receber recomendações alinhadas ao meu **perfil agressivo** e já simular posições. |
-| > **informar dados do usuário** | **D:** Informe **nome, CPF, data de nascimento, telefone (celular e residencial), e-mail, senha** e aceite a **política de privacidade** e **termos de uso**. <br> **U:** Preencho meus dados. <br> **D:** *Verificando informações…* **Cadastro concluído.** Redirecionando para **login**. |
-| **Login do usuário na plataforma** | **U:** Vou fazer **login** para seguir com a simulação conforme meu perfil de investimento. |
-| > **informar dados cadastrados do usuário** | **D:** Qual é o **e-mail** e a **senha** cadastrados? <br> **U:** Informo minhas credenciais. <br> **D:** *Validando…* **Login realizado.** Redirecionando para o **questionário de suitability**. |
-| **Responder questionário de suitability** | **U:** Quero responder o **questionário** para configurar as recomendações ao meu perfil agressivo. |
-| > **responder perguntas com base no seu perfil** | **D:** São **10 perguntas**; algumas aceitam **múltiplas respostas**. No final, clique em **Enviar**. <br> **U:** Respondo de acordo com minha experiência, aceitando **alta volatilidade**, **maior risco** visando **ganho mais rápido** e mostrando meu conhecimento com investimentos. <br> **D:** *Processando…* **Perfil identificado: Agressivo.** Redirecionando para **Simulação de Ações**. |
-
-| tópico > subtópico (diálogo) | falas e signos |
-|---|---|
-| **Simular Investimento** | **U:** Quero simular um investimento com base no meu **orçamento disponível**, escolhendo **6 meses** porque busco **ganhos mais rápidos**. |
-| > **informar o orçamento disponível** | **D:** Informe o **valor total** disponível para investir. <br> **U:** **R$ 10.000,00**. |
-| > **selecionar ações e distribuir orçamento** | **D:** Selecione **ao menos 3 ações** e **distribua o orçamento**. Clique em **Simular Portfólio**. <br> **U:** **ABEV3 R$ 3.000,00**, **ITUB4 R$ 3.000,00**, **ELET3 R$ 4.000,00**. <br> D: Concluído o preenchimento, escolha o período (6/12/24 meses) e clique em Simular Investimento. <br> U: Defino o período de 6 meses para a simulação. |
-| > **resultado** | **D:** *Simulação concluída (6 meses).* <br> **Resultado Histórico (6m):** **R$ 1.637,89** — **ABEV3** **R$ -159,55**, **ITUB4** **R$ +869,50**, **ELET3** **R$ +927,95**. <br> **Recomendação da IA (6m):** **Lucro total estimado: R$ 3.109,70** — **SBSP3 (R$ 5.000,00)** **R$ +1.776,23**; **ITUB4 (R$ 3.000,00)** **R$ +869,50**; **ELET3 (R$ 2.000,00)** **R$ +463,97**. |
-
-| tópico > subtópico (diálogo) | falas e signos |
-|---|---|
-| **Acessar Previsões** | **U:** Quero ver os **gráficos de previsão** para entender o porquê das recomendações. |
-| > **abrir menu** | **D:** Toque em **Menu** para acessar as seções da plataforma. <br> **U:** Abro o **Menu**. |
-| > **ir para “Previsões”** | **D:** Selecione **Previsões** para visualizar os **gráficos dos próximos 24 meses**. <br> **U:** Clico em **Previsões**. |
-| > **escolher ação para visualizar** | **D:** Escolha uma ação da lista para abrir o respectivo **gráfico de previsão (24m)**. <br> **U:** Examino as ações indicadas pela IA para validar as recomendações. |
-
-
-**Esquema Conceitual Geral de Signos**
-
-| signo | origem | observações | tipo de conteúdo | restrições sobre o conteúdo | valor default | prevenção |
-|---|---|---|---|---|---|---|
-| Cadastrar na Plataforma | sistema | Tela de cadastro das informações do usuário. | interação de usuário (formulário) | Disponível só para não autenticados. **E-mail** e **CPF** devem ser válidos/únicos; aceite dos **Termos** e **Política** é obrigatório. | Campos vazios; obrigatórios marcados com * | **PP:** Máscara e validação de CPF/e-mail; **PA:** Botão “Cadastrar” desabilitado até todos obrigatórios + aceite. |
-| Login na Plataforma | sistema | Acesso com e-mail e senha cadastrados. | interação de usuário (formulário) | Requer conta criada; | Campos vazios | **PP:** Mensagem de erro clara em caso de credencial inválida; manter campos preenchidos para correção. |
-| Política de Privacidade e Termos de Uso | sistema | Caixa de seleção para aceite; links abrem os textos completos e retornam ao cadastro. | interação de usuário (caixa de seleção) | Aceite obrigatório para concluir cadastro. | Caixa desmarcada | **PA:** Botão “Cadastrar” só habilita após marcar a caixa. |
-| Perfil de Investidor / Questionário (Suitability) | sistema/usuário | 10 perguntas (algumas múltipla escolha) para classificar o perfil. | interação de usuário (questionário) | Envio apenas com todas as questões respondidas. | Campos de resposta vazios | **PA:** Botão “Enviar” desabilitado até 100% de progresso; **PP:** instruções curtas por questão. |
-| Simular Investimento | sistema | Na tela de simulação, o usuário informa **orçamento** e seleciona **≥ 3 ações**, distribuindo os valores; escolhe **6/12/24 meses**. | interação de usuário (formulário de seleção) | Somatório por ação **= orçamento**; mínimo **3 ações**; valores numéricos válidos; horizonte selecionado (6/12/24m). | Orçamento vazio; sem ações; horizonte não selecionado | **PA:** Botão “Simular Portfólio” desabilitado até cumprir regras. **PP:** Máscara de moeda; mensagem em vermelho se < 3 ações ou soma ≠ orçamento. |
-| Recomendação de Carteiras de Investimento (IA) | sistema | Após simulação válida, o sistema mostra **somente as ações recomendadas** para o **horizonte escolhido (6/12/24m)** com a **estimativa de crescimento** por ação e o **lucro total estimado** do portfólio. | comportamento do sistema (resumo) | Exibida somente se a simulação tiver ≥ 3 ações válidas no horizonte selecionado. | Nenhuma recomendação disponível | **PA:** Não gera recomendação sem cumprir regras da simulação; **PP:** textos objetivos (+/− em verde/vermelho). |
-| Previsões (Gráficos 24 meses) | sistema | Acesso via **Menu → Previsões**. Exibe **gráfico a gráfico (24m)** das **ações recomendadas** para entender o racional da IA. | visualização de dados (gráfico) | - | Lista vazia de gráficos | - |
-
-
-# ------ Pedro ------
-
-# Cenário de Interação – Pedro
-
-Pedro começou a investir no ano passado utilizando o software InvestMind, buscando organizar suas aplicações e receber recomendações de carteiras alinhadas ao seu estilo de investimento [1]. Ao descobrir a plataforma, em um contexto de interesse crescente por investimentos em ações e influência de amigos que já utilizavam ferramentas digitais para investir, ele decidiu criar uma conta e experimentar o sistema [2]. Assim como no cenário problema, ele criou sua conta, fez login, respondeu ao questionário de Suitability e foi classificado como investidor agressivo, o que naquele momento fazia sentido para seu comportamento. A partir desse cadastro inicial, o sistema passou a exibir, no topo da tela de simulação, o texto “Perfil de Investidor Identificado: Agressivo” e o card explicativo do perfil, deixando claro o tipo de recomendação que seria gerada para ele [3].
-
-Antes de investir novamente, já após um ano de uso, Pedro agora tem metas diferentes: ele deseja reduzir a exposição à volatilidade, priorizar ações mais estáveis e preservar o capital, ainda que com retornos potencialmente menores [4]. **Ao acessar novamente a InvestMind, Pedro identifica que já se passaram mais de seis meses desde a última avaliação de perfil e decide refazer o questionário de Suitability. Dessa forma, antes mesmo de seguir para novas recomendações, Pedro percebe que o perfil utilizado até então pode não refletir mais sua realidade atual [6].**
-
-**Ao clicar em “Refazer Teste”, Pedro realiza uma sequência de ações na interface: é direcionado para a tela do questionário de Suitability, responde novamente às 10 perguntas sobre seu conhecimento, objetivos e tolerância a risco e, por fim, clica em “Enviar questionário” [5]. O sistema processa as respostas e exibe a mensagem: “Novo perfil identificado: Conservador”, seguida de uma breve descrição do que isso significa em termos de risco e volatilidade. Em seguida, a plataforma o redireciona automaticamente para a tela de simulação de investimentos, agora com o cabeçalho atualizado para “Perfil de Investidor Identificado: Conservador” e com o card de perfil conservador em destaque, reforçando visualmente a mudança [3][6].**
-
-**Na área de simulação, Pedro informa seu orçamento, escolhe o horizonte de tempo de 2 anos e seleciona as ações para testar. A partir da nova configuração, o sistema passa a apresentar nas Recomendações da IA, apenas ativos compatíveis com o perfil conservador, priorizando ações menos voláteis e mais estáveis, permitindo que ele ajuste a carteira de acordo com o seu novo perfil de investidor antes de tomar a decisão final [4][5].**
-
-**Ao final do fluxo, Pedro consegue montar uma carteira alinhada ao seu novo perfil, com recomendações coerentes com sua postura mais cautelosa. O sistema, ao tornar o perfil sempre visível na tela principal evita que Pedro continue investindo como se ainda fosse agressivo. Em sua avaliação, a InvestMind passa a ser vista como uma ferramenta mais segura e confiável, pois demonstra preocupação em se adaptar às mudanças de comportamento do investidor e em prevenir recomendações inadequadas [7]. Dessa forma, a interação corrige diretamente as falhas levantadas no cenário problema, relacionadas à falta de feedback e de mecanismos de prevenção de erro entre humano e sistema.**
-
-**Nome do Cenário: Pedro**
-
-| tópico > subtópico (diálogo) | falas e signos |
-| :---- | :---- |
-| Login do usuário na plataforma | U: Quero realizar o login na plataforma InvestMind para revisar meus investimentos. <br> D: Exibe a tela de login com campos para e-mail e senha, botão **Entrar** e link **Esqueci minha senha**. |
-| > informar dados cadastrados do usuário | D: Qual é o e-mail e a senha cadastrados anteriormente? <br> U: Informo minhas credenciais. <br> D: **Validando... Login realizado com sucesso.** Redirecionando para a tela de simulação de investimentos. |
-| Acesso ao menu | U: Quero verificar se o meu perfil de investidor ainda faz sentido para mim. <br> D: Exibe, no canto superior direito, o ícone/botão **Menu**. |
-| > abrir menu | U: Clico no botão **Menu**. <br> D: Abre um painel lateral com as opções **Refazer Teste**, **Previsões**, **Histórico** e **Sair**. |
-| > selecionar "Refazer Teste" | U: Clico na opção **Refazer Teste** para atualizar meu perfil de investidor. <br> D: Fecha o menu e redireciona para a tela do **Questionário de Suitability**. |
-| Responder questionário de suitability | U: Quero responder novamente ao questionário para que as recomendações acompanhem meu comportamento atual, mais conservador. <br> D: Exibe o título **Questionário de Suitability**, um breve texto explicativo e a barra de progresso das 10 perguntas. |
-| > responder perguntas com base no novo perfil | D: São 10 perguntas; algumas aceitam múltiplas respostas. No final, clique em **Enviar questionário**. <br> U: Respondo às perguntas de acordo com meu novo objetivo de reduzir riscos, escolhendo alternativas mais conservadoras. <br> D: **Verificando respostas...** |
-| > envio e confirmação do novo perfil | U: Clico no botão **Enviar questionário**. <br> D: **Processando... Novo perfil identificado: Conservador.** Exibe um card com a descrição do perfil conservador e o botão **Ir para Simulação de Ações**. |
-| Retornar à simulação com perfil atualizado | U: Clico em **Ir para Simulação de Ações** para ver as novas recomendações com base no meu perfil conservador. <br> D: Redireciona para a tela de simulação, atualiza o cabeçalho para **Perfil de Investidor Identificado: Conservador** e passa a gerar recomendações compatíveis com esse perfil. |
-
-| tópico > subtópico (diálogo) | falas e signos |
-| :---- | :---- |
-| Simular Investimento | **U:** Quero montar uma simulação usando meu **orçamento total**, escolhendo o horizonte de **2 anos** para avaliar o retorno no médio prazo. |
-| > informar o orçamento disponível | **D:** Digite o **valor total** que você pretende investir nesta simulação. <br> **U:** Preencho com **R$ 10.000,00**. |
-| > selecionar ações e distribuir orçamento | **D:** Selecione **pelo menos 3 ações** e divida o orçamento entre elas. Em seguida, clique em **Simular Portfólio**. <br> **U:** Escolho **ELET3 R$ 3.000,00**, **BBAS3 R$ 5.000,00** e **ITUB4 R$ 2.000,00**. <br> **D:** Após o preenchimento, o sistema confirma a soma de **R$ 10.000,00** como **Total Investido**. <br> **U:** Mantenho o período configurado em **2 anos** para a simulação. |
-| > resultado | **D:** *Simulação concluída (2 anos).* <br> **Resultado Histórico (2 anos):** R$ **2.963,37** — **ELET3**: **+ R$ 1.204,49**, **BBAS3**: **+ R$ 166,36**, **ITUB4**: **+ R$ 1.592,53**. <br> **Recomendação da IA (2 anos):** Lucro total estimado **R$ 9.163,11** — **SBSP3** (R$ 5.000,00) **+ R$ 5.971,33**; **ITUB4** (R$ 3.000,00) **+ R$ 2.388,79**; **ELET3** (R$ 2.000,00) **+ R$ 803,00**. |
 
 
 <!--
