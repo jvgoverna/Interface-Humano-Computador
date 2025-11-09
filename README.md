@@ -1115,6 +1115,7 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | senha  | usuário | Campo obrigatório | interação de usuário | - | campo vazio | PP: Campo de senha obrigatório | RA: Destaque no campo incorreto e mensagem de erro |
 | política de privacidade  | usuário | Campo obrigatório | interação de usuário | - | Caixa de escolha desmarcada | PP: Obrigatório marcar com um check o botão das políticas | RA: Destaque no campo incorreto e mensagem de erro |
 | termos de uso da plataforma  | usuário | campo obrigatório  | interação de usuário | -  | Caixa de escolha desmarcada | PP: Obrigatório marcar com um check o botão dos termos | RA: Destaque no campo incorreto e mensagem de erro |
+| botão Cadastrar | sistema | Envia o formulário quando todos os requisitos forem atendidos; evita duplo clique com estado de carregamento. | controle de ação | Só habilita com formulário válido e aceite marcado | desabilitado | PA: desabilitado até cumprir regras; loading e bloqueio de reenvio; | RA: se e-mail/CPF já existentes, exibe aviso; mantém dados para corrigir e reenviar. |
 | login na plataforma  | sistema | Após o cadastro do usuário o sistema redireciona para a tela de login do sistema  | sistema | Cadastro efetuado com sucesso  | - | PP: O sistema válida todos os campos preenchidos e redireciona para a tela de login | RA: Caso ocorra alguma informação incorreta o sistema retorna mensagens de erro e deixa o usuário realizar a mudança |
 <!--
 | Credenciais (C) \- credenciais para Cadastrar usuário na plataforma  | | | | | | | |
@@ -1132,16 +1133,16 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 | **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
 | e-mail | usuário | Campo obrigatório e único, deve ser cadastrado anteriomente | interação de usuário | o e-mail deve ser único e cadastrado anteriormente | campo vazio  | PP: Campo do e=mail obrigatório, único e válido  | RA: Destaque no campo incorreto e mensagem de erro|
 | senha | usuário | Campo obrigatório e único, deve ser cadastrado anteriomente | interação de usuário | a senha deve ter sido cadastrada anteriormente | campo vazio | PP: Campo de senha obrigatório, cadastrado anteriormente e com nmáscara de caracteres  | RA: Destaque no campo incorreto e mensagem de erro  |
+| botão Entrar | sistema | Realiza a autenticação quando os campos estão válidos. | controle de ação | Só habilita com e-mail válido e senha preenchida. | desabilitado | PA: desabilitado até cumprir requisitos; feedback do que falta. | RA: em falha do backend, mostrar aviso e permitir tentar novamente. |
 | questionário | usuário | Após a efetuação do login no sistema, ele verifica se o questionário já foi preenchido anteriormente se sim redireciona para a tela de simulação de investimento, caso ao contrário para a tela de questionário de suitabilty | interação de usuário | Ter realizado o login no sistema  | respostas vazias | PA: Bloqueio do botão de enviar questionário até o preenchimento de todas as questões | - |
 
 4c) **Esquema conceitual de signos: Responder questionário de suitability**
-| Credenciais (C) \- credenciais para Responder questionário de suitability  | | | | | | | |
-| :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
-| **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
-| simular investimento | sistema | Após responder todas as questões do questionário, o sistema redireciona para a tela de simulação de investimento | sistema | Ter realizado o questionário de suitability anteriomente | - | - | - |
-| perfil de investimento | sistema | Após o preenchimento de todas as questões do questionário, o sistema informará qual é o perfil de investimento do usuário | sistema | Ter realizado o questionário | perfil não informado | - | - |
-| questões| sistema | 10 questões que o usuário deverá responder para ter sua identificação de perfil de investidor | ineteração do usuário (formulário) | - | Perguntas informadas | - | - |
-| respostas | usuário | - | interação do usuário | Preenchimento de todas as questões | campos vazios |  PA: Caso o usuário não tenha respondido alguma questão, o sistema bloqueia o botão de enviar questionário  | - |
+
+| signo | origem | observações | tipo de conteúdo | restrições sobre o conteúdo | valor default | prevenção | recuperação |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| questões do questionário | sistema | Conjunto de 10 perguntas sobre conhecimento, objetivo e tolerância a risco | interação do usuário (questionário) | Todas as perguntas devem ser respondidas; algumas permitem múltipla escolha | campos vazios | PP: indicar obrigatoriedade com * e/ou barra de progresso de respostas | RA: ao voltar ou em erro, manter as respostas já preenchidas, evitando recomeçar do zero |
+| campos de resposta | usuário | Seleção das alternativas de acordo com o perfil do usuário (experiência, aceitação de risco) | interação do usuário (formulário) | Nenhuma questão pode ficar em branco; respostas devem ser válidas para a pergunta | não preenchidos | PP: ao tentar enviar com itens em branco, destacar visualmente as questões faltantes | RA: manter todas as respostas que já foram marcadas e focar diretamente na questão que falta |
+| botão Enviar questionário | sistema | Envia o questionário para cálculo do perfil de investidor | controle de ação | Só habilita quando **todas** as perguntas forem respondidas. | desabilitado | PA: permanece desabilitado enquanto houver questão sem resposta. | RA: em falha de envio, exibir mensagem de erro e permitir reenviar com as mesmas respostas salvas. |
 
 
 
