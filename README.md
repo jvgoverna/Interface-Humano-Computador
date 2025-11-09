@@ -1346,28 +1346,31 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 **Protótipo Correspondente ao MOLIC**  
 **Link para o FIGMA:**
 
-### Arena: Login e Cadastro
-![Arena Logar](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Login-Captura.png)
-![Arena Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Cadastro-Captura.png)
-![Arena Politicas](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Politicas-Captura.png)
-![Arena Politicas2](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Politicas-Captura.png)
+## Página de Cadastro
+![Página de Cadastro](https://discordapp.com/channels/@me/956996682019635200/1437217001000144956)
 
-### Arena: Página Inicial
-![Arena InitialPage](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/InitialPage-Captura.png)
+## Página de Login
+![Página de Login]()
 
-### Arena: Menu
-![Arena Menu](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Menu-Captura.png)
+## Políticas
+![Políticas da Empresa]()
+![Políticas de Privacidade]()
 
-### Arena: Questionário
-![Arena Questionario1](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Questionario1.1-Captura.png)
-![Arena Questionario2](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Questionario2-Captura.png)
-![Arena Questionario3](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Questionario3-Captura.png)
+## Questionário de Suitability
+![Questionário de Suitability 01]()
+![Questionário de Suitability 02]()
+![Questionário de Suitability 03]()
 
-### Arena: Previsões
-![Arena Acuracia](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Acuracia-Captura.png)
+## Simulação de Ações
+![Simulação de Ações 01]()
+![Simulação de Ações 02]()
 
-### Arena:  Histórico
-![Arena Histórico](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Site-Captura/Hist%C3%B3rico-Captura.png)
+## Gráfico de Previsões
+![Gráfico de Previsões]()
+
+## Gráfico do Histórico
+![Gráfico do Histórico]()
+
 
 
 # **Entrega 12 (data) \[em andamento/concluído\]**
