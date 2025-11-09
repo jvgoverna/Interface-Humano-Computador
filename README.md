@@ -1207,6 +1207,7 @@ Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação
 
 
 **Nome do Cenário: Felipe Orlando**
+
 | tópico > subtópico (diálogo) | falas e signos |
 |---|---|
 | **Cadastrar usuário na plataforma** | **U:** Quero me cadastrar para receber recomendações alinhadas ao meu **perfil agressivo** e já simular posições. |
@@ -1246,15 +1247,38 @@ Ao final, Felipe avalia que o fluxo está coerente com seu perfil: **simulação
 
 # ------ Pedro ------
 
+# Cenário de Interação – Pedro
+
 Pedro começou a investir no ano passado utilizando o software InvestMind, buscando organizar suas aplicações e receber recomendações de carteiras alinhadas ao seu estilo de investimento [1]. Ao descobrir a plataforma, em um contexto de interesse crescente por investimentos em ações e influência de amigos que já utilizavam ferramentas digitais para investir, ele decidiu criar uma conta e experimentar o sistema [2]. Assim como no cenário problema, ele criou sua conta, fez login, respondeu ao questionário de Suitability e foi classificado como investidor agressivo, o que naquele momento fazia sentido para seu comportamento. A partir desse cadastro inicial, o sistema passou a exibir, no topo da tela de simulação, o texto “Perfil de Investidor Identificado: Agressivo” e o card explicativo do perfil, deixando claro o tipo de recomendação que seria gerada para ele [3].
 
-Antes de investir novamente, já após um ano de uso, Pedro agora tem metas diferentes: ele deseja reduzir a exposição à volatilidade, priorizar ações mais estáveis e preservar o capital, ainda que com retornos potencialmente menores [4]. **Ao acessar novamente a InvestMind, Pedro identifica que já se passaram mais de seis meses desde a última avaliação de perfil e decide refazer o questionário de Suitability. Dessa forma, antes mesmo de seguir para novas recomendações, Pedro recebe um feedback claro de que o perfil utilizado até então pode não refletir mais sua realidade atual [6].**
+Antes de investir novamente, já após um ano de uso, Pedro agora tem metas diferentes: ele deseja reduzir a exposição à volatilidade, priorizar ações mais estáveis e preservar o capital, ainda que com retornos potencialmente menores [4]. **Ao acessar novamente a InvestMind, Pedro identifica que já se passaram mais de seis meses desde a última avaliação de perfil e decide refazer o questionário de Suitability. Dessa forma, antes mesmo de seguir para novas recomendações, Pedro percebe que o perfil utilizado até então pode não refletir mais sua realidade atual [6].**
 
 **Ao clicar em “Refazer Teste”, Pedro realiza uma sequência de ações na interface: é direcionado para a tela do questionário de Suitability, responde novamente às 10 perguntas sobre seu conhecimento, objetivos e tolerância a risco e, por fim, clica em “Enviar questionário” [5]. O sistema processa as respostas e exibe a mensagem: “Novo perfil identificado: Conservador”, seguida de uma breve descrição do que isso significa em termos de risco e volatilidade. Em seguida, a plataforma o redireciona automaticamente para a tela de simulação de investimentos, agora com o cabeçalho atualizado para “Perfil de Investidor Identificado: Conservador” e com o card de perfil conservador em destaque, reforçando visualmente a mudança [3][6].**
 
-**Na área de simulação, Pedro informa seu orçamento, escolhe o horizonte de tempo e seleciona as ações para testar. A partir da nova configuração, o sistema passa a apresentar, na seção de Resultado Histórico e, principalmente, em Recomendação da IA, apenas ativos compatíveis com o perfil conservador, priorizando ações menos voláteis e mais estáveis. Caso ele tente montar uma simulação com muitos papéis de alta volatilidade, uma mensagem de alerta aparece ao lado das recomendações: “Algumas ações escolhidas possuem risco acima do recomendado para o seu perfil conservador”, permitindo que ele ajuste a carteira antes de tomar a decisão final [4][5].**
+**Na área de simulação, Pedro informa seu orçamento, escolhe o horizonte de tempo de 2 anos e seleciona as ações para testar. A partir da nova configuração, o sistema passa a apresentar nas Recomendações da IA, apenas ativos compatíveis com o perfil conservador, priorizando ações menos voláteis e mais estáveis, permitindo que ele ajuste a carteira de acordo com o seu novo perfil de investidor antes de tomar a decisão final [4][5].**
 
-**Ao final do fluxo, Pedro consegue montar uma carteira alinhada ao seu novo perfil, com recomendações coerentes com sua postura mais cautelosa. O sistema, ao tornar o perfil sempre visível na tela principal e ao solicitar automaticamente a reavaliação após um período de uso, evita que Pedro continue investindo como se ainda fosse agressivo. Em sua avaliação, a InvestMind passa a ser vista como uma ferramenta mais segura e confiável, pois demonstra preocupação em se adaptar às mudanças de comportamento do investidor e em prevenir recomendações inadequadas [7]. Dessa forma, a interação corrige diretamente as falhas levantadas no cenário problema, relacionadas à falta de feedback e de mecanismos de prevenção de erro entre humano e sistema.**
+**Ao final do fluxo, Pedro consegue montar uma carteira alinhada ao seu novo perfil, com recomendações coerentes com sua postura mais cautelosa. O sistema, ao tornar o perfil sempre visível na tela principal evita que Pedro continue investindo como se ainda fosse agressivo. Em sua avaliação, a InvestMind passa a ser vista como uma ferramenta mais segura e confiável, pois demonstra preocupação em se adaptar às mudanças de comportamento do investidor e em prevenir recomendações inadequadas [7]. Dessa forma, a interação corrige diretamente as falhas levantadas no cenário problema, relacionadas à falta de feedback e de mecanismos de prevenção de erro entre humano e sistema.**
+
+**Nome do Cenário: Pedro**
+
+| tópico > subtópico (diálogo) | falas e signos |
+| :---- | :---- |
+| Login do usuário na plataforma | U: Quero realizar o login na plataforma InvestMind para revisar meus investimentos. <br> D: Exibe a tela de login com campos para e-mail e senha, botão **Entrar** e link **Esqueci minha senha**. |
+| > informar dados cadastrados do usuário | D: Qual é o e-mail e a senha cadastrados anteriormente? <br> U: Informo minhas credenciais. <br> D: **Validando... Login realizado com sucesso.** Redirecionando para a tela de simulação de investimentos. |
+| Acesso ao menu | U: Quero verificar se o meu perfil de investidor ainda faz sentido para mim. <br> D: Exibe, no canto superior direito, o ícone/botão **Menu**. |
+| > abrir menu | U: Clico no botão **Menu**. <br> D: Abre um painel lateral com as opções **Refazer Teste**, **Previsões**, **Histórico** e **Sair**. |
+| > selecionar "Refazer Teste" | U: Clico na opção **Refazer Teste** para atualizar meu perfil de investidor. <br> D: Fecha o menu e redireciona para a tela do **Questionário de Suitability**. |
+| Responder questionário de suitability | U: Quero responder novamente ao questionário para que as recomendações acompanhem meu comportamento atual, mais conservador. <br> D: Exibe o título **Questionário de Suitability**, um breve texto explicativo e a barra de progresso das 10 perguntas. |
+| > responder perguntas com base no novo perfil | D: São 10 perguntas; algumas aceitam múltiplas respostas. No final, clique em **Enviar questionário**. <br> U: Respondo às perguntas de acordo com meu novo objetivo de reduzir riscos, escolhendo alternativas mais conservadoras. <br> D: **Verificando respostas...** |
+| > envio e confirmação do novo perfil | U: Clico no botão **Enviar questionário**. <br> D: **Processando... Novo perfil identificado: Conservador.** Exibe um card com a descrição do perfil conservador e o botão **Ir para Simulação de Ações**. |
+| Retornar à simulação com perfil atualizado | U: Clico em **Ir para Simulação de Ações** para ver as novas recomendações com base no meu perfil conservador. <br> D: Redireciona para a tela de simulação, atualiza o cabeçalho para **Perfil de Investidor Identificado: Conservador** e passa a gerar recomendações compatíveis com esse perfil. |
+
+| tópico > subtópico (diálogo) | falas e signos |
+| :---- | :---- |
+| Simular Investimento | **U:** Quero montar uma simulação usando meu **orçamento total**, escolhendo o horizonte de **2 anos** para avaliar o retorno no médio prazo. |
+| > informar o orçamento disponível | **D:** Digite o **valor total** que você pretende investir nesta simulação. <br> **U:** Preencho com **R$ 10.000,00**. |
+| > selecionar ações e distribuir orçamento | **D:** Selecione **pelo menos 3 ações** e divida o orçamento entre elas. Em seguida, clique em **Simular Portfólio**. <br> **U:** Escolho **ELET3 R$ 3.000,00**, **BBAS3 R$ 5.000,00** e **ITUB4 R$ 2.000,00**. <br> **D:** Após o preenchimento, o sistema confirma a soma de **R$ 10.000,00** como **Total Investido**. <br> **U:** Mantenho o período configurado em **2 anos** para a simulação. |
+| > resultado | **D:** *Simulação concluída (2 anos).* <br> **Resultado Histórico (2 anos):** R$ **2.963,37** — **ELET3**: **+ R$ 1.204,49**, **BBAS3**: **+ R$ 166,36**, **ITUB4**: **+ R$ 1.592,53**. <br> **Recomendação da IA (2 anos):** Lucro total estimado **R$ 9.163,11** — **SBSP3** (R$ 5.000,00) **+ R$ 5.971,33**; **ITUB4** (R$ 3.000,00) **+ R$ 2.388,79**; **ELET3** (R$ 2.000,00) **+ R$ 803,00**. |
 
 
 <!--
