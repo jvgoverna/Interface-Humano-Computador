@@ -1157,28 +1157,21 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 -->
 4d) **Esquema conceitual de signos: Simular Investimento**
 
-| Credenciais (C) \- credenciais para Simular Investimento  | | | | | | | |
-| :----     | :----      | :----           | :----                | :----                           | :----              | :----        | :----           |
-| **signo**  | **origem** | **observações** | **tipo de conteúdo** | **restrições sobre o conteúdo** | **valor default** | **prevenção** | **recuperação** |
-| orçamento   |  |  |  |  |  |  |  |
-| menu    |  |  |  |  |  |  |  |
-| ação     |  |  |  |  |  |  |  |
-| período de 7 anos   |  |  |  |  |  |  |  |
-| valor    |  |  |  |  |  |  |  |
-| R$ 10.000,00   |  |  |  |  |  |  |  |
-| R$ 2000,00   |  |  |  |  |  |  |  |
-| SBSP3   |  |  |  |  |  |  |  |
-| R$ 3000,00   |  |  |  |  |  |  |  |
-| ITUB4   |  |  |  |  |  |  |  |
-| R$ 5000,00   |  |  |  |  |  |  |  |
-| ELET3   |  |  |  |  |  |  |  |
-| orçamento   |  |  |  |  |  |  |  |
-| simular investimento    |  |  |  |  |  |  |  |
-| prejuízo na ação   |  |  |  |  |  |  |  |
-| R$20,00  |  |  |  |  |  |  |  |
-| R$ 14,00   |  |  |  |  |  |  |  |
-| lucro total de R$ 200,00   |  |  |  |  |  |  |  |
-| recomendação da IA  |  |  |  |  |  |  |  |
+| signo | origem | observações | tipo de conteúdo | restrições sobre o conteúdo | valor default | prevenção | recuperação |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| perfil de investidor identificado | sistema | Texto no topo da tela: “Perfil de Investidor Identificado: Agressivo”, indicando o perfil atual usado na simulação | comportamento do sistema (feedback) | Exibido somente para usuário autenticado e com questionário de suitability concluído | não exibido antes do login/suitability | PP: evita que o usuário esqueça qual perfil está sendo usado na recomendação | RA: caso o usuário discorde do perfil, pode acessar “Refazer teste” pelo menu para recalibrar |
+| card “Perfil Agressivo” | sistema | Card lateral com descrição do perfil agressivo (“Foca na alta rentabilidade…”), reforçando o contexto de risco | texto explicativo / apoio | Deve corresponder exatamente ao perfil identificado; texto estático por perfil | card correspondente ao perfil do usuário | PP: ajuda a alinhar expectativa de risco/retorno com o tipo de recomendação exibida | RA: ao refazer o suitability, o card é atualizado automaticamente para o novo perfil |
+| orçamento (campo “Seu Orçamento (R$)”) | sistema | Campo para informar o valor total disponível para investir na simulação | interação de usuário (formulário) | Valor deve ser numérico e maior que zero | vazio | PP: máscara de moeda; validação imediata; não aceitar letras ou valores negativos | RA: mensagem de erro mantendo o valor digitado para correção |
+| total investido | sistema | Texto “Total Investido: R$ …” que mostra a soma dos valores digitados em cada ação | feedback do sistema | Deve sempre refletir a soma dos campos “Seu Valor a investir (R$)” e nunca ultrapassar o orçamento | R$ 0,00 | PP: atualização automática a cada edição; alerta visual se soma for maior que o orçamento | RA: ao ajustar os valores por ação, o total é recalculado e o alerta some |
+| ações para simular (seleção + valor) | sistema | Conjunto de cartões “Ações para simular”, cada um com um seletor de ação (ticker) e o campo “Seu Valor a investir (R$)” | interação de usuário (formulário) | Mínimo de 3 ações; cada valor ≥ 0; soma dos valores deve ser igual ao orçamento | lista vazia; campos em branco | PP: aviso em vermelho se houver menos de 3 ações ou se a soma ≠ orçamento; impedir entrada de valores negativos | RA: destacar apenas os campos com problema e manter os demais; permitir ajuste sem perder o preenchimento correto |
+| botão “+ Adicionar Ação” | sistema | Permite incluir novos cartões de ação para diversificar a simulação | controle de ação | Não deve ultrapassar o limite máximo de ações definido pelo sistema (se houver) | botão habilitado | PP: desabilitar o botão ao atingir o limite; instrução visual caso o limite seja alcançado | RA: permitir excluir ações desnecessárias para liberar espaço para novas |
+| horizonte (abas 6 Meses / 1 Ano / 2 Anos) | sistema | Abas que definem o período da simulação; no exemplo, Felipe escolhe 6 meses buscando ganhos mais rápidos | interação de usuário (controle de opção) | Deve existir exatamente uma aba selecionada: 6 meses, 1 ano ou 2 anos | nenhuma aba selecionada inicialmente (ou 6 meses como padrão, conforme regra do sistema) | PA: botão “Simular Portfólio” desabilitado enquanto não houver horizonte definido (se não houver padrão) | RA: ao voltar de outra tela, manter a aba selecionada anteriormente |
+| botão “Simular Portfólio” | sistema | Dispara o cálculo da simulação com base no orçamento, ações e horizonte escolhidos | controle de ação | Só habilita com orçamento válido, pelo menos 3 ações preenchidas e horizonte selecionado | desabilitado | PA: permanece desabilitado até cumprir todas as regras; tooltip pode indicar o que falta | RA: em caso de erro no backend, exibir mensagem de falha e permitir tentar novamente sem perder o preenchimento |
+| bloco “Resultado Histórico (horizonte)” | sistema | Card que apresenta o resultado histórico total do portfólio para o horizonte escolhido (ex.: “Resultado Histórico (6 Meses)” e “R$ -41,94”) | comportamento do sistema (resumo) | Exibido somente após uma simulação bem-sucedida | não exibido | PP: uso de cores para indicar ganho (verde) ou perda (vermelho), ajudando a leitura rápida | RA: caso os dados não possam ser carregados, exibir mensagem de erro e opção de recalcular |
+| linhas de resultado por ação (histórico) | sistema | Lista das ações simuladas pelo usuário com o resultado individual (ex.: ABEV3, B3SA3, BBDC4 com valores negativos) | visualização de dados (lista) | Deve listar exatamente as ações escolhidas na simulação; valores podem ser positivos ou negativos | lista vazia | PP: sinalização clara de lucro/prejuízo por cor e sinal (+ / −) | RA: após nova simulação, a lista é atualizada com os novos resultados |
+| bloco “Recomendação da IA (horizonte)” | sistema | Card que apresenta o lucro total estimado pela IA para o horizonte selecionado (ex.: “Recomendação da IA (6 Meses)” com R$ 310,97) | comportamento do sistema (resumo) | Depende de simulação válida; a recomendação é calculada com base no perfil agressivo do usuário | não exibido | PP: deixar claro no título que se trata de uma recomendação baseada em IA e no perfil do usuário | RA: se a recomendação falhar, exibir mensagem e instruir o usuário a simular novamente |
+| linhas de recomendação por ação (IA) | sistema | Lista das ações sugeridas pela IA (ex.: SBSP3, ITUB4, ELET3), com o valor recomendado e o lucro estimado por papel | visualização de dados (lista) | Deve ser coerente com o perfil do investidor e com o horizonte selecionado; valores somados não podem ultrapassar o orçamento | lista vazia | PP: manter formatação consistente (valor investido + valor estimado em verde); ordenar por maior potencial de retorno | RA: ao refazer a simulação com novos parâmetros, recalcular e atualizar a lista inteira |
+
 
 
 <!--
