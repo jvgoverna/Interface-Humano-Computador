@@ -1328,14 +1328,31 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 
 **Nome do Cenário:**  
 **Diagrama: Cadastrar na Plataforma**
-![MPLIC Cadastrar](https://media.discordapp.net/attachments/1372327706980651028/1435458536191692911/Diagrama_Molic_Cadastrar_Usuario_1.png?ex=690c0a70&is=690ab8f0&hm=1a33c11d4912b1bd4bc833e8818bb36ddc016cadf177723dde9d7792a68f7c76&=&format=webp&quality=lossless&width=694&height=930)
+![MOLIC Cadastrar](https://cdn.discordapp.com/attachments/944449520832507945/1437658683151487110/Diagrama_Molic_Cadastrar_Usuario.png?ex=69140b7c&is=6912b9fc&hm=4048cdd07dc851605bb3727cebf1b6ce5497a6fdefdbd7573e1bfe40b3bdea45&)
 
 **Diagrama: Logar na Plataforma**
-![MOLIC Logar](https://media.discordapp.net/attachments/1372327706980651028/1435459646734336050/Diagrama_Molic_Logar_na_Plataforma_2.png?ex=690c0b79&is=690ab9f9&hm=8f33603b72ac3ecefe31f36d2bde66b78f9ecafeaeccb77d47773ba0af890724&=&format=webp&quality=lossless&width=841&height=691)
 
-**Diagramna Questionário**
-![MOLIC Questionário](https://media.discordapp.net/attachments/1372327706980651028/1435458887489818674/Diagrama_Molic_Questionario_1.png?ex=690c0ac4&is=690ab944&hm=2158119842fa8c18d1bfbe6d1e8167ae88d0a4a33394cc7886a3a2d83314245a&=&format=webp&quality=lossless&width=734&height=706)
+![MOLIC Logar](https://cdn.discordapp.com/attachments/944449520832507945/1437658682560221184/Diagrama_Molic_Logar_na_Plataforma.png?ex=69140b7c&is=6912b9fc&hm=b5da6dfbbec24cc856f5440edf6f54063c7a9172ca984d43156d0bd91c144858&)
 
+**Diagrama: Questionário**
+
+![MOLIC Questionário](https://cdn.discordapp.com/attachments/944449520832507945/1437658684074496071/Diagrama_Molic_Questionario.png?ex=69140b7c&is=6912b9fc&hm=4d89a0ec051b803c7dc86f596839d80b2825a9dd163aab178386571649a830a0&)
+
+**Diagrama: Simular**
+
+![MOLIC Simular](https://cdn.discordapp.com/attachments/944449520832507945/1437658683571048488/Diagrama_MOLIC_Simular_Recomendar_Investimento.png?ex=69140b7c&is=6912b9fc&hm=5e851eac4e9d2ad5461529764b00aab10061ea8019f6cde93d79bee4bc993f8e&)
+
+**Diagrama: Refazer**
+
+![MOLIC Refazer](https://cdn.discordapp.com/attachments/944449520832507945/1437658683571048488/Diagrama_MOLIC_Simular_Recomendar_Investimento.png?ex=69140b7c&is=6912b9fc&hm=5e851eac4e9d2ad5461529764b00aab10061ea8019f6cde93d79bee4bc993f8e&)
+
+**Diagrama: Histórico**
+
+![MOLIC Historico](https://cdn.discordapp.com/attachments/944449520832507945/1437658681750716426/Diagrama_Molic_Menu__historico_.png?ex=69140b7c&is=6912b9fc&hm=86bd69a97fe88abeba33020c1fd3c7173d6eddc0fbbaf15919f80da0a3f6b76d&)
+
+**Diagrama: Previsão**
+
+![MOLIC Previsao](https://cdn.discordapp.com/attachments/944449520832507945/1437658680576311376/Diagrama_Molic_Menu_Previsao.png?ex=69140b7b&is=6912b9fb&hm=e4dc184ea727257e8840a6d5cbeb608fa1623521fb7e9c87f012d8343b9ec8fa&)
 
 # **Entrega 11 (data) \[em andamento/concluído\]**
 
