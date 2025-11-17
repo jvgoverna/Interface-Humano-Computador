@@ -1471,6 +1471,70 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 2) **INDICAÇÃO DE BOAS PRÁTICAS DE HEURÍSTICA \- HEURÍSTICAS NÃO VIOLADAS \[1 solução completa por pessoa da equipe\]**
 
+Heurísticas não violadas (Pedro):
+
+1) Visibilidade do status do sistema: Ao realizar um novo cadastro na página de cadastro, após a conclusão, há um popup no canto superior da tela, em verde, escrito "cadastro realizado com sucesso".
+
+2) Compatibilidade entre sistema e mundo real: O sistema utiliza convenções utilizadas no mercado para a classificação do perfil de investidor: "Conservador, Moderado ou Agressivo".
+
+3) Controle e liberdade para o usuário: Ao selecionar o menu, o usuário consegue abrir e fechar livremente clicando em qualquer lugar da tela overlay (fundo esmaecido), não restringindo o usuário a necessariamente precisar mudar de fluxo.
+
+4) Consistência e padrões: O cabeçalho (Header) e o menu lateral (Sidebar) são idênticos em design em todas as telas onde estão presentes.
+
+5) Prevenção de erros: Na tela de cadastro, o botão "Cadastrar" só se torna clicável quando o usuário preenche todos os campos obrigatórios, confirma a senha, aceita os termos e é maior de 18 anos.
+
+6) Reconhecimento em lugar de lembrança: O período de simulação selecionado ("6 Meses", "1 Ano", "2 Anos") é mantido visualmente ativo (com fundo azul), para que o usuário saiba qual período está sendo analisado sem ter que se lembrar de sua última seleção.
+
+7) Flexibilidade e eficiência de uso: O menu lateral funciona como um acelerador, permitindo que o usuário "pule" diretamente entre as seções principais (Home, Previsões, Histórico, Sair) sem precisar navegar de forma linear.
+
+8) Projeto minimalista e estético: As páginas de gráficos são extremamente minimalistas, contêm apenas o gráfico plotado e uma box para a escolha da ação para visualização do gráfico, que atualiza assim que clicada.
+
+9) Auxiliar os usuários a reconhecer, diagnosticar e recuperar erros: Quando o usuário excede o orçamento na simulação, a mensagem não é "Erro 502: Limite Excedido". A mensagem é "Atenção: O total excede seu orçamento!". A caixa fica vermelha e o botão é desabilitado, indicando que o usuário deve ajustar seu orçamento ou o valor destinado às ações.
+
+10) Ajuda e documentação: Os campos de entrada de valores (como "Seu Orçamento") usam placeholder (ex: "Ex: 10000") que funciona como uma mini-documentação, guiando o usuário sobre o formato de entrada esperado.
+
+Heurísticas não violadas (João):
+1) Visibilidade do status do sistema: Ao realizar uma simulação de investimento, quando é escolhida apenas uma ação, a IA mostra quanto a pessoa teria de lucro/prejuízo e informa que só realiza recomendação se a pessoa selecionar pelo menos 3 ações.
+
+2) Compatibilidade entre sistema e mundo real: O fluxo da realização da simulação segue uma ordem natural: o usuário primeiro define suas entradas (Orçamento e Ações) na coluna da esquerda e depois vê os resultados (Simulações) na coluna da direita.
+
+3) Controle e liberdade para o usuário: O usuário consegue facilmente escolher as ações na ordem que quiser, bem como seu valor de investimento, além de poder excluir ou adicionar uma nova ação para simulação.
+
+4) Consistência e padrões: O design de ambas as interfaces de gráficos, tanto para a previsão da IA quanto para o valor real, são idênticos, assim como a ordem das ações presentes no menu suspenso (dropdown). Ao clicar em alguma, o gráfico já é plotado para a respectiva ação e já é atualizada no menu suspenso a ação selecionada.
+
+5) Prevenção de erros: O sistema impede que o usuário adicione mais de 8 ações, só é possível adicionar uma entrada para cada ação e o sistema não deixa adicionar duplicatas.
+
+6) Reconhecimento em lugar de lembrança: O usuário não precisa lembrar qual é o seu perfil de investidor: na página inicial, é exibido o perfil (ex: "Moderado") e sua descrição completa.
+
+7) Flexibilidade e eficiência de uso: Um usuário experiente pode usar a ferramenta de forma avançada, montando seu próprio portfólio de até 8 ações para testar suas teses de investimento e comparar seu desempenho diretamente contra o modelo da IA.
+
+8) Projeto minimalista e estético: As caixas de resultado (Histórico e IA) e as mensagens de erro (como "Excede seu orçamento") só aparecem após a interação do usuário. A tela inicial é limpa e focada na entrada de dados.
+
+9) Auxiliar os usuários a reconhecer, diagnosticar e recuperar erros: Se a simulação falha (ex: API offline), a caixa de resultado exibe uma mensagem de erro (ex: "Erro na Simulação"), em vez de simplesmente travar a aplicação, permitindo que o usuário tente novamente.
+
+10) Ajuda e documentação: A tela de cadastro (RegisterForm) possui links diretos para as "políticas da empresa" e "políticas de privacidade", fornecendo a documentação completa antes que o usuário aceite os termos.
+
+Heurísticas não violadas (Felipe):
+1) Visibilidade do status do sistema: Ao realizar um cadastro e é informado um CPF inexistente, a interface informa em vermelho no canto superior à direita: "CPF inválido".
+
+2) Compatibilidade entre sistema e mundo real: O sistema usa cores de forma intuitiva e padronizada no mundo real: verde para lucros (prefixados com "+") e vermelho para prejuízos (prefixados com "-").
+
+3) Controle e liberdade para o usuário: O usuário não fica apenas restrito a simular uma ação para consultar os gráficos posteriormente, ele pode executar qualquer uma dessas ações na ordem que ele quiser através da interface de menu presente nas páginas, além de poder optar por deslogar da sua conta caso não queira deixar as credenciais salvas na máquina.
+
+4) Consistência e padrões: Enquanto os campos obrigatórios nos formulários (teste de perfil de investidor e cadastro) não são preenchidos, o botão de submissão sempre ficará com a cor cinza, porém, ao preencher todos os campos obrigatórios, ele fica azul.
+
+5) Prevenção de erros: No questionário de suitability, a opção "Nunca investi" é mutuamente exclusiva, impedindo o usuário de selecionar outro tipo de opção de investimento. Caso ele selecione outra opção, a "Nunca investi" é desmarcada e é marcada a última opção que o usuário selecionou, assim como funciona vice-versa.
+
+6) Reconhecimento em lugar de lembrança: Na caixa de "Resultados", o sistema exibe as ações onde o usuário decidiu investir a partir da última simulação realizada, sem que ele tenha que se lembrar de sua última seleção.
+
+7) Flexibilidade e eficiência de uso: Um usuário inexperiente não precisa montar um portfólio complexo. Ele pode simplesmente definir seu orçamento (ex: R$ 1000) e clicar em "Simular Portfólio" com 3 ações quaisquer. A "Recomendação da IA" funcionará como um atalho, fornecendo uma carteira otimizada para ele.
+
+8) Projeto minimalista e estético: A página inicial é dividida em duas colunas com propósitos claros: Ações do Usuário (esquerda) e Resultados do Sistema (direita), e não há informações irrelevantes poluindo a tela.
+
+9) Auxiliar os usuários a reconhecer, diagnosticar e recuperar erros: Se o usuário não seleciona 3 ações, a IA não falha silenciosamente. Ela exibe uma mensagem clara: "É necessário selecionar pelo menos 3 ações distintas para a recomendação da IA."
+
+10) Ajuda e documentação: Na página de cadastro, nos campos de entrada de valores, há placeholders (ex: "Ex: 10000") que funcionam como um mini-guia para o usuário.
+
 **DICA: 1 EXEMPLO DO SEU SISTEMA ONDE A HEURÍSTICA FOI ATENDIDA (ISSO NÃO É USADO NO MERCADO, SERVE APENAS PARA APRENDIZADO)**
 
 # **Entrega 14 (data) \[em andamento/concluído\]**
