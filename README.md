@@ -95,18 +95,18 @@ Nosso público-alvo são pessoas que são responsáveis legais por si mesmas e t
 
 - Plataforma digital de informações financeiras que oferece dados detalhados sobre empresas listadas na bolsa, incluindo cotações, indicadores fundamentalistas e análises de mercado. O Investidor10 organiza as informações de forma clara e acessível, permitindo ao usuário acompanhar o desempenho das ações, comparar múltiplas empresas e avaliar tendências de crescimento no curto, médio e longo prazo.
 
-![Investidor 10](https://media.discordapp.net/attachments/1372327706980651028/1431096790932783305/Investidor10_1.jpeg?ex=68fc2c3f&is=68fadabf&hm=6ac6280a1ee81ceb96f8ec74cd8dd3aa687474195cc44a5c83da4924a03ac803&=&format=webp&width=1376&height=931)
+![Investidor 10](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/AN%C3%81LISE%20DE%20CONCORR%C3%8ANCIA/Investidor10.jpeg)
 
 • **StatusInvest [https://statusinvest.com.br/]**
 
 - Plataforma digital de análise e monitoramento de ativos financeiros, que fornece indicadores e projeções sobre a tendência de crescimento das ações em diferentes horizontes temporais.
 
-![statusInvest](https://media.discordapp.net/attachments/1372327706980651028/1431096889289211914/StatusInvest.jpeg?ex=68fc2c56&is=68fadad6&hm=8cd3f6d14b2f3eb3441bc00ecc52eb09b4889504f38152adf52783b7808c4f90&=&format=webp)
+![statusInvest](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/AN%C3%81LISE%20DE%20CONCORR%C3%8ANCIA/StatusInvest.jpeg)
 
 • **Corretora Rico [https://www.rico.com.vc/]**
 - Corretora digital que fornece uma plataforma de compra e venda de ativos financeiros e acompanhamento do portfólio de ativos do usuário
 
-![Rico](https://media.discordapp.net/attachments/1372327706980651028/1431097438625857626/AppRico.jpeg?ex=68ff7899&is=68fe2719&hm=84c426552854be93aa968e2e84c9140f750486aea6fb49ddb5f582cec4e3abe0&=&format=webp&width=497&height=960)
+![Rico](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/AN%C3%81LISE%20DE%20CONCORR%C3%8ANCIA/AppRico.jpeg)
   
 
 3) **Características e funcionalidades dos concorrentes:**
