@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Página-1" id="HoxcBcyXGdIf59nxP0Mu">
+    <mxGraphModel dx="1188" dy="648" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qMIbufkjvQjfMURwqpqK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMIbufkjvQjfMURwqpqK-1" target="qMIbufkjvQjfMURwqpqK-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBBBBB;" parent="1" vertex="1">
+          <mxGeometry x="354" y="2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMIbufkjvQjfMURwqpqK-2" target="qMIbufkjvQjfMURwqpqK-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-8" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(27, 29, 30);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Question%C3%A1rio%20Suitability%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Brounded%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22311.5%22%20y%3D%22152%22%20width%3D%22205%22%20height%3D%2276%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22d%2Bu%3A%20responder%20question%C3%A1rio%20suitability%3A%26lt%3Bdiv%26gt%3Bquestion%C3%A1rio%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%221%22%20y%3D%2224%22%20width%3D%22204%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3Ed&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMIbufkjvQjfMURwqpqK-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.1544" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-9" value="d: Carrega tela de escolher previsão do modelo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMIbufkjvQjfMURwqpqK-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.2744" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="qMIbufkjvQjfMURwqpqK-2" target="qMIbufkjvQjfMURwqpqK-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="547" y="149" />
+              <mxPoint x="547" y="32" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-11" value="d: erro ao carregar&lt;div&gt;tela&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMIbufkjvQjfMURwqpqK-10" vertex="1" connectable="0">
+          <mxGeometry x="0.1732" y="2" relative="1" as="geometry">
+            <mxPoint x="4" y="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="395" y="130" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-4" value="u: Visualizar previsão&lt;div&gt;gco: Visualizar previsão do algoritmo&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="413" y="93" as="geometry" />
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-5" value="Escolher Previsão" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="311.5" y="214" width="205" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-6" value="u: escolhe uma ação para visualizar seu comportamento previsto:&lt;div&gt;ações&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="qMIbufkjvQjfMURwqpqK-5" vertex="1">
+          <mxGeometry x="1" y="24" width="204" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="qMIbufkjvQjfMURwqpqK-18" target="qMIbufkjvQjfMURwqpqK-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="597" y="366" />
+              <mxPoint x="597" y="263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-23" value="d: erro ao retornar previsão" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMIbufkjvQjfMURwqpqK-22" vertex="1" connectable="0">
+          <mxGeometry x="0.2362" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qMIbufkjvQjfMURwqpqK-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.5" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-32" value="d: carrega resultado da previsão" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMIbufkjvQjfMURwqpqK-31" vertex="1" connectable="0">
+          <mxGeometry x="-0.2199" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="395.5" y="345" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMIbufkjvQjfMURwqpqK-6" target="qMIbufkjvQjfMURwqpqK-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-21" value="u: visualizar resultado da previsão" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMIbufkjvQjfMURwqpqK-20" vertex="1" connectable="0">
+          <mxGeometry x="0.0696" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-25" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="338" y="429" as="sourcePoint" />
+            <mxPoint x="487" y="429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-26" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="491" as="sourcePoint" />
+            <mxPoint x="466" y="429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-27" value="gcc: Visualizar previsão&amp;nbsp;&lt;div&gt;do algoritmo&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMIbufkjvQjfMURwqpqK-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.2407" y="2" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-28" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="451" y="491" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="qMIbufkjvQjfMURwqpqK-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="427" as="sourcePoint" />
+            <mxPoint x="420" y="377" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="497" />
+              <mxPoint x="247" y="497" />
+              <mxPoint x="247" y="32" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMIbufkjvQjfMURwqpqK-36" value="d: previsão&lt;div&gt;carregada com sucesso&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMIbufkjvQjfMURwqpqK-34" vertex="1" connectable="0">
+          <mxGeometry x="-0.0336" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
