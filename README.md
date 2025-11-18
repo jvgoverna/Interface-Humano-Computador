@@ -772,17 +772,17 @@ GOAL 0: Cadastrar usuáro na plataforma
 ## Primeira Parte da Prototipação em Papel
 Essa primeira parte apresenta as primeiras 4 telas que podem ser vistas no site antes do usuário efetuar o seu login, sendo elas, pela ordem da numeração: Página de Login, Página de Cadastro, Página de Políticas da Empresa e Página de Política de Privacidade.
 
-![Prototipação em Papel 1](https://media.discordapp.net/attachments/1372327706980651028/1433272937741291590/image.png?ex=690416f1&is=6902c571&hm=c1a51169faf66f49bb2c42b26329653620b4e52fe0f58b9a07f1cf8c986f67be&=&format=webp&quality=lossless)
+![Prototipação em Papel 1](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PROT%C3%93TIPOS/Prot%C3%B3tipo%201.png)
 
 ## Segunda Parte da Prototipação em Papel
 Essa segunda parte mostra as 4 últimas telas que podem ser vistas após o usuário efetuar o seu login dentro do site, sendo elas, pela ordem da numeração: Página de Perfil de Investidor, Página de Simulação de Investimentos, Página de Gráficos das Ações, Página do Questionário de Suitability.
 
-![Prototipação em Papel 2](https://media.discordapp.net/attachments/1372327706980651028/1433273202934677614/image.png?ex=69041730&is=6902c5b0&hm=3c3ed4c38740177f1e09a2e9d9d64f488d8ad6ce033cdcb31a6d95a50c1502d8&=&format=webp&quality=lossless)
+![Prototipação em Papel 2](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PROT%C3%93TIPOS/Prot%C3%B3tipo%202.png)
 
 ## Fluxograma da Prototipação em Papel
 As setas do fluxograma mostram para onde cada página pode levar a depender da escolha do usuário. Uma legenda de cada página é mostrada à esquerda da imagem. É bom ressaltar que após realizar o cadastro, o usuário já é redirecioando para a Página do Questionário de Suitability, não sendo necessário realizar o login.
 
-![Prototipação em Papel Fluxograma](https://media.discordapp.net/attachments/1372327706980651028/1433273361357734030/image.png?ex=69041756&is=6902c5d6&hm=d6d2acbd372712380dcc4a7129989310370723da6bbdb1747bac1809e91672c2&=&format=webp&quality=lossless)
+![Prototipação em Papel Fluxograma](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PROT%C3%93TIPOS/Fluxo.png)
 
 ## Simulação de Teste de Usuário
 Durante o teste com a prototipação em papel, um usuário qualquer conseguiu entender a proposta geral do site, mas relatou problemas na parte de cadastro, ficando confuso o acesso e o retorno nas telas de “Políticas da Empresa” e “Política de Privacidade” a partir do cadastro: os links não estavam evidentes, não ficou claro se eram obrigatórios antes de prosseguir e também não identificando para onde o botão de “voltar” levava. A sensação foi de “perder-se” nessas páginas auxiliares.
