@@ -429,7 +429,7 @@ Ao final do período planejado, [3] Pedro ficou abatido ao perceber que as açõ
 # Cadastro de Usuários na plataforma
 
 **1\) HTA**
-![HTA Cadastro](https://cdn.discordapp.com/attachments/1372327706980651028/1432066886979420210/HTA_Att.png?ex=68ffb3b8&is=68fe6238&hm=91f44a750c6c5561831dd5d862fca4306447a8616a830a57fe4e86981b923e29&)
+![HTA Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA/HTA%20Cadastro.png)
 
 
 | Objetivos/Operações | Problemas e Recomendações | 
@@ -515,14 +515,14 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **3\) CTT**
 
-![CTT Cadastro](https://media.discordapp.net/attachments/1372327706980651028/1432067281780867082/CTT_ATT.png?ex=6903a896&is=69025716&hm=39caaae99be2c35090707d20ff9d8e1b5b3e9c480b1043904a70a4d8c19c68d4&=&format=webp&quality=lossless&width=1872&height=663)
+![CTT Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT/CTT%20Cadastro.png)
 # 
 
 # Login de Usuários na plataforma
 
 **1\) HTA**
 
-![HTA Login](https://cdn.discordapp.com/attachments/1372327706980651028/1432067747562389614/HTA-Login.png?ex=68ffb485&is=68fe6305&hm=7da15c3012c7bd0d35f8715b7acd111a95745c5657ea609c75163e53fa5e9089&)
+![HTA Login](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA/HTA%20Login.png)
 
 | Objetivos/Operações                                          | Problemas e Recomendações                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -661,14 +661,14 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **3\) CTT**
 
-![CTT Login](https://cdn.discordapp.com/attachments/944449520832507945/1432194972320268299/CTT-LoginV2.png?ex=69002b02&is=68fed982&hm=8b32b9053ef80e695ba0f47c6aeeeafaeb595f4885eb96cca87342b74f45e565&)
+![CTT Login](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT/CTT%20Login.png)
 # 
 
 # Simulação de investimentos na plataforma
 
 **1\) HTA**
 
-![HTA InitialPage](https://cdn.discordapp.com/attachments/1372327706980651028/1432068371699990528/HTA-InitialPage.png?ex=68ffb51a&is=68fe639a&hm=cf568c0032a5e50e93cc647e65f534d0c73109f401edf7fddc56e932fc24fa5d&)
+![HTA Simulacao](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA/HTA%20Simulacao.png)
 
 | Objetivos/Operações                                   | Problemas e Recomendações                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -764,7 +764,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 		- OP.5.A.3: salvar o novo perfil e retornar à simulação com recomendações ajustadas
 **3\) CTT**
 
-![CTT InitialPage](https://media.discordapp.net/attachments/1372327706980651028/1432068705965178970/CTT-InitialPage.png?ex=6903a9ea&is=6902586a&hm=79838f9d20c7cf6e2c7a0c36e78ec603840edee620d603bd165f97e16b3af594&=&format=webp&quality=lossless)
+![CTT Simulacao](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT/CTT%20Simulacao.png)
 # 
 
 # **Entrega 6  (data) \[em andamento/concluído\]**
