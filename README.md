@@ -165,7 +165,7 @@ Atualmente, observa-se uma tendência no uso de aplicações móveis e web que o
 
 # Persona Pedro
 
-![Pedro](https://media.discordapp.net/attachments/1372327706980651028/1432066226108235967/Rosto_Pedro_Persona.png?ex=6903a79a&is=6902561a&hm=c3c4306a74818e4238dc36b05a7d65d3aa6587b50f325dd6b9180ee419f690bf&=&format=webp&quality=lossless&width=640&height=960)
+![Pedro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Rosto%20Pedro%20Persona.png)
 
 Atores: Pedro 
 
@@ -181,7 +181,7 @@ Pedro clonou o repositório, subiu a aplicação, preencheu o questionário de s
 
 # Persona Primária João Vitor
 
-![João](https://media.discordapp.net/attachments/1372327706980651028/1432066198056472606/Rosto_Joao_Persona.png?ex=6903a794&is=69025614&hm=975b3c6e6f2737c4dc86f41902cfd2829eaa4fc08273748d448eefc3aac2dc30&=&format=webp&quality=lossless&width=640&height=960)
+![João](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Rosto%20Jo%C3%A3o%20Persona.png)
 
 Atores: João Vitor - "Clareza e simplicidade no investimento"
 
@@ -195,7 +195,7 @@ Para João, o mais importante não é acessar métricas complexas ou acompanhar 
 
 # Persona Primária Felipe Orlando
 
-![Felipe](https://media.discordapp.net/attachments/1372327706980651028/1432066209838534696/Rosto_Felipe_Persona.png?ex=6903a796&is=69025616&hm=1b1d627a5f78bc9355a4e7263c45926150659a80040c64fcca9e9c7e1a3ab8a1&=&format=webp&quality=lossless&width=640&height=960)
+![Felipe](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Rosto%20Felipe%20Persona.png)
 
 Atores: Felipe Orlando - "Busca por mais conhecimento"
 
@@ -1328,31 +1328,31 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 
 **Nome do Cenário:**  
 **Diagrama: Cadastrar na Plataforma**
-![MOLIC Cadastrar](https://cdn.discordapp.com/attachments/944449520832507945/1437658683151487110/Diagrama_Molic_Cadastrar_Usuario.png?ex=69140b7c&is=6912b9fc&hm=4048cdd07dc851605bb3727cebf1b6ce5497a6fdefdbd7573e1bfe40b3bdea45&)
+![MOLIC Cadastrar](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Cadastrar%20Usu%C3%A1rio.png)
 
 **Diagrama: Logar na Plataforma**
 
-![MOLIC Logar](https://cdn.discordapp.com/attachments/944449520832507945/1437658682560221184/Diagrama_Molic_Logar_na_Plataforma.png?ex=69140b7c&is=6912b9fc&hm=b5da6dfbbec24cc856f5440edf6f54063c7a9172ca984d43156d0bd91c144858&)
+![MOLIC Logar](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Logar%20na%20Plataforma.png)
 
 **Diagrama: Questionário**
 
-![MOLIC Questionário](https://cdn.discordapp.com/attachments/944449520832507945/1437658684074496071/Diagrama_Molic_Questionario.png?ex=69140b7c&is=6912b9fc&hm=4d89a0ec051b803c7dc86f596839d80b2825a9dd163aab178386571649a830a0&)
+![MOLIC Questionário](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Question%C3%A1rio.png)
 
 **Diagrama: Simular**
 
-![MOLIC Simular](https://cdn.discordapp.com/attachments/944449520832507945/1437658683571048488/Diagrama_MOLIC_Simular_Recomendar_Investimento.png?ex=69140b7c&is=6912b9fc&hm=5e851eac4e9d2ad5461529764b00aab10061ea8019f6cde93d79bee4bc993f8e&)
+![MOLIC Simular](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20MOLIC%20Simular_Recomendar%20Investimento.png)
 
-**Diagrama: Refazer**
+**Diagrama: Menu Refazer Teste**
 
-![MOLIC Refazer](https://cdn.discordapp.com/attachments/944449520832507945/1437658683571048488/Diagrama_MOLIC_Simular_Recomendar_Investimento.png?ex=69140b7c&is=6912b9fc&hm=5e851eac4e9d2ad5461529764b00aab10061ea8019f6cde93d79bee4bc993f8e&)
+![MOLIC Refazer](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Menu_%20Refazer%20Teste.png)
 
-**Diagrama: Histórico**
+**Diagrama: Menu Histórico**
 
-![MOLIC Historico](https://cdn.discordapp.com/attachments/944449520832507945/1437658681750716426/Diagrama_Molic_Menu__historico_.png?ex=69140b7c&is=6912b9fc&hm=86bd69a97fe88abeba33020c1fd3c7173d6eddc0fbbaf15919f80da0a3f6b76d&)
+![MOLIC Historico](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Menu_%20historico.png)
 
-**Diagrama: Previsão**
+**Diagrama: Menu Previsão**
 
-![MOLIC Previsao](https://cdn.discordapp.com/attachments/944449520832507945/1437658680576311376/Diagrama_Molic_Menu_Previsao.png?ex=69140b7b&is=6912b9fb&hm=e4dc184ea727257e8840a6d5cbeb608fa1623521fb7e9c87f012d8343b9ec8fa&)
+![MOLIC Previsao](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Menu_Previsao.png)
 
 # **Entrega 11 (data) \[em andamento/concluído\]**
 
