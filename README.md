@@ -657,7 +657,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 	- **GOAL 5: Revisar/atualizar suitability (condicional)**
 		- OP.5.A.1: ao detectar incompatibilidade de risco, abrir “Revisar perfil”  
 		- OP.5.A.2: responder questionário curto de reavaliação  
-		- OP.5.A.3: salvar novo perfil e retornar à simulação com recomendações ajustadas
+		- OP.5.A.3: salvar novo perfil e retornar à simulação com recomendações ajustadas <br>
 
 **3\) CTT**
 
