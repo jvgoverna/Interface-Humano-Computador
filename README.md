@@ -1083,7 +1083,7 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
-![Mapa de Objetivos João](https://media.discordapp.net/attachments/1372327706980651028/1433273849201561661/image.png?ex=690417ca&is=6902c64a&hm=529f35ceb6a81e70c4beafad15a6b4f61f2269d7e815c10efe66212e3826bfc9&=&format=webp&quality=lossless)
+![Mapa de Objetivos João](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/mapa%20de%20objetitvos%20joao.png)
 
 4) **Esquema Conceitual Geral de Signos**
 
