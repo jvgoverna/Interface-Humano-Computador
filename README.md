@@ -1541,15 +1541,22 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 	- [ ] Médio (1–5 anos)
 	- [ ] Longo (> 5 anos)
 	- [ ] Não sei
+  
+   3) Tabela de Observação:
 
-
-   3) Tabela de Observação  
-
-
-
-
+	  Escopo das tarefas e gatilhos temporais (Start/Stop)
+      | Tarefa | Módulo | Objetivo | Start (início) | Stop (fim) |
+      | ----- | ----- | ----- | ----- | ----- |
+      | T1 | Cadastro | Criar uma conta para acessar a plataforma | Abrir a plataforma e clicar em "Cadastrar" | Conta criada e dados salvos no sistema |
+      | T2 | Login | Poder acessar a plataforma | Abrir a plataforma | Acesso a plataforma |
+      | T3 | Questionário | Ter seu perfil de investidor identificado | Ter realizado o login | Perfil identificado de acordo com sua pontuação |
+      | T4 | Gráfico dos Históricos das Ações | Visualizar as cotações antigas de cada ativo | Abrir a opção de "Menu", clicar em "Histórico" e selecionar a ação que deseja visualizar | Cotações antigas da ação selecionada |
+	  | T5 | Simulação / Recomendação de Ações | Receber recomendações de ações de acordo com o seu perfil de investidor identificado | Abrir a opção de "Menu", clicar em "Voltar à Home" e fazer uma simulação de investimentos | Recomendação de 3 ações de acordo com o seu perfil de investidor |
+      | T6 | Gráfico das Previsões das Ações | Visualizar as previsões de cada ativo para o intervalo de 2 anos | Abrir a opção de "Menu", clicar em "Previsões" e selecionar a ação que deseja visualizar | Previsão da ação selecionada |
 
    4) Formulário de avaliação Heuristica.
+  
+   
 
 
 
