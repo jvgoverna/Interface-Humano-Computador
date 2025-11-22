@@ -1408,6 +1408,67 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 
 2) Lista de Instrumentos (exemplos \- dica… tudo pronto por atividades anteriores ou compartilhado pelo professor)  
    1) Termo de consentimento  
+
+	**TÍTULO DO ESTUDO:** Avaliação de Usabilidade da Plataforma InvestMind  
+	**INSTITUIÇÃO:** ____________________________________________  
+	**PESQUISADOR(A) RESPONSÁVEL:** __________________  **CONTATO:** _____________________  
+	**PARTICIPANTE:** __________________________________  **DATA:** ____/____/____  **ID:** _______
+	
+	---
+	
+	## 1. Objetivo do estudo
+	Você está sendo convidado(a) a participar de um estudo de **avaliação de usabilidade** da plataforma InvestMind. O objetivo é compreender a **clareza, facilidade de uso e acessibilidade** das telas (cadastro/login, questionário de perfil, simulação de investimentos e dashboards preditivos) para orientar melhorias no sistema.
+	
+	## 2. Procedimentos
+	A sessão durará aproximadamente ____ minutos. Você realizará tarefas típicas (ex.: criar conta, responder questionário de perfil, montar uma simulação e interpretar resultados) e poderá ser convidado(a) a **pensar em voz alta** enquanto usa a plataforma. Com sua permissão, poderemos **gravar a tela/áudio/vídeo** para fins de análise posterior.
+	
+	## 3. Riscos e desconfortos
+	Os riscos são mínimos, relacionados a possível cansaço ou desconforto ao usar computador/celular. Você pode **interromper** a participação a qualquer momento, sem qualquer penalidade.
+	
+	## 4. Benefícios esperados
+	Embora não haja benefício financeiro direto, sua participação contribuirá para **melhorias de usabilidade e acessibilidade** do InvestMind e para fins **acadêmicos**.
+	
+	## 5. Privacidade, confidencialidade e LGPD
+	- Suas informações serão tratadas conforme a **Lei Geral de Proteção de Dados (LGPD)**.  
+	- Os registros serão **anonimizados** (identificação por código) e utilizados **apenas para fins acadêmicos**.  
+	- Sempre que possível, serão utilizados **dados fictícios** (ex.: CPF simulado). **Não forneça senhas nem informações bancárias reais.**  
+	- Os dados ficarão armazenados com **acesso restrito** à equipe por até ____ meses e, após esse período, serão **descartados** de maneira segura.
+	
+	## 6. Voluntariedade e desistência
+	Sua participação é **voluntária**. Você pode recusar-se a participar ou sair a qualquer momento, sem justificativa e sem qualquer prejuízo.
+	
+	## 7. Consentimentos
+	**Autoriza a gravação de tela/áudio/vídeo para fins acadêmicos deste estudo?**  
+	- [ ] SIM  
+	- [ ] NÃO
+	
+	**Caso SIM, autoriza o uso de trechos anonimizados (sem identificação pessoal) em relatórios acadêmicos e apresentações de sala?**  
+	- [ ] SIM  
+	- [ ] NÃO
+	
+	## 8. Esclarecimentos e dúvidas
+	Você poderá solicitar esclarecimentos antes, durante ou após a sessão pelos contatos acima.
+	
+	---
+	
+	### Declarações e assinaturas
+	
+	**Participante**  
+	**Nome completo:** __________________________________________  
+	**Documento (RG/CPF)\***: ____________________________________  
+	\*Preferencialmente, utilizar **CPF simulado** fornecido pela equipe.  
+	**Assinatura:** ______________________________________________  
+	**Data:** ____ / ____ / ______
+	
+	**Responsável pela coleta**  
+	**Nome:** ___________________________________________________  
+	**Assinatura:** ______________________________________________  
+	**Data:** ____ / ____ / ______
+
+
+
+
+
    2) Questionários  
    3) Tabela de Observação  
    4) Formulário de avaliação Heuristica.
