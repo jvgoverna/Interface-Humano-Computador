@@ -1412,7 +1412,7 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 	**TÍTULO DO ESTUDO:** Avaliação de Usabilidade da Plataforma InvestMind  
 	**INSTITUIÇÃO:** ____________________________________________  
 	**PESQUISADOR(A) RESPONSÁVEL:** __________________  **CONTATO:** _____________________  
-	**PARTICIPANTE:** __________________________________  **DATA:** ____/____/____  **ID:** _______
+	**PARTICIPANTE:** __________________________________  **Data:** ____ / ____ / ______ **ID:** _______
 	
 	---
 	
@@ -1470,8 +1470,91 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 
 
    2) Questionários  
+
+	## 1) Qual é a sua faixa etária?
+	- [ ] Menos que 18
+	- [ ] Entre 18 e 30
+	- [ ] Entre 31 e 45
+	- [ ] Entre 46 e 60
+	- [ ] Mais que 60
+
+	## 2) Qual é o seu nível de escolaridade?
+	- [ ] Ensino Fundamental
+	- [ ] Ensino Médio
+	- [ ] Superior em andamento
+	- [ ] Superior completo
+	- [ ] Pós-graduação
+	
+	## 3) Qual é a sua ocupação?
+	- [ ] Estudante
+	- [ ] CLT
+	- [ ] Autônomo/MEI
+	- [ ] Empresário(a)
+	- [ ] Desempregado(a)
+	- [ ] Aposentado(a)
+	- [ ] Prefiro não informar
+	
+	## 4) Qual dispositivo você mais usa para acessar suas finanças?
+	- [ ] Celular
+	- [ ] Computador
+	- [ ] Tablet
+	- [ ] Outro
+	
+	## 5) Em uma escala de 1 a 5, como você avalia seu nível de habilidade em aplicativos de investimento?
+	- [ ] 1 (Iniciante)
+	- [ ] 2
+	- [ ] 3
+	- [ ] 4
+	- [ ] 5 (Avançado)
+	
+	## 6) Com que frequência você usa apps de investimento?
+	- [ ] Várias vezes ao dia
+	- [ ] Diariamente
+	- [ ] Semanalmente
+	- [ ] Mensalmente
+	- [ ] Quase nunca
+	- [ ] Nunca usei
+	
+	## 7) Qual é o seu nível de conhecimento em investimentos?
+	- [ ] Nenhum
+	- [ ] Básico
+	- [ ] Intermediário
+	- [ ] Avançado
+	
+	## 8) Há quanto tempo você investe?
+	- [ ] Nunca investi
+	- [ ] Menos de 6 meses
+	- [ ] Entre 6 e 24 meses
+	- [ ] Entre 2 e 5 anos
+	- [ ] Mais de 5 anos
+	
+	## 9) Qual é o seu objetivo principal ao investir?
+	- [ ] Reserva de emergência
+	- [ ] Renda extra
+	- [ ] Aposentadoria
+	- [ ] Grande compra
+	- [ ] Aprendizado
+	- [ ] Outro: __________________________
+	
+	## 10) Qual é o seu horizonte de investimento?
+	- [ ] Curto (até 1 ano)
+	- [ ] Médio (1–5 anos)
+	- [ ] Longo (> 5 anos)
+	- [ ] Não sei
+
+
    3) Tabela de Observação  
+
+
+
+
+
    4) Formulário de avaliação Heuristica.
+
+
+
+
+
 
 # **Entrega 13 (data) \[em andamento/concluído\]**
 
