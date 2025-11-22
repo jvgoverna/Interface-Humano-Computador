@@ -1711,7 +1711,7 @@ Heurísticas não violadas (Felipe):
    
   - Escopo da avaliação:
 
-    - Investmint: Cadastro → Login → Simulação
+    - Investmind: Cadastro → Login → Simulação
 
     - Pensamentos e questionamentos do uso de cada interface
 
@@ -1721,7 +1721,7 @@ Heurísticas não violadas (Felipe):
 
     - Usuário 1 (U1) – Estudante Autista 21 anos, e estudante de Ciência da Computação (conforme a persona do Pedro)
 
-    - Usuário 2 (U2) – **Colocar**
+    - Usuário 2 (U2) – Aposentado 65 anos
 
     - Usuário 3 (U3) – **Colocar**
 
