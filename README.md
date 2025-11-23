@@ -9,7 +9,7 @@ João Vitor Governatore R.A: 22.225.012-8 <br>
 Pedro Henrique Legra Kramer Costa R.A: 22.125.091-3 <br>
 
 
-## **Entrega 1 [concluído]**
+# **Entrega 1 [concluído]**
 **1) Conhecendo o Problema** 
 
 1.1) Membros de Equipe (nome completo e número de matrícula): <br>
@@ -2010,8 +2010,7 @@ Heurísticas não violadas (Felipe):
 
 **DICA: 1 EXEMPLO DO SEU SISTEMA ONDE A HEURÍSTICA FOI ATENDIDA (ISSO NÃO É USADO NO MERCADO, SERVE APENAS PARA APRENDIZADO)**
 
-# **Entrega 14 [concluído]** - Avaliação de Usabilidade por Observação do Usuário
-
+# **Entrega 14 [concluído]**
 **\[1 solução completa por pessoa da equipe\]**
 
 **Método de Avaliação de Usabilidade por Observação do Usuário**   
@@ -2553,4 +2552,3 @@ Heurísticas não violadas (Felipe):
   	- Houve uma boa aceitação por parte das pessoas que testaram, porém tiveram certa dificuldade para entender o que deveria ser preenchido em determinados campos da aplicação. <br>
 	- Algumas pessoas não concordaram com o perfil de investimento que foi identificado. <br>
 	- Os usuários se sentiram um pouco confusos na aba de simulação/previsão de ações.
-  
