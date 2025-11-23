@@ -1568,12 +1568,43 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
       | T6 | Gráfico das Previsões das Ações | Visualizar as previsões de cada ativo para o intervalo de 2 anos | Abrir a opção de "Menu", clicar em "Previsões" e selecionar a ação que deseja visualizar | Previsão da ação selecionada |
 
    4) Formulário de avaliação Heuristica.
-  
-   
 
-
-
-
+	## Cadastro/Login
+	| Heurística | Check (o que validar) | Evidência (print/passos) | Sev. | Recomendação |
+	| ----- | ----- | ----- | ----- | ----- |
+	| H1 Visibilidade | Feedback claro ao criar conta/login (loading, erros, sucesso) |  |  | Exibir alerta de “Conta criada/Erro” |
+	| H2 Compatibilidade | Linguagem simples em campos/erros (sem jargão técnico) |  |  | Padronizar microcópias (“Senha muito curta. Use 8+ caracteres”) |
+	| H3 Controle/Liberdade | Usuário pode refazer o seu questionário quando quiser |  |  | Disponibilizar opção para refazer questionário |
+	| H5 Prevenção de erros | Regras de senha, confirmação e-mail, mensagens preventivas |  |  | Erro inline no campo + dica de correção |
+	| H8 Minimalista | Formulário com apenas campos essenciais |  |  | Remover campos não obrigatórios |
+	    
+		
+	## Questionário de Perfil (Suitability)
+	| Heurística | Check | Evidência | Sev. | Recomendação |
+	| ----- | ----- | ----- | ----- | ----- |
+    | H1 | Visibilidade |  |  | Exibir alerta de questionário criado junto a pontuação e perfil de investidor |
+	| H2 Compatibilidade | Perguntas claras, simples e objetivas |  |  | Exibir perguntas do dia a dia com linguagem simples |
+	| H7 Eficiência | Progresso visível e salvar rascunho |  |  | Barra de progresso + “Continuar depois”. |
+	| H8 Minimalista | Sem excesso de texto; layout limpo |  |  | Perguntas com textos curtos sem enrolação |
+	| H9 | Auxiliar | Deixar claro caso o usuário não tenha respondido todas as questões |  | Alerta de erro para a pergunta que ainda não foi respondida em caso de tentativa de envio do questionário |
+		
+	## Simulação de Investimento
+	| Heurística | Check | Evidência | Sev. | Recomendação |
+	| ----- | ----- | ----- | ----- | ----- |
+	| H1 Visibilidade | Estado claro ao simular (processando/sucesso/erro) |  |  | Mensagens de erro em caso de problemas |
+	| H4 Consistência | Padrões de botões/inputs iguais às outras telas |  |  | Usar um mesmo padrão de letrar, botões e cores |
+	| H5 Prevenção de erros | Validar orçamento, percentuais, limites |  |  | Colocar mensagens preventivas para evitar erros |
+	| H8 | Minimalista | Sem excesso de opções e textos |  | Colocar apenas o essencial para que o usuário faça sua simulação e receba sua recomendação |
+	| H9 Auxiliar | Deixar claro possíveis erros que possam acontecer com a simulação |  |  | Detalhar bem os erros que o usuário teve para simular seu investimento |
+		
+	## Gráficos de Históricos e Previsões
+	| Heurística | Check | Evidência | Sev. | Recomendação |
+	| ----- | ----- | ----- | ----- | ----- |
+    | H1 Visibilidade | Ao selecionar uma ação para ver o gráfico, o sistema dá feedback imediato |  |  | Ter um tempo de resposta < 0.1 seg após o usuário selecionar a ação que deseja visualizar o gráfico |
+	| H2 Compatibilidade | uso de termos compreensíveis |  |  | Deixar explicações claras e objetivas em caso de uso de termos financeiros |
+	| H4 Consistência | Utilizar o mesmo padrão para todos os gráficos |  |  | Escolher as mesmas fontes, cores e tamanhos |
+	| H3 Controle/Liberdade | Usuários podem visualizar a hora que quiserem os gráficos |  |  | Deixar a opção de visualização dos gráficos sempre ativa no Menu de opções |
+	| H8 Minimalista | Evitar redundância com foco no essencial |  |  | Mostrar apenas as informações essenciais nos gráficos |
 
 
 # **Entrega 13 (data) \[em andamento/concluído\]**
