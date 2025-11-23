@@ -1857,29 +1857,29 @@ Heurísticas não violadas (Felipe):
 
   - Ambientes de teste (cenários simulados):
 
-      - U1 – Ambiente profissional simulado oline:
+      - U1 – Ambiente profissional simulado oline (**Pedro**):
       
           - Local: Local residencial e livre de ruídos
           
-          - Dispositivo: notebook com interação do designer com base nas decisões escolhidas do usuário.
+          - Dispositivo: notebook com interação do designer com base nas decisões escolhidas do usuário
           
-          - Foco: tarefa detalhada de cada etapa, cada comportamento observado e cada passo pensado com calma e reflexão do usuário.
+          - Foco: tarefa detalhada de cada etapa, cada comportamento observado e cada passo pensado com calma e reflexão do usuário
       
-      - U2 – Ambiente profissional simulado (**Felipe**):
+      - U2 – Ambiente profissional simulado (**João**):
       
-          - Local: sala tranquila / home office.
+          - Local: sala tranquila e livre de ruídos
           
-          - Dispositivo: notebook de trabalho.
+          - Dispositivo: computador de trabalho
           
-          - Foco: tarefas de decisão técnica (Dashboard + Leaderboard).
+          - Foco: todas as etapas da aplicação
       
-      - U3 – Ambiente acadêmico simulado (**João**):
+      - U3 – Ambiente acadêmico simulado (**Felipe**):
       
-          - Local: laboratório / sala de aula com projetor.
+          - Local: quarto de casa e livre de ruídos
           
-          - Dispositivo: notebook conectado a monitor maior.
-          
-          - Foco: uso didático e de pesquisa (Dashboard + Arena).
+          - Dispositivo: notebook de estudo
+    
+          - Foco: desde realizar um cadastro até receber uma recomendação de ações com base no perfil de investidor
        
   
 **Passo 5: Execução do teste (roteiro operacional)**
