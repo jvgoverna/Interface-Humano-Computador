@@ -2184,7 +2184,7 @@ Heurísticas não violadas (Felipe):
 * Tamanho padrão
 
 **3.3. Em uma recomendação de compra e venda, o que você mais valoriza?**
-* Para compra seria informações mais precisas da empresa pela qual estou comprando a ação, além de possíveis projeções de crescimento. Para venda seria a porcentagem de crescimento que aquela ação teve desde a compra e se ainda há margem para mais crescimento.
+* Para compra seria informações mais precisas sobre a empresa pela qual a ação pertence, além de possíveis projeções de crescimento. Para venda seria a porcentagem de crescimento que aquela ação teve desde sua compra e se ainda há margem para mais crescimento.
 
 ---
 
@@ -2234,7 +2234,7 @@ Heurísticas não violadas (Felipe):
   
   **Comentário final:**
   
-    "A ideia é muito interessante, porém muito confuso de modo geral, principalmente a página de recomendação/simulação de ações. Falta um pouco mais de clareza e explicações."
+    "A ideia é muito interessante, porém muito confuso de modo geral, principalmente a página de recomendação/simulação de ações. Falta um pouco mais de clareza e de explicações."
 	
 ---
 
@@ -2242,6 +2242,6 @@ Heurísticas não violadas (Felipe):
   
   A avaliação por observação com 3 usuários (estudante, aposentado e profissional) mostrou que: <br>
   	- Houve uma boa aceitação por parte das pessoas que testaram, porém tiveram certa dificuldade para entender o que deveria ser preenchido em determinados campos da aplicação. <br>
-	- Algumas pessoas não concordaram com o perfil de investimento que foi identificado.
+	- Algumas pessoas não concordaram com o perfil de investimento que foi identificado. <br>
 	- Os usuários se sentiram um pouco confusos na aba de simulação/previsão de ações.
   
