@@ -1824,9 +1824,9 @@ O usuário é forçado a relembrar informações de uma parte do sistema para ou
 ### 1. Visibilidade do status do sistema
 **Verificação:** Os usuários são mantidos informados sobre o progresso do sistema com apropriado feedback em um tempo razoável?
 
-**Problema:**
+**Problema:** Ao criar uma conta o pop-up de ‘cadastro realizado’ aparece na tela por pouquíssimo tempo, podendo não dar tempo do usuário identificar se o cadastro foi realizado com sucesso.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Simples - 2
 
 **Print da tela:**
 
@@ -1834,37 +1834,36 @@ O usuário é forçado a relembrar informações de uma parte do sistema para ou
 **Verificação:** O sistema utiliza conceitos e linguagem familiar com o usuário em vez de termos orientados ao sistema? <br>
 O sistema utiliza convenções do mundo real, exibindo informações com uma ordem lógica e natural?
 
+**Problema:** Tanto nas telas de simulação de ações, quanto nas de previsão e histórico, as ações são identificadas pelos seus respectivos tickers e não pelo nome da empresa.
 
-**Problema:**
-
-**Grau de severidade:**
+**Grau de severidade:** Simples - 2
 
 **Print da tela:**
 
 ### 3. Liberdade e controle do usuário
 **Verificação:** Os usuários podem fazer o que querem quando querem?
 
-**Problema:**
+**Problema:** Não existe um botão de ‘Voltar’ quando o usuário clica em ‘Refazer Questionário de Suitability’, fazendo com que ele tenha que refazer todo o questionário novamente.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Grave - 3
 
 **Print da tela:**
 
 ### 4. Consistência e padrões
 **Verificação:** O projeto de elementos como objetos e ações tem o mesmo significado ou efeito em diferentes situações?
 
-**Problema:**
+**Problema:** As telas “Histórico de Cotações” e “Gráficos de Acurácia das Previsões” são muito semelhantes visualmente, mudando quase só o título e a legenda, o que pode gerar dúvida se o usuário está vendo apenas o histórico ou a comparação real × predito.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Cosmético
 
 **Print da tela:**
 
 ### 5. Prevenção contra erros
 **Verificação:** Os usuários podem cometer erros dos quais bons projetos poderiam prevenir?
 
-**Problema:**
+**Problema:** Na área de simulação, o sistema exige que o usuário selecione pelo menos três ações para gerar a recomendação de portfólio, mas não informa esse requisito de forma clara.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Simples - 2
 
 **Print da tela:**
 
@@ -1872,45 +1871,45 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 **Verificação:** Os elementos de projeto como objetos, ações e opções são possíveis? <br>
 O usuário é forçado a relembrar informações de uma parte do sistema para outra?
 
-**Problema:**
+**Problema:** Ao optar por refazer o questionário, o sistema zera todas as respostas já registradas e apresenta apenas as perguntas em branco. Dessa forma, o usuário perde qualquer referência às escolhas anteriores e precisa recordar e selecionar novamente todas as opções.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Grave - 3
 
 **Print da tela:**
 
 ### 7. Flexibilidade e eficiência de uso
 **Verificação:** As tarefas de usuário são eficientes e podem se adaptar ao gosto do usuário em suas ações mais freqüentes ou ele utiliza atalhos?
 
-**Problema:**
+**Problema:** Sempre que deseja testar um novo cenário de investimento, o usuário é obrigado a montar novamente o portfólio (escolher ações e preencher valores), pois não existe recurso para copiar ou reutilizar uma simulação anterior, tornando o processo mais demorado e pouco eficiente.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Cosmético - 1
 
 **Print da tela:**
 
 ### 8. Projeto minimalista e estético
 **Verificação:** Os diálogos contém informações irrelevantes ou raramente necessárias?
 
-**Problema:**
+**Problema:** Não foi encontrado um problema.
 
-**Grau de Severidade:**
+**Grau de Severidade:** -
 
 **Print da tela:**
 
 ### 9. Auxiliar os usuários a reconhecer, diagnosticar e recuperar-se de erros
 **Verificação:** As mensagens de erro são expressas em linguagem simples (sem códigos) descrevendo exatamente o problema e sugerindo uma solução?
 
-**Problema:**
+**Problema:** Ao errar as credenciais de acesso, a página de login exibe uma única mensagem informando que “o e-mail ou a senha estão incorretos”, sem indicar qual campo está errado. Essa falta de precisão faz o usuário tentar adivinhar o que ajustar, tornando a recuperação do erro menos eficiente.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Cosmético - 1
 
 **Print da tela:**
 
 ### 10. Ajuda e documentação
 **Verificação:** São fornecidas apropriadas informações de ajuda, e estas informações são fáceis de procurar e de focalizar nas tarefas do usuário?
 
-**Problema:**
+**Problema:** A interface não oferece dicas contextuais (como ícones de ajuda ou tooltips) próximas aos campos e gráficos. Em tarefas mais complexas, o usuário não encontra orientações rápidas sobre o que cada elemento significa ou como deve ser preenchido.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Simples - 2
 
 **Print da tela:**
 
