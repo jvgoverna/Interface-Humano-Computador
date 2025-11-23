@@ -9,7 +9,7 @@ João Vitor Governatore R.A: 22.225.012-8 <br>
 Pedro Henrique Legra Kramer Costa R.A: 22.125.091-3 <br>
 
 
-## **Entrega 1 (concluído)**
+## **Entrega 1 [concluído]**
 **1) Conhecendo o Problema** 
 
 1.1) Membros de Equipe (nome completo e número de matrícula): <br>
@@ -54,7 +54,7 @@ Pedro Henrique Legra Kramer Costa R.A: 22.125.091-3 <br>
 1.11) Qual é o contexto de uso dessa aplicação? (esse já é um conceito de IHC que professor explicou na sala) <br>
 O sistema será utilizado em ambiente web por investidores que buscam suporte para tomada de decisão no mercado de ações. O contexto envolve análise de dados financeiros, aplicação de modelos preditivos e adequação das recomendações ao perfil de risco, permitindo acesso tanto em computadores quanto em dispositivos móveis, priorizando clareza de informações e usabilidade na navegação.
 
-# **Entrega 2  (data) \[concluído]**
+# **Entrega 2 [concluído]**
 
 **\[1 solução completa por pessoa da equipe\]**
 
@@ -158,7 +158,7 @@ Nosso público-alvo são pessoas que são responsáveis legais por si mesmas e t
 
 Atualmente, observa-se uma tendência no uso de aplicações móveis e web que oferecem uma interface de fácil uso e entendimento ao investidor. Além da utilização de diversos perguntas para a construção do questionário de suitability e identificar o perfil de investimento do usuário. E encontra-se também o uso da Inteligência artificial para ajudar a instruir o investidor, principalmente os iniciantes na compra e venda de seus ativos financeiros.
 
-# **Entrega 3 (data) \[concluído\]**
+# **Entrega 3 [concluído]**
 
 **1\) Personas**   
 
@@ -285,7 +285,7 @@ Nome: João Vitor | Idade: 65 anos
 	- Conversa com familiares para confirmar suas impressões e buscar opiniões.
 	- Encerra o acesso sentindo necessidade de maior clareza e acessibilidade, mas com esperança de continuar usando o site como apoio.
 
-# **Entrega 4  (data) \[concluído\]**
+# **Entrega 4 [concluído]**
 
 **\[1 solução completa por pessoa da equipe\]**
 
@@ -417,7 +417,7 @@ Ao final do período planejado, [3] Pedro ficou abatido ao perceber que as açõ
 [7] Durante o uso do aplicativo, Pedro teve facilidade em utilizá-lo, pois o mesmo apresentava uma interface limpa e objetiva. Ele conseguiu navegar facilmente pelos gráficos, simular ações e realizar operações de compra e venda de forma rápida, o que lhe permitiu economizar tempo. Sentindo-se mais confiante, decidiu seguir as recomendações baseadas na classificação do seu perfil de investidor. Ele avaliou positivamente essa experiência inicial, destacando que a clareza visual e a fluidez da navegação foram essenciais para que se sentisse confortável com a plataforma. A organização das informações e a simplicidade no acesso às funcionalidades deram a ele uma sensação de controle, mesmo sendo um investidor relativamente novo.
 
 
-# **Entrega 5  (data) \[concluído\]**
+# **Entrega 5 [concluído]**
 
 **\[1 solução por pessoa\]**
 
@@ -768,7 +768,7 @@ GOAL 0: Cadastrar usuáro na plataforma
 ![CTT Simulacao](https://github.com/user-attachments/assets/91ee7a15-717b-4bbe-99ea-1a62e438b098)
 
 
-# **Entrega 6  (data) \[em andamento/concluído\]**
+# **Entrega 6 [concluído]**
 
 ## Primeira Parte da Prototipação em Papel
 Essa primeira parte apresenta as primeiras 4 telas que podem ser vistas no site antes do usuário efetuar o seu login, sendo elas, pela ordem da numeração: Página de Login, Página de Cadastro, Página de Políticas da Empresa e Página de Política de Privacidade.
@@ -795,7 +795,7 @@ Durante o teste com a prototipação em papel, um usuário qualquer conseguiu en
 Outro ponto levantado foi o botão de Menu presente nas telas de Gráficos, Simulação de Investimentos e Perfil do Investidor. Como as opções só aparecem após clicar, o controle passou despercebido em um primeiro momento, reduzindo a descoberta das funcionalidades. A pessoa sugeriu deixar as opções de navegação sempre visíveis (por exemplo, uma barra lateral fixa ou abas), ou ao menos tornar o botão mais destacado e autoexplicativo, para facilitar a orientação no site.
 
 
-# **Entrega 7  (data) \[concluído\]**
+# **Entrega 7 [concluído]**
 
 **\[PARTE A: 1 solução completa por pessoa da equipe\]**
 
@@ -927,7 +927,7 @@ Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relaç�
 
 
 
-# **Entrega 8  (data) \[concluído\]**
+# **Entrega 8 [concluído]**
 
 **\[1 solução por equipe\]**
 
@@ -1001,7 +1001,7 @@ Participantes: Entre 30 a 50 usuários sendo iniciantes ou avançados em relaç�
 
 
 
-# **Entrega 9 (data) \[em andamento/concluído\]**
+# **Entrega 9 [concluído]**
 
 **\[1 solução completa por pessoa da equipe\]**
 
@@ -1328,7 +1328,7 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 | usuário | PP: campo obrigatório | RA |
 | senha | PP campo obrigatório  | RA |
 -->
-# **Entrega 10 (data) \[em andamento/concluído\]**
+# **Entrega 10 [concluído]**
 
 **\[1 solução completa por pessoa da equipe\]**
 
@@ -1403,7 +1403,7 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 
 
 
-# **Entrega 12 (data) \[em andamento/concluído\]**
+# **Entrega 12 [concluído]**
 
 **\[1 solução por equipe\]**
 
@@ -1477,9 +1477,6 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 	**Nome:** ___________________________________________________  
 	**Assinatura:** ______________________________________________  
 	**Data:** ____ / ____ / ______
-
-
-
 
 
    2) Questionários  
@@ -1607,7 +1604,7 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 	| H8 Minimalista | Evitar redundância com foco no essencial |  |  | Mostrar apenas as informações essenciais nos gráficos |
 
 
-# **Entrega 13 (data) \[em andamento/concluído\]**
+# **Entrega 13 [concluído]**
 
 DICA: MATERIAL ABAIXO DISPONÍVEL EM ARQUIVO NO MOODLE.
 
