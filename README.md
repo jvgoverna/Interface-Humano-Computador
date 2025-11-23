@@ -1586,7 +1586,7 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 	| H2 Compatibilidade | Perguntas claras, simples e objetivas |  |  | Exibir perguntas do dia a dia com linguagem simples |
 	| H7 Eficiência | Progresso visível e salvar rascunho |  |  | Barra de progresso + “Continuar depois”. |
 	| H8 Minimalista | Sem excesso de texto; layout limpo |  |  | Perguntas com textos curtos sem enrolação |
-	| H9 | Auxiliar | Deixar claro caso o usuário não tenha respondido todas as questões |  | Alerta de erro para a pergunta que ainda não foi respondida em caso de tentativa de envio do questionário |
+	| H9 Auxiliar | Deixar claro caso o usuário não tenha respondido todas as questões |  |  | Alerta de erro para a pergunta que ainda não foi respondida em caso de tentativa de envio do questionário |
 		
 	## Simulação de Investimento
 	| Heurística | Check | Evidência | Sev. | Recomendação |
@@ -1594,7 +1594,7 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 	| H1 Visibilidade | Estado claro ao simular (processando/sucesso/erro) |  |  | Mensagens de erro em caso de problemas |
 	| H4 Consistência | Padrões de botões/inputs iguais às outras telas |  |  | Usar um mesmo padrão de letrar, botões e cores |
 	| H5 Prevenção de erros | Validar orçamento, percentuais, limites |  |  | Colocar mensagens preventivas para evitar erros |
-	| H8 | Minimalista | Sem excesso de opções e textos |  | Colocar apenas o essencial para que o usuário faça sua simulação e receba sua recomendação |
+	| H8 Minimalista | Sem excesso de opções e textos |  |  | Colocar apenas o essencial para que o usuário faça sua simulação e receba sua recomendação |
 	| H9 Auxiliar | Deixar claro possíveis erros que possam acontecer com a simulação |  |  | Detalhar bem os erros que o usuário teve para simular seu investimento |
 		
 	## Gráficos de Históricos e Previsões
@@ -1602,8 +1602,8 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 	| ----- | ----- | ----- | ----- | ----- |
     | H1 Visibilidade | Ao selecionar uma ação para ver o gráfico, o sistema dá feedback imediato |  |  | Ter um tempo de resposta < 0.1 seg após o usuário selecionar a ação que deseja visualizar o gráfico |
 	| H2 Compatibilidade | uso de termos compreensíveis |  |  | Deixar explicações claras e objetivas em caso de uso de termos financeiros |
-	| H4 Consistência | Utilizar o mesmo padrão para todos os gráficos |  |  | Escolher as mesmas fontes, cores e tamanhos |
 	| H3 Controle/Liberdade | Usuários podem visualizar a hora que quiserem os gráficos |  |  | Deixar a opção de visualização dos gráficos sempre ativa no Menu de opções |
+	| H4 Consistência | Utilizar o mesmo padrão para todos os gráficos |  |  | Escolher as mesmas fontes, cores e tamanhos |
 	| H8 Minimalista | Evitar redundância com foco no essencial |  |  | Mostrar apenas as informações essenciais nos gráficos |
 
 
