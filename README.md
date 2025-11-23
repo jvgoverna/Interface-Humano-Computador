@@ -1634,94 +1634,94 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 ### 1. Visibilidade do status do sistema
 **Verificação:** Os usuários são mantidos informados sobre o progresso do sistema com apropriado feedback em um tempo razoável?
 
-**Problema:**
+**Problema:** Após concluir o questionário de perfil de investidor, o sistema muda de tela diretamente para a página de simulação sem mostrar uma mensagem de confirmação, podendo gerar dúvidas ao usuário se suas respostas foram realmente salvas.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Simples - 2
 
-**Print da tela:**
+**Print da tela:** Não há print de tela específico
 
 ### 2. Compatibilidade entre o sistema e o mundo real
 **Verificação:** O sistema utiliza conceitos e linguagem familiar com o usuário em vez de termos orientados ao sistema? <br>
 O sistema utiliza convenções do mundo real, exibindo informações com uma ordem lógica e natural?
 
+**Problema:** Na lista de ações recomendadas, os ativos são exibidos apenas pelo ticker (ex: SBSP3), sem o nome da empresa por extenso junto à ação, causando dificuldades para usuários com pouca familiaridade com o mercado acionário.
 
-**Problema:**
-
-**Grau de severidade:**
+**Grau de severidade:** Simples - 2
 
 **Print da tela:**
 
 ### 3. Liberdade e controle do usuário
 **Verificação:** Os usuários podem fazer o que querem quando querem?
 
-**Problema:**
+**Problema:** Na tela de ‘Refazer Questionário de Suitability’, não é existem botões de ‘Voltar’ a tela inicial, obrigando o usuário a responder o questionário novamente.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Grave - 3
 
 **Print da tela:**
 
 ### 4. Consistência e padrões
 **Verificação:** O projeto de elementos como objetos e ações tem o mesmo significado ou efeito em diferentes situações?
 
-**Problema:**
+**Problema:** Na tela de resultados da simulação, os símbolos de ganho e perda não seguem um padrão. Valores positivos usam + R$ 100,00, enquanto negativos usam R$ -100,00, com o sinal em posições diferentes, o que prejudica a leitura rápida dos resultados.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Sem importância - 0
 
 **Print da tela:**
 
 ### 5. Prevenção contra erros
 **Verificação:** Os usuários podem cometer erros dos quais bons projetos poderiam prevenir?
 
-**Problema:**
+**Problema:** Os campos de valor a investir aceitam números incoerentes (como zero ou negativos) sem validação clara, o que poderia ser prevenido com restrição de entrada e mensagens de orientação.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Simples - 2
 
 **Print da tela:**
 
 ### 6. Reconhecimento em lugar de lembrança
-**Verificação:**
+**Verificação:** Os elementos de projeto como objetos, ações e opções são possíveis? <br>
+O usuário é forçado a relembrar informações de uma parte do sistema para outra?
 
-**Problema:**
+**Problema:** Ao selecionar ações e valores para simular e navegar para Histórico de Cotações ou Acurácia das Previsões, as escolhas são apagadas ao voltar. O usuário precisa lembrar tudo e reconfigurar o portfólio do zero, aumentando a carga de memória.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Grave - 3
 
-**Print da tela:**
+**Print da tela:** Não há print de tela específico
 
 ### 7. Flexibilidade e eficiência de uso
 **Verificação:** As tarefas de usuário são eficientes e podem se adaptar ao gosto do usuário em suas ações mais freqüentes ou ele utiliza atalhos?
 
-**Problema:**
+**Problema:** Para comparar diferentes cenários de investimento, o usuário precisa recriar todo o portfólio do zero (ações e valores) a cada nova simulação, sem opção de reaproveitar ou duplicar uma configuração anterior, o que reduz a eficiência de uso.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Sem importância - 0
 
-**Print da tela:**
+**Print da tela:** Não há print de tela específico
 
 ### 8. Projeto minimalista e estético
 **Verificação:** Os diálogos contém informações irrelevantes ou raramente necessárias?
 
-**Problema:**
+**Problema:** Não foi encontrado nenhum diálogo com informações irrelevantes ou raramente necessárias.
 
-**Grau de Severidade:**
+**Grau de Severidade:** -
 
-**Print da tela:**
+**Print da tela:** Não há print de tela específico
 
 ### 9. Auxiliar os usuários a reconhecer, diagnosticar e recuperar-se de erros
 **Verificação:** As mensagens de erro são expressas em linguagem simples (sem códigos) descrevendo exatamente o problema e sugerindo uma solução?
 
-**Problema:**
+**Problema:** Na página de cadastro, quando a senha e a confirmação de senha não coincidem, o botão “Cadastrar” fica desabilitado, mas nenhuma mensagem de erro é exibida. O usuário não sabe qual é o problema nem o que precisa ajustar para prosseguir.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Simples - 2
 
 **Print da tela:**
 
 ### 10. Ajuda e documentação
 **Verificação:** São fornecidas apropriadas informações de ajuda, e estas informações são fáceis de procurar e de focalizar nas tarefas do usuário?
 
-**Problema:**
+**Problema:** A aplicação não possui uma seção de ajuda ou FAQ acessível a partir das telas principais. Quando o usuário tem dúvidas sobre como usar a simulação ou interpretar os resultados, precisa descobrir sozinho, sem apoio direto do sistema.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Grave - 3
 
-**Print da tela:**
+**Print da tela:** Não há print de tela específico
 
 
 ## Avaliação Heurística - **João**
@@ -1774,7 +1774,8 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 **Print da tela:**
 
 ### 6. Reconhecimento em lugar de lembrança
-**Verificação:**
+**Verificação:** Os elementos de projeto como objetos, ações e opções são possíveis? <br>
+O usuário é forçado a relembrar informações de uma parte do sistema para outra?
 
 **Problema:**
 
