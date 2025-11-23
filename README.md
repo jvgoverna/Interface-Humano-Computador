@@ -1736,7 +1736,7 @@ Heurísticas não violadas (Felipe):
 
     - Usuário 2 (U2) – Aposentado 65 anos
 
-    - Usuário 3 (U3) – **Colocar**
+    - Usuário 3 (U3) – Profissional da área da computação, estudante de Análise de Sistemas e 22 anos
 
 
 **Passo 2: Lista de tarefas que o usuário deve cumprir.**  
