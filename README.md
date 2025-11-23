@@ -2049,8 +2049,8 @@ Heurísticas não violadas (Felipe):
 
 | Tarefa | Grau de Sucesso  | Total de Erros cometidos | Tipos de Erros  | Tempo Necessário | Grau de Satisfação |
 | ------ | ---------------- | ------------------------ | ------------------------------------------------------------------------------ | ---------------- | ----------------------- |
-| **1 – Identificação do perfil de investimento** | **Sucesso**   | **0** | - | **4 min 25 s** | **Média satisfação (4/7)** |
-| **2 – Realização de investimento** | **Sucesso** | **0** | - | **7 min*   | **Alta satisfação (7/7)** |
+| **1 – Identificação do perfil de investimento** | **Sucesso** | **0** | - | **4 min 25 s** | **Média satisfação (4/7)** |
+| **2 – Realização de investimento** | **Sucesso Parcial** | **1** | Selecionou apenas 1 ação para receber as recomendações ao invés de 3 | **7 min*   | **Alta satisfação (7/7)** |
 
 
 
@@ -2140,12 +2140,108 @@ Heurísticas não violadas (Felipe):
   **Comentário final:**
   
     "Aplicação muito bem desenvolvida. Gostei da ideia de poder simular as ações nas quais tenho interesse e comparar com a recomendação da IA para verificar se teria lucro ou não."
+
+--- 
+#### Usuário 3 – Profissional na área da computação
+
+| Tarefa | Grau de Sucesso  | Total de Erros cometidos | Tipos de Erros  | Tempo Necessário | Grau de Satisfação |
+| ------ | ---------------- | ------------------------ | ------------------------------------------------------------------------------ | ---------------- | ----------------------- |
+| **1 – Identificação do perfil de investimento** | **Sucesso** | **0** | - | **3 min 24 s** | **Média satisfação (7/7)** |
+| **2 – Realização de investimento** | **Sucesso Parcial** | **(1) Tentou simular um investimento sem colocar orçamento; (2) Tentou receber a recomendação de ações fazendo a simulação com apenas 1 ação ao invés de 3** | - | **7 min 14s** | **Alta satisfação (3/7)** |
+
+**Links dos vídeos: (descrições simuladas)**
+  - Vídeo 2 - <url>https://www.youtube.com/watch?v=tm3_jO07X3g
+
+  **Respostas do Formulário do Usuário (Felipe):**
+
+### 1. Perfil e Conhecimento
+
+**1.1. Qual o seu nível de experiência com investimentos em ações?**
+* Intermediário
+
+**1.2. Qual a sua tolerância a risco?**
+* Conservador (Buscando segurança acima de retorno)
+
+**1.3. Você entende os seguintes conceitos: *Volatilidade*, *Dividend Yield*, *Valuation*?**
+* Entende Volatilidade e Dividend Yield
+---
+
+### 2. Rotina e Ambiente de Uso
+
+**2.1. Quanto tempo, em média, você dedica por semana para estudar o mercado financeiro?**
+* 1h
+
+**2.2. Qual dispositivo você mais utiliza para realizar operações e consultas rápidas?**
+* Computador
+  
+---
+### 3. Usabilidade e Apresentação de Dados
+
+**3.1. Qual fator é mais importante para você na visualização das informações?**
+* Explicações objetivas e da fácil entendimento
+
+**3.2. Qual o tamanho ideal para você da fonte e dos elementos gráficos em um dashboard?**
+* Tamanho padrão
+
+**3.3. Em uma recomendação de compra e venda, o que você mais valoriza?**
+* Para compra seria informações mais precisas da empresa pela qual estou comprando a ação, além de possíveis projeções de crescimento. Para venda seria a porcentagem de crescimento que aquela ação teve desde a compra e se ainda há margem para mais crescimento.
+
+---
+
+### 4. Necessidades Específicas e Funcionalidades
+
+**4.1. Qual o seu principal objetivo ao usar uma plataforma de análise?**
+* Compreender melhor sobre o mercado de ações
+
+**4.2. Você precisa integrar dados da plataforma com ferramentas externas (Excel, Google Sheets, API, Home Broker)?**
+* Não e nem gostaria
+
+**4.3. O que você acha mais importante em gráficos preditivos/modelos de IA?**
+* Explicações claras do porquê aquela ação possui previsões de quedas/subidas, dando mais clareza e confiança na hora de investir
+
+**SEQ por tarefa:**
+  
+  - T1 Identificação do perfil de investimento: 7/7
+    
+  - T2 Realização de investimento: 3/7
+
+**SUS por tarefa:**
+
+**Escala de Resposta:**
+
+| Nível | Significado |
+| :--- | :--- |
+| **1** | Discordo Fortemente |
+| **2** | Discordo |
+| **3** | Neutro |
+| **4** | Concordo |
+| **5** | Concordo Fortemente |
+
+| # | Afirmação | 1 | 2 | 3 | 4 | 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1.** | Eu acho que usaria este sistema com frequência. | $\square$ | [x] | $\square$ | $\square$ | $\square$ |
+| **2.** | Eu achei o sistema desnecessariamente complexo. | $\square$ | $\square$| [x] | $\square$ | $\square$ |
+| **3.** | Eu achei o sistema fácil de usar. | $\square$ | $\square$ | [x] | $\square$ | $\square$ |
+| **4.** | Eu acho que precisaria de suporte técnico para usar este sistema. | $\square$ | $\square$ | $\square$ | [x] | $\square$ |
+| **5.** | Eu achei as várias funções neste sistema bem integradas. | $\square$ | $\square$ | $\square$ | [x] | $\square$ |
+| **6.** | Eu achei que havia muita inconsistência neste sistema. | $\square$ | [x] | $\square$ | $\square$ | $\square$ |
+| **7.** | Eu imagino que a maioria das pessoas aprenderia a usar este sistema rapidamente. | $\square$ | $\square$ | [x] | $\square$ | $\square$ |
+| **8.** | Eu achei o sistema muito complicado de usar. | $\square$ | [x] | $\square$ | $\square$ | $\square$ |
+| **9.** | Eu me senti muito confiante ao usar o sistema. | $\square$ | $\square$ | [x] | $\square$ | $\square$ |
+| **10.** | Eu precisei aprender muitas coisas antes de começar a usar este sistema. | $\square$ | [x] | $\square$ | $\square$ | $\square$ |
+
+---
+  
+  **Comentário final:**
+  
+    "A ideia é muito interessante, porém muito confuso de modo geral, principalmente a página de recomendação/simulação de ações. Falta um pouco mais de clareza e explicações."
 	
 ---
 
 ### 5. Conclusão Final
   
-  A avaliação por observação com 3 usuários (estudante, aposentado, ) mostrou que: <br>
+  A avaliação por observação com 3 usuários (estudante, aposentado e profissional) mostrou que: <br>
   	- Houve uma boa aceitação por parte das pessoas que testaram, porém tiveram certa dificuldade para entender o que deveria ser preenchido em determinados campos da aplicação. <br>
 	- Algumas pessoas não concordaram com o perfil de investimento que foi identificado.
+	- Os usuários se sentiram um pouco confusos na aba de simulação/previsão de ações.
   
