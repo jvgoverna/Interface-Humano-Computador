@@ -2147,7 +2147,7 @@ Heurísticas não violadas (Felipe):
 | Tarefa | Grau de Sucesso  | Total de Erros cometidos | Tipos de Erros  | Tempo Necessário | Grau de Satisfação |
 | ------ | ---------------- | ------------------------ | ------------------------------------------------------------------------------ | ---------------- | ----------------------- |
 | **1 – Identificação do perfil de investimento** | **Sucesso** | **0** | - | **3 min 24 s** | **Média satisfação (7/7)** |
-| **2 – Realização de investimento** | **Sucesso Parcial** | **(1) Tentou simular um investimento sem colocar orçamento; (2) Tentou receber a recomendação de ações fazendo a simulação com apenas 1 ação ao invés de 3** | - | **7 min 14s** | **Alta satisfação (3/7)** |
+| **2 – Realização de investimento** | **Sucesso Parcial** | **2** | **(1) Tentou simular um investimento sem colocar orçamento; (2) Tentou receber a recomendação de ações fazendo a simulação com apenas 1 ação ao invés de 3** | **7 min 14s** | **Alta satisfação (3/7)** |
 
 **Links dos vídeos: (descrições simuladas)**
   - Vídeo 2 - <url>https://www.youtube.com/watch?v=tm3_jO07X3g
