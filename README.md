@@ -1631,7 +1631,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 ## Avaliação Heurística - **Felipe**
 
-### Visibilidade do Status do Sistema
+### 1. Visibilidade do status do sistema
 **Verificação:**
 
 **Problema:**
@@ -1640,7 +1640,16 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Compatibilidade entre o Sistema e o Mundo Real
+### 2. Compatibilidade entre o sistema e o mundo real
+**Verificação:**
+
+**Problema:**
+
+**Grau de severidade:**
+
+**Print da tela:**
+
+### 3. Liberdade e controle do usuário
 **Verificação:**
 
 **Problema:**
@@ -1649,7 +1658,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Liberdade e Controle do Usuário
+### 4. Consistência e padrões
 **Verificação:**
 
 **Problema:**
@@ -1658,7 +1667,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Consistência e Padrões
+### 5. Prevenção contra rrros
 **Verificação:**
 
 **Problema:**
@@ -1667,7 +1676,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Prevenção Contra Erros
+### 6. Reconhecimento em lugar de lembrança
 **Verificação:**
 
 **Problema:**
@@ -1676,7 +1685,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Reconhecimento em Lugar de Lembrança
+### 7. Flexibilidade e eficiência de uso
 **Verificação:**
 
 **Problema:**
@@ -1685,7 +1694,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Flexibilidade e Eficiência de Uso
+### 8. Projeto minimalista e estético
 **Verificação:**
 
 **Problema:**
@@ -1694,7 +1703,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Projeto Minimalista e Estético
+### 9. Auxiliar os usuários a reconhecer, diagnosticar e recuperar-se de erros
 **Verificação:**
 
 **Problema:**
@@ -1703,16 +1712,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Auxiliar os Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros
-**Verificação:**
-
-**Problema:**
-
-**Grau de Severidade:**
-
-**Print da tela:**
-
-### Ajuda e Documentação
+### 10. Ajuda e documentação
 **Verificação:**
 
 **Problema:**
@@ -1724,7 +1724,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 ## Avaliação Heurística - **João**
 
-### Visibilidade do Status do Sistema
+### 1. Visibilidade do status do sistema
 **Verificação:**
 
 **Problema:**
@@ -1733,7 +1733,16 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Compatibilidade entre o Sistema e o Mundo Real
+### 2. Compatibilidade entre o sistema e o mundo real
+**Verificação:**
+
+**Problema:**
+
+**Grau de severidade:**
+
+**Print da tela:**
+
+### 3. Liberdade e controle do usuário
 **Verificação:**
 
 **Problema:**
@@ -1742,7 +1751,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Liberdade e Controle do Usuário
+### 4. Consistência e padrões
 **Verificação:**
 
 **Problema:**
@@ -1751,7 +1760,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Consistência e Padrões
+### 5. Prevenção contra rrros
 **Verificação:**
 
 **Problema:**
@@ -1760,7 +1769,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Prevenção Contra Erros
+### 6. Reconhecimento em lugar de lembrança
 **Verificação:**
 
 **Problema:**
@@ -1769,7 +1778,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Reconhecimento em Lugar de Lembrança
+### 7. Flexibilidade e eficiência de uso
 **Verificação:**
 
 **Problema:**
@@ -1778,7 +1787,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Flexibilidade e Eficiência de Uso
+### 8. Projeto minimalista e estético
 **Verificação:**
 
 **Problema:**
@@ -1787,7 +1796,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Projeto Minimalista e Estético
+### 9. Auxiliar os usuários a reconhecer, diagnosticar e recuperar-se de erros
 **Verificação:**
 
 **Problema:**
@@ -1796,16 +1805,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Auxiliar os Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros
-**Verificação:**
-
-**Problema:**
-
-**Grau de Severidade:**
-
-**Print da tela:**
-
-### Ajuda e Documentação
+### 10. Ajuda e documentação
 **Verificação:**
 
 **Problema:**
@@ -1817,7 +1817,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 ## Avaliação Heurística - **Pedro**
 
-### Visibilidade do Status do Sistema
+### 1. Visibilidade do status do sistema
 **Verificação:**
 
 **Problema:**
@@ -1826,7 +1826,16 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Compatibilidade entre o Sistema e o Mundo Real
+### 2. Compatibilidade entre o sistema e o mundo real
+**Verificação:**
+
+**Problema:**
+
+**Grau de severidade:**
+
+**Print da tela:**
+
+### 3. Liberdade e controle do usuário
 **Verificação:**
 
 **Problema:**
@@ -1835,7 +1844,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Liberdade e Controle do Usuário
+### 4. Consistência e padrões
 **Verificação:**
 
 **Problema:**
@@ -1844,7 +1853,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Consistência e Padrões
+### 5. Prevenção contra rrros
 **Verificação:**
 
 **Problema:**
@@ -1853,7 +1862,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Prevenção Contra Erros
+### 6. Reconhecimento em lugar de lembrança
 **Verificação:**
 
 **Problema:**
@@ -1862,7 +1871,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Reconhecimento em Lugar de Lembrança
+### 7. Flexibilidade e eficiência de uso
 **Verificação:**
 
 **Problema:**
@@ -1871,7 +1880,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Flexibilidade e Eficiência de Uso
+### 8. Projeto minimalista e estético
 **Verificação:**
 
 **Problema:**
@@ -1880,7 +1889,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Projeto Minimalista e Estético
+### 9. Auxiliar os usuários a reconhecer, diagnosticar e recuperar-se de erros
 **Verificação:**
 
 **Problema:**
@@ -1889,7 +1898,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 **Print da tela:**
 
-### Auxiliar os Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros
+### 10. Ajuda e documentação
 **Verificação:**
 
 **Problema:**
@@ -1897,16 +1906,6 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 **Grau de Severidade:**
 
 **Print da tela:**
-
-### Ajuda e Documentação
-**Verificação:**
-
-**Problema:**
-
-**Grau de Severidade:**
-
-**Print da tela:**
-
 
 
 2) **INDICAÇÃO DE BOAS PRÁTICAS DE HEURÍSTICA \- HEURÍSTICAS NÃO VIOLADAS \[1 solução completa por pessoa da equipe\]**
