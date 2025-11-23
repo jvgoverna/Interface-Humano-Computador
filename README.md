@@ -1648,7 +1648,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de severidade:** Simples - 2
 
-**Print da tela:** ![](https://github.com/user-attachments/assets/5617e7f8-3274-4884-ab74-6ec5c82e29db)
+**Print da tela:** <br>![](https://github.com/user-attachments/assets/5617e7f8-3274-4884-ab74-6ec5c82e29db)
 
 ### 3. Liberdade e controle do usuário
 **Verificação:** Os usuários podem fazer o que querem quando querem?
@@ -1666,7 +1666,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de Severidade:** Sem importância - 0
 
-**Print da tela:** ![](https://github.com/user-attachments/assets/1ef598bd-bc29-4b89-b82a-2f4b6b5bf138)
+**Print da tela:** <br>![](https://github.com/user-attachments/assets/1ef598bd-bc29-4b89-b82a-2f4b6b5bf138)
 
 ### 5. Prevenção contra erros
 **Verificação:** Os usuários podem cometer erros dos quais bons projetos poderiam prevenir?
@@ -1675,7 +1675,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de Severidade:** Simples - 2
 
-**Print da tela:** ![](https://github.com/user-attachments/assets/078509f7-62c5-4536-9fa2-9971cc82deff)
+**Print da tela:** <br>![](https://github.com/user-attachments/assets/078509f7-62c5-4536-9fa2-9971cc82deff)
 
 ### 6. Reconhecimento em lugar de lembrança
 **Verificação:** Os elementos de projeto como objetos, ações e opções são possíveis? <br>
@@ -1743,7 +1743,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de severidade:** Simples - 2
 
-**Print da tela:** ![](https://github.com/user-attachments/assets/459fe130-7992-4035-a06e-93365eabca09)
+**Print da tela:** <br>![](https://github.com/user-attachments/assets/459fe130-7992-4035-a06e-93365eabca09)<br>![](https://github.com/user-attachments/assets/cb7fbfb3-7bd5-413c-a3ea-bdc1c6dfe4e5)
 
 ### 3. Liberdade e controle do usuário
 **Verificação:** Os usuários podem fazer o que querem quando querem?
@@ -1752,7 +1752,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de Severidade:** Sem importância - 0
 
-**Print da tela:** ![](https://github.com/user-attachments/assets/f7ae9c86-0cc7-4d51-befa-283272c04f75)
+**Print da tela:** <br>![](https://github.com/user-attachments/assets/f7ae9c86-0cc7-4d51-befa-283272c04f75)
 
 ### 4. Consistência e padrões
 **Verificação:** O projeto de elementos como objetos e ações tem o mesmo significado ou efeito em diferentes situações?
@@ -1761,7 +1761,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de Severidade:** Sem importância - 0
 
-**Print da tela:** ![](https://github.com/user-attachments/assets/7b5a7a35-4eec-4fd8-929b-a659b3315f8a)
+**Print da tela:** <br>![](https://github.com/user-attachments/assets/7b5a7a35-4eec-4fd8-929b-a659b3315f8a)
 
 ### 5. Prevenção contra erros
 **Verificação:** Os usuários podem cometer erros dos quais bons projetos poderiam prevenir?
@@ -1770,7 +1770,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de Severidade:** Cosmético - 1
 
-**Print da tela:** ![](https://github.com/user-attachments/assets/45fd68fb-9258-4535-9be3-82d643f93aca)
+**Print da tela:** <br>![](https://github.com/user-attachments/assets/45fd68fb-9258-4535-9be3-82d643f93aca)
 
 ### 6. Reconhecimento em lugar de lembrança
 **Verificação:** Os elementos de projeto como objetos, ações e opções são possíveis? <br>
@@ -1807,7 +1807,7 @@ O usuário é forçado a relembrar informações de uma parte do sistema para ou
 
 **Grau de Severidade:** Sem importância - 0
 
-**Print da tela:** ![](https://github.com/user-attachments/assets/4459058e-308b-4815-bacf-7714ba6e8313)
+**Print da tela:** <br>![](https://github.com/user-attachments/assets/4459058e-308b-4815-bacf-7714ba6e8313)
 
 ### 10. Ajuda e documentação
 **Verificação:** São fornecidas apropriadas informações de ajuda, e estas informações são fáceis de procurar e de focalizar nas tarefas do usuário?
