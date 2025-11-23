@@ -95,13 +95,13 @@ Nosso público-alvo são pessoas que são responsáveis legais por si mesmas e t
 
 - Plataforma digital de informações financeiras que oferece dados detalhados sobre empresas listadas na bolsa, incluindo cotações, indicadores fundamentalistas e análises de mercado. O Investidor10 organiza as informações de forma clara e acessível, permitindo ao usuário acompanhar o desempenho das ações, comparar múltiplas empresas e avaliar tendências de crescimento no curto, médio e longo prazo.
 
-![Investidor 10](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/AN%C3%81LISE%20DE%20CONCORR%C3%8ANCIA/Investidor10.jpeg)
+![Investidor10](https://github.com/user-attachments/assets/4ec51129-8b1b-4afa-8904-809a6eee98d1)
 
 • **StatusInvest [https://statusinvest.com.br/]**
 
 - Plataforma digital de análise e monitoramento de ativos financeiros, que fornece indicadores e projeções sobre a tendência de crescimento das ações em diferentes horizontes temporais.
 
-![statusInvest](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/AN%C3%81LISE%20DE%20CONCORR%C3%8ANCIA/StatusInvest.jpeg)
+![StatusInvest](https://github.com/user-attachments/assets/d3429ebe-9b55-41df-9372-6186b673f8a3)
 
 • **Corretora Rico [https://www.rico.com.vc/]**
 - Corretora digital que fornece uma plataforma de compra e venda de ativos financeiros e acompanhamento do portfólio de ativos do usuário
