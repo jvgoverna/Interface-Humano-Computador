@@ -2132,7 +2132,7 @@ Heurísticas não violadas (Felipe):
 
 ### 5. Conclusão Final
   
-  A avaliação por observação com 3 usuários (estudante, aposentado, ) mostrou que:
-  	- Houve uma boa aceitação por parte das pessoas que testaram, porém tiveram certa dificuldade para entender o que deveria ser preenchido em determinados campos da aplicação.
+  A avaliação por observação com 3 usuários (estudante, aposentado, ) mostrou que: <br>
+  	- Houve uma boa aceitação por parte das pessoas que testaram, porém tiveram certa dificuldade para entender o que deveria ser preenchido em determinados campos da aplicação. <br>
 	- Algumas pessoas não concordaram com o perfil de investimento que foi identificado.
   
