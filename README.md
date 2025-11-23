@@ -1657,7 +1657,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de Severidade:** Grave - 3
 
-**Print da tela:** ![](https://github.com/user-attachments/assets/114dbd33-de03-4dfe-96df-366d98b98db6)
+**Print da tela:** <br>![](https://github.com/user-attachments/assets/114dbd33-de03-4dfe-96df-366d98b98db6)
 
 ### 4. Consistência e padrões
 **Verificação:** O projeto de elementos como objetos e ações tem o mesmo significado ou efeito em diferentes situações?
@@ -1712,7 +1712,7 @@ O usuário é forçado a relembrar informações de uma parte do sistema para ou
 
 **Grau de Severidade:** Simples - 2
 
-**Print da tela:** ![](https://github.com/user-attachments/assets/1ce3fed2-e417-4c00-b394-6a40b88b0bdf)
+**Print da tela:** <br>![](https://github.com/user-attachments/assets/1ce3fed2-e417-4c00-b394-6a40b88b0bdf)
 
 ### 10. Ajuda e documentação
 **Verificação:** São fornecidas apropriadas informações de ajuda, e estas informações são fáceis de procurar e de focalizar nas tarefas do usuário?
@@ -1743,7 +1743,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de severidade:** Simples - 2
 
-**Print da tela:** ![]()
+**Print da tela:** ![](https://github.com/user-attachments/assets/459fe130-7992-4035-a06e-93365eabca09)
 
 ### 3. Liberdade e controle do usuário
 **Verificação:** Os usuários podem fazer o que querem quando querem?
@@ -1752,7 +1752,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de Severidade:** Sem importância - 0
 
-**Print da tela:** ![]()
+**Print da tela:** ![](https://github.com/user-attachments/assets/f7ae9c86-0cc7-4d51-befa-283272c04f75)
 
 ### 4. Consistência e padrões
 **Verificação:** O projeto de elementos como objetos e ações tem o mesmo significado ou efeito em diferentes situações?
@@ -1761,7 +1761,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de Severidade:** Sem importância - 0
 
-**Print da tela:** ![]()
+**Print da tela:** ![](https://github.com/user-attachments/assets/7b5a7a35-4eec-4fd8-929b-a659b3315f8a)
 
 ### 5. Prevenção contra erros
 **Verificação:** Os usuários podem cometer erros dos quais bons projetos poderiam prevenir?
@@ -1770,7 +1770,7 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 
 **Grau de Severidade:** Cosmético - 1
 
-**Print da tela:** ![]()
+**Print da tela:** ![](https://github.com/user-attachments/assets/45fd68fb-9258-4535-9be3-82d643f93aca)
 
 ### 6. Reconhecimento em lugar de lembrança
 **Verificação:** Os elementos de projeto como objetos, ações e opções são possíveis? <br>
@@ -1789,7 +1789,7 @@ O usuário é forçado a relembrar informações de uma parte do sistema para ou
 
 **Grau de Severidade:** Sem importância - 0
 
-**Print da tela:** ![]()
+**Print da tela:** Não há print de tela específico
 
 ### 8. Projeto minimalista e estético
 **Verificação:** Os diálogos contém informações irrelevantes ou raramente necessárias?
@@ -1807,7 +1807,7 @@ O usuário é forçado a relembrar informações de uma parte do sistema para ou
 
 **Grau de Severidade:** Sem importância - 0
 
-**Print da tela:** ![]()
+**Print da tela:** ![](https://github.com/user-attachments/assets/4459058e-308b-4815-bacf-7714ba6e8313)
 
 ### 10. Ajuda e documentação
 **Verificação:** São fornecidas apropriadas informações de ajuda, e estas informações são fáceis de procurar e de focalizar nas tarefas do usuário?
