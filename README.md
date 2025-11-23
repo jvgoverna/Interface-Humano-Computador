@@ -1729,47 +1729,46 @@ O usuário é forçado a relembrar informações de uma parte do sistema para ou
 ### 1. Visibilidade do status do sistema
 **Verificação:** Os usuários são mantidos informados sobre o progresso do sistema com apropriado feedback em um tempo razoável?
 
-**Problema:**
+**Problema:** Ao realizar o questionário não aparece nenhuma informação logo de cara alertando o usuário sua pontuação e perfil de investidor.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Simples - 2
 
-**Print da tela:**
+**Print da tela:** Não há print de tela específico
 
 ### 2. Compatibilidade entre o sistema e o mundo real
 **Verificação:** O sistema utiliza conceitos e linguagem familiar com o usuário em vez de termos orientados ao sistema? <br>
 O sistema utiliza convenções do mundo real, exibindo informações com uma ordem lógica e natural?
 
+**Problema:** Nos menus de Histórico das ações e de Previsão das ações, o nome das ações não fica com o nome completo da empresa por completo, apenas com o ticker.
 
-**Problema:**
-
-**Grau de severidade:**
+**Grau de severidade:** Simples - 2
 
 **Print da tela:**
 
 ### 3. Liberdade e controle do usuário
 **Verificação:** Os usuários podem fazer o que querem quando querem?
 
-**Problema:**
+**Problema:** Na aba de simulações não existe um botão para limpar todas as ações escolhidas e fazer uma nova simulação, sendo necessário remover uma a uma.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Sem importância - 0
 
 **Print da tela:**
 
 ### 4. Consistência e padrões
 **Verificação:** O projeto de elementos como objetos e ações tem o mesmo significado ou efeito em diferentes situações?
 
-**Problema:**
+**Problema:** Nos resultados por ação, ganhos e perdas são exibidos com sinal (+/-) e cor, mas nos totais o valor aparece apenas em verde, sem o sinal de ganho, quebrando o padrão de representação dos resultados.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Sem importância - 0
 
 **Print da tela:**
 
 ### 5. Prevenção contra erros
 **Verificação:** Os usuários podem cometer erros dos quais bons projetos poderiam prevenir?
 
-**Problema:**
+**Problema:** Na parte de simulações não existe um aviso que informe o usuário de que as recomendações só são feitas depois do usuário escolher no mínimo 3 ações para simular portfólio.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Cosmético - 1
 
 **Print da tela:**
 
@@ -1777,47 +1776,47 @@ O sistema utiliza convenções do mundo real, exibindo informações com uma ord
 **Verificação:** Os elementos de projeto como objetos, ações e opções são possíveis? <br>
 O usuário é forçado a relembrar informações de uma parte do sistema para outra?
 
-**Problema:**
+**Problema:** Ao clicar em “Refazer questionário”, todas as respostas anteriores são apagadas e o formulário é exibido em branco. O usuário não consegue ver o que havia escolhido antes e precisa lembrar e refazer todas as respostas do zero.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Grave - 3
 
-**Print da tela:**
+**Print da tela:** Não há print de tela específico
 
 ### 7. Flexibilidade e eficiência de uso
 **Verificação:** As tarefas de usuário são eficientes e podem se adaptar ao gosto do usuário em suas ações mais freqüentes ou ele utiliza atalhos?
 
-**Problema:**
+**Problema:** Nas telas de Histórico de Cotações e Acurácia das Previsões, o usuário precisa selecionar cada ação no filtro, mesmo quando ela já foi usada na simulação anterior, pois não existe atalho para carregar automaticamente os tickers já utilizados.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Sem importância - 0
 
-**Print da tela:**
+**Print da tela:** 
 
 ### 8. Projeto minimalista e estético
 **Verificação:** Os diálogos contém informações irrelevantes ou raramente necessárias?
 
-**Problema:**
+**Problema:** Nada foi encontrado.
 
-**Grau de Severidade:**
+**Grau de Severidade:** -
 
-**Print da tela:**
+**Print da tela:** Não há print de tela específico
 
 ### 9. Auxiliar os usuários a reconhecer, diagnosticar e recuperar-se de erros
 **Verificação:** As mensagens de erro são expressas em linguagem simples (sem códigos) descrevendo exatamente o problema e sugerindo uma solução?
 
-**Problema:**
+**Problema:** Na tela de login, quando o usuário digita e-mail ou senha incorretos, o sistema mostra apenas a mensagem genérica “e-mail ou senha inválidos”. Isso não deixa claro se o problema está no e-mail, na senha ou em ambos, dificultando a correção do erro.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Sem importância - 0
 
 **Print da tela:**
 
 ### 10. Ajuda e documentação
 **Verificação:** São fornecidas apropriadas informações de ajuda, e estas informações são fáceis de procurar e de focalizar nas tarefas do usuário?
 
-**Problema:**
+**Problema:** Não há documentação integrada explicando conceitos importantes, como perfil de investidor, risco, retorno estimado ou funcionamento da recomendação da IA. Isso dificulta o entendimento das funcionalidades por usuários com pouca experiência em investimentos.
 
-**Grau de Severidade:**
+**Grau de Severidade:** Grave - 3
 
-**Print da tela:**
+**Print da tela:** Não há print de tela específico
 
 
 ## Avaliação Heurística - **Pedro**
