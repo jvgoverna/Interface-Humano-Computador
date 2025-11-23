@@ -1710,7 +1710,7 @@ Heurísticas não violadas (Felipe):
 
 1) **Fluxograma de Avaliação de Usabilidade por Observação do Usuário \[1 solução por equipe\]**
 
-![fluxograma-avaliacao-usabilidade](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Fluxograma-usabilidade.png)
+![fluxograma-avaliacao-usabilidade](https://github.com/user-attachments/assets/24ad2864-b54f-4d90-b7af-296d6e31fda4)
 
 2) **DESCRIÇÃO DO PROCEDIMENTO DE PREPARAÇÃO DO TESTE \[1 solução por equipe\]**
 
