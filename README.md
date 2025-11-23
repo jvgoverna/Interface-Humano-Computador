@@ -2049,7 +2049,7 @@ Heurísticas não violadas (Felipe):
 ### 1. Perfil e Conhecimento
 
 **1.1. Qual o seu nível de experiência com investimentos em ações?**
-* Iniciante
+* Intermediário
 
 **1.2. Qual a sua tolerância a risco?**
 * Conservador (Busco máxima segurança, aceito retornos menores)
