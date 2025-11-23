@@ -105,9 +105,8 @@ Nosso público-alvo são pessoas que são responsáveis legais por si mesmas e t
 
 • **Corretora Rico [https://www.rico.com.vc/]**
 - Corretora digital que fornece uma plataforma de compra e venda de ativos financeiros e acompanhamento do portfólio de ativos do usuário
-
-![Rico](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/AN%C3%81LISE%20DE%20CONCORR%C3%8ANCIA/AppRico.jpeg)
   
+![AppRico](https://github.com/user-attachments/assets/27566076-b192-40bc-b3ac-4c22eed8c8a9)
 
 3) **Características e funcionalidades dos concorrentes:**
 
@@ -165,7 +164,8 @@ Atualmente, observa-se uma tendência no uso de aplicações móveis e web que o
 
 # Persona Pedro
 
-![Pedro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Rosto%20Pedro%20Persona.png)
+![Pedro](https://github.com/user-attachments/assets/54fc361a-cfa2-4d81-af23-389da7c8cef4)
+
 
 Atores: Pedro 
 
@@ -181,9 +181,7 @@ Pedro clonou o repositório, subiu a aplicação, preencheu o questionário de s
 
 # Persona Primária João Vitor
 
-![João](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Rosto%20Jo%C3%A3o%20Persona.png)
-
-Atores: João Vitor - "Clareza e simplicidade no investimento"
+![João](https://github.com/user-attachments/assets/5cc5dbb9-6d51-4605-a9c9-2fa3b9d6d192)
 
 João Vitor é um senhor com 65 anos de idade, pai de dois filhos, professor da rede pública do estado de São Paulo e está muito próximo de se aposentar. Ele passou muitos anos guardando dinheiro em sua poupança, e ouvindo rumores a respeito do mercado financeiro, especificamente em ações e em sua maior rentabilidade em comparação com uma poupança. Ao conhecer uma plataforma, ele criou sua conta e respondeu ao questionário de Suitability disponibilizado, e foi classificado como investidor conservador.
 
@@ -195,7 +193,8 @@ Para João, o mais importante não é acessar métricas complexas ou acompanhar 
 
 # Persona Primária Felipe Orlando
 
-![Felipe](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/Rosto%20Felipe%20Persona.png)
+![Felipe](https://github.com/user-attachments/assets/d4b94eb8-7cbd-4340-b2df-ca5b57b85624)
+
 
 Atores: Felipe Orlando - "Busca por mais conhecimento"
 
@@ -429,7 +428,8 @@ Ao final do período planejado, [3] Pedro ficou abatido ao perceber que as açõ
 # Cadastro de Usuários na plataforma
 
 **1\) HTA**
-![HTA Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA/HTA%20Cadastro.png)
+![HTA Cadastro](https://github.com/user-attachments/assets/47c3b87b-068e-4487-8292-bbb6960ec473)
+
 
 
 | Objetivos/Operações | Problemas e Recomendações | 
@@ -515,14 +515,14 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **3\) CTT**
 
-![CTT Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT/CTT%20Cadastro.png)
-# 
+![CTT Cadastro](https://github.com/user-attachments/assets/957d9a26-90eb-488d-8def-4ddbcc329f30)
 
 # Login de Usuários na plataforma
 
 **1\) HTA**
 
-![HTA Login](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA/HTA%20Login.png)
+![HTA Login](https://github.com/user-attachments/assets/e3b451f9-cdad-44d4-88db-31d0e7875e38)
+
 
 | Objetivos/Operações                                          | Problemas e Recomendações                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -661,14 +661,15 @@ GOAL 0: Cadastrar usuáro na plataforma
 
 **3\) CTT**
 
-![CTT Login](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT/CTT%20Login.png)
-# 
+![CTT Login](https://github.com/user-attachments/assets/eac9947c-90de-45f5-a6c3-d20206a1d928)
+
 
 # Simulação de investimentos na plataforma
 
 **1\) HTA**
 
-![HTA Simulacao](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/HTA/HTA%20Simulacao.png)
+![HTA Simulacao](https://github.com/user-attachments/assets/8f423daa-3fc4-4c53-9e30-8864623128a2)
+
 
 | Objetivos/Operações                                   | Problemas e Recomendações                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -764,25 +765,29 @@ GOAL 0: Cadastrar usuáro na plataforma
 		- OP.5.A.3: salvar o novo perfil e retornar à simulação com recomendações ajustadas
 **3\) CTT**
 
-![CTT Simulacao](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/CTT/CTT%20Simulacao.png)
-# 
+![CTT Simulacao](https://github.com/user-attachments/assets/91ee7a15-717b-4bbe-99ea-1a62e438b098)
+
 
 # **Entrega 6  (data) \[em andamento/concluído\]**
 
 ## Primeira Parte da Prototipação em Papel
 Essa primeira parte apresenta as primeiras 4 telas que podem ser vistas no site antes do usuário efetuar o seu login, sendo elas, pela ordem da numeração: Página de Login, Página de Cadastro, Página de Políticas da Empresa e Página de Política de Privacidade.
 
-![Prototipação em Papel 1](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PROT%C3%93TIPOS/Prot%C3%B3tipo%201.png)
+![Prototipação em Papel 1](https://github.com/user-attachments/assets/2cf97ab5-3a46-4861-a937-94648d956f11)
+
+
 
 ## Segunda Parte da Prototipação em Papel
 Essa segunda parte mostra as 4 últimas telas que podem ser vistas após o usuário efetuar o seu login dentro do site, sendo elas, pela ordem da numeração: Página de Perfil de Investidor, Página de Simulação de Investimentos, Página de Gráficos das Ações, Página do Questionário de Suitability.
 
-![Prototipação em Papel 2](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PROT%C3%93TIPOS/Prot%C3%B3tipo%202.png)
+![Prototipação em Papel 2](https://github.com/user-attachments/assets/9cfbad7b-2f8e-4103-ba37-e05086ec8679)
+
 
 ## Fluxograma da Prototipação em Papel
 As setas do fluxograma mostram para onde cada página pode levar a depender da escolha do usuário. Uma legenda de cada página é mostrada à esquerda da imagem. É bom ressaltar que após realizar o cadastro, o usuário já é redirecioando para a Página do Questionário de Suitability, não sendo necessário realizar o login.
 
-![Prototipação em Papel Fluxograma](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/PROT%C3%93TIPOS/Fluxo.png)
+![Prototipação em Papel Fluxograma](https://github.com/user-attachments/assets/54486147-4477-430f-bae1-42ed0d812d6a)
+
 
 ## Simulação de Teste de Usuário
 Durante o teste com a prototipação em papel, um usuário qualquer conseguiu entender a proposta geral do site, mas relatou problemas na parte de cadastro, ficando confuso o acesso e o retorno nas telas de “Políticas da Empresa” e “Política de Privacidade” a partir do cadastro: os links não estavam evidentes, não ficou claro se eram obrigatórios antes de prosseguir e também não identificando para onde o botão de “voltar” levava. A sensação foi de “perder-se” nessas páginas auxiliares.
@@ -1083,7 +1088,8 @@ Após a classificação **do perfil, o sistema apresenta uma nova tela ao usuár
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
-![Mapa de Objetivos João](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/mapa%20de%20objetitvos%20joao.png)
+![Mapa de Objetivos João](https://github.com/user-attachments/assets/b7b8e964-babc-4fe3-9769-dc3f212d136a)
+
 
 4) **Esquema Conceitual Geral de Signos**
 
@@ -1145,7 +1151,8 @@ Depois de verificar a lista recomendada e o ganho estimado, **Felipe clica no bo
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
-![Mapa de Objetivos Felipe](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MapaObjetivosFelipe.png)
+![Mapa de Objetivos Felipe](https://github.com/user-attachments/assets/f378bca9-ab33-456a-b98a-635682e6fa4b)
+
 
 4) **Esquema Conceitual Geral de Signos**
 
@@ -1200,7 +1207,8 @@ Antes de investir novamente, já após um ano de uso, Pedro agora tem metas dife
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
 
-![Mapa de Objetivos Pedro](https://raw.githubusercontent.com/jvgoverna/Interface-Humano-Computador/refs/heads/main/Imagens%20IHC/MapaObjetivosPedro.png)
+![Mapa de Objetivos Pedro](https://github.com/user-attachments/assets/626d7c85-ffdc-4dd5-8b8f-c679281652a0)
+
 
 4) **Esquema Conceitual Geral de Signos**
 
@@ -1328,31 +1336,31 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 
 **Nome do Cenário:**  
 **Diagrama: Cadastrar na Plataforma**
-![MOLIC Cadastrar](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Cadastrar%20Usu%C3%A1rio.png)
+![MOLIC Cadastrar](https://github.com/user-attachments/assets/11a8caae-2717-4d03-998d-ec81fc6256fe)
 
 **Diagrama: Logar na Plataforma**
 
-![MOLIC Logar](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Logar%20na%20Plataforma.png)
+![MOLIC Logar](https://github.com/user-attachments/assets/b611f194-c612-49a0-8932-e1cf873b4d36)
 
 **Diagrama: Questionário**
 
-![MOLIC Questionário](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Question%C3%A1rio.png)
+![MOLIC Questionário](https://github.com/user-attachments/assets/84da4efd-55f9-462a-ab63-a5ef633e0595)
 
-**Diagrama: Simular**
+**Diagrama: Simular Investimento**
 
-![MOLIC Simular](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20MOLIC%20Simular_Recomendar%20Investimento.png)
+![MOLIC Simular](https://github.com/user-attachments/assets/b256cf25-6d48-4657-a7a2-20682aa93405)
 
 **Diagrama: Menu Refazer Teste**
 
-![MOLIC Refazer](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Menu_%20Refazer%20Teste.png)
+![MOLIC Refazer](https://github.com/user-attachments/assets/5c2a9a63-e878-40da-a975-eb64a4b678bf)
 
 **Diagrama: Menu Histórico**
 
-![MOLIC Historico](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Menu_%20historico.png)
+![MOLIC Historico](https://github.com/user-attachments/assets/e369b4d1-231c-4baa-bdf7-6017a886c9fd)
 
 **Diagrama: Menu Previsão**
 
-![MOLIC Previsao](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Imagens%20IHC/MOLIC%20IMAGENS/Diagrama%20Molic%20Menu_Previsao.png)
+![MOLIC Previsao](https://github.com/user-attachments/assets/0ea2d18c-bfd6-4e98-8237-bf95fcb41d36)
 
 # **Entrega 11 (data) \[em andamento/concluído\]**
 
@@ -1364,29 +1372,34 @@ Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
 **Link para o FIGMA:**
 
 ## Página de Cadastro
-![Página de Cadastro](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Fotos%20TCC/Cadastro.png)
+![Página de Cadastro](https://github.com/user-attachments/assets/ae798937-e948-45a1-a3c3-bed8bfb8616a)
+
 
 ## Página de Login
-![Página de Login](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Fotos%20TCC/Login.png)
+![Página de Login](https://github.com/user-attachments/assets/16ebb668-5335-4668-bc1e-6cb65408b017)
 
 ## Políticas
-![Políticas da Empresa](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Fotos%20TCC/Pol%C3%ADticas%20da%20Empresa.png)
-![Políticas de Privacidade](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Fotos%20TCC/Pol%C3%ADticas%20de%20Privacidade.png)
+![Políticas da Empresa](https://github.com/user-attachments/assets/bd06ae5e-29ba-4a0e-ba09-226f17c54fa3)
+![Políticas de Privacidade](https://github.com/user-attachments/assets/68c7d345-6b4f-4f02-9a80-9a586041f880)
+
 
 ## Questionário de Suitability
-![Questionário de Suitability 01](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Fotos%20TCC/Question%C3%A1rio%20de%20Suitability%2001.png)
-![Questionário de Suitability 02](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Fotos%20TCC/Question%C3%A1rio%20de%20Suitability%2002.png)
-![Questionário de Suitability 03](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Fotos%20TCC/Question%C3%A1rio%20de%20Suitability%2003.png)
+![Questionário de Suitability 01](https://github.com/user-attachments/assets/01e3cb8e-e582-485d-9f6e-15d0b52408fa)
+![Questionário de Suitability 02](https://github.com/user-attachments/assets/12afc1ee-1f2b-4e27-9d27-340721e2f580)
+![Questionário de Suitability 03](https://github.com/user-attachments/assets/b74a9651-aa7b-4a05-88b0-dae058ac6515)
+
 
 ## Simulação de Ações
-![Simulação de Ações 01](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Fotos%20TCC/Simula%C3%A7%C3%A3o%20de%20A%C3%A7%C3%B5es%2001.png)
-![Simulação de Ações 02](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Fotos%20TCC/Simula%C3%A7%C3%A3o%20de%20A%C3%A7%C3%B5es%2002.png)
+![Simulação de Ações 01](https://github.com/user-attachments/assets/ea18e458-b394-4864-a650-171fc0412f83)
+![Simulação de Ações 02](https://github.com/user-attachments/assets/bf653ce8-79f1-45ca-99ac-d16558c551c9)
+
 
 ## Gráfico de Previsões
-![Gráfico de Previsões](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Fotos%20TCC/Gr%C3%A1fico%20de%20Previs%C3%B5es.png)
+![Gráfico de Previsões](https://github.com/user-attachments/assets/ee725d4d-8d5a-41c1-92c6-65edb37d7ff4)
+
 
 ## Gráfico do Histórico
-![Gráfico do Histórico](https://github.com/jvgoverna/Interface-Humano-Computador/blob/main/Fotos%20TCC/Gr%C3%A1fico%20de%20Hist%C3%B3rico.png)
+![Gráfico do Histórico](https://github.com/user-attachments/assets/9b1ca156-a56b-4507-b8bb-c49445389a76)
 
 
 
