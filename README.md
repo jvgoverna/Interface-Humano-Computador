@@ -1629,9 +1629,285 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 | 3 | Grave | Problema de alta prioridade (deve ser reparado) |
 | 4 | Catastrófico | Muito grave, deve ser reparado de qualquer forma. |
 
-**\[colocar o print\]**
+## Avaliação Heurística - **Felipe**
 
-**\[escolher a tabela de declaração de violação padrão da equipe\]**
+### Visibilidade do Status do Sistema
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Compatibilidade entre o Sistema e o Mundo Real
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Liberdade e Controle do Usuário
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Consistência e Padrões
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Prevenção Contra Erros
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Reconhecimento em Lugar de Lembrança
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Flexibilidade e Eficiência de Uso
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Projeto Minimalista e Estético
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Auxiliar os Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Ajuda e Documentação
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+
+## Avaliação Heurística - **João**
+
+### Visibilidade do Status do Sistema
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Compatibilidade entre o Sistema e o Mundo Real
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Liberdade e Controle do Usuário
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Consistência e Padrões
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Prevenção Contra Erros
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Reconhecimento em Lugar de Lembrança
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Flexibilidade e Eficiência de Uso
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Projeto Minimalista e Estético
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Auxiliar os Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Ajuda e Documentação
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+
+## Avaliação Heurística - **Pedro**
+
+### Visibilidade do Status do Sistema
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Compatibilidade entre o Sistema e o Mundo Real
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Liberdade e Controle do Usuário
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Consistência e Padrões
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Prevenção Contra Erros
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Reconhecimento em Lugar de Lembrança
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Flexibilidade e Eficiência de Uso
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Projeto Minimalista e Estético
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Auxiliar os Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+### Ajuda e Documentação
+**Verificação:**
+
+**Problema:**
+
+**Grau de Severidade:**
+
+**Print da tela:**
+
+
 
 2) **INDICAÇÃO DE BOAS PRÁTICAS DE HEURÍSTICA \- HEURÍSTICAS NÃO VIOLADAS \[1 solução completa por pessoa da equipe\]**
 
